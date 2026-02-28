@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Contact — TEDU ERU</title>
+    <meta name="description" content="Contact TED University Economics Research Union about collaborations, publications, events, and student involvement.">
+    <link rel="canonical" href="contact.html">
+    <meta name="robots" content="index,follow">
+    <meta property="og:title" content="Contact — TEDU ERU">
+    <meta property="og:description" content="Contact TED University Economics Research Union about collaborations, publications, events, and student involvement.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="contact.html">
+    <meta property="og:image" content="logo.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact — TEDU ERU">
+    <meta name="twitter:description" content="Contact TED University Economics Research Union about collaborations, publications, events, and student involvement.">
+    <meta name="twitter:image" content="logo.jpg">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        "name": "Contact — TEDU ERU",
+        "description": "Contact TED University Economics Research Union about collaborations, publications, events, and student involvement.",
+        "url": "contact.html",
+        "about": {
+            "@type": "Organization",
+            "name": "TED University Economics Research Union",
+            "email": "eru@tedu.edu.tr"
+        }
+    }
+    </script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="index.html" class="nav-brand">
+                <img src="logo.jpg" alt="TEDU ERU">
+                <span class="nav-brand-text">TED University<br>Economics Research Union</span>
+            </a>
+            <button class="nav-toggle" id="nav-toggle"><i data-lucide="menu"></i></button>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="about.html">About</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="erumag.html">ERUMAG</a></li><li><a href="blog.html">Blog</a></li>
+                <li><a href="greentalks.html">GreenTalks</a></li>
+                <li><a href="fieldtalks.html">FieldTalks</a></li>
+                <li><a href="team.html">Our Team</a></li>
+                <li><a href="contact.html" class="btn btn-outline">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <div class="container">
+            <p class="section-label">Reach Out</p>
+            <h1>Contact Us</h1>
+            <p>Have questions about ERUMAG submissions, joining FieldTalks, or partnering with us?</p>
+        </div>
+    </header>
+
+    <section class="section bg-white">
+        <div class="container reveal">
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h2>Get in Touch</h2>
+                    <p>We'd love to hear from you. Reach out and we'll get back to you promptly.</p>
+                    <div class="contact-item">
+                        <div class="icon-wrap"><i data-lucide="map-pin"></i></div>
+                        <div>
+                            <strong>TED University</strong>
+                            <span>Ziya Gökalp Caddesi No:48<br>06420, Kolej Çankaya / Ankara</span>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="icon-wrap"><i data-lucide="mail"></i></div>
+                        <div>
+                            <strong>Email</strong>
+                            <span><a href="mailto:eru@tedu.edu.tr" style="color:inherit;text-decoration:underline;">eru@tedu.edu.tr</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form-wrap">
+                    <form id="contact-form">
+                        <div class="form-group">
+                            <label for="name">Full Name</label>
+                            <input type="text" id="name" name="name" placeholder="Your name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email" placeholder="you@example.com" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" rows="5" placeholder="How can we help?" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" style="width:100%;">Open Email Draft</button>
+                        <p class="form-note" id="contact-note">Submitting opens your email app with a pre-filled message to <a href="mailto:eru@tedu.edu.tr">eru@tedu.edu.tr</a>.</p>
+                        <p class="form-status" id="contact-form-status" aria-live="polite"></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div><span class="footer-brand-text">TED University<br>Economics Research Union</span></div>
+                <div class="footer-socials">
+                    <a href="https://www.linkedin.com/company/tedueru" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a>
+                    <a href="https://www.instagram.com/erutedu/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram"><i data-lucide="instagram"></i></a>
+                    <a href="https://www.youtube.com/@TEDUERU" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="YouTube"><i data-lucide="youtube"></i></a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="year"></span> TED University Economics Research Union. All rights reserved.</p>
+                <div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a></div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>lucide.createIcons();</script>
+</body>
+
+</html>

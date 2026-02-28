@@ -1,0 +1,28 @@
+# TED University Economics Research Union
+
+This website presents the student-led work of the TED University Economics Research Union.
+
+Primary sections:
+- / : Home page with the union overview and core initiatives
+- /about.html : Mission and vision
+- /events.html : Event updates and announcement entry point
+- /erumag.html : ERUMAG publication archive
+- /blog.html : Interviews, essays, and analysis
+- /greentalks.html : Sustainability and climate-focused talks
+- /fieldtalks.html : Economics talks and seminars
+- /team.html : Board and team information
+- /contact.html : Contact information
+
+Key content types:
+- Article pages under /article-*.html
+- ERUMAG issue pages under /erumag-*.html
+- PDF issues in the site root
+
+Primary organization:
+- TED University Economics Research Union
+- Contact: eru@tedu.edu.tr
+
+External profiles:
+- LinkedIn: https://www.linkedin.com/company/tedueru
+- YouTube: https://www.youtube.com/@TEDUERU
+- Instagram: https://www.instagram.com/erutedu/

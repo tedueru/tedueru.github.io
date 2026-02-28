@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace relative URLs with the production domain before launch if your host or sitemap tooling requires absolute URLs. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>index.html</loc></url>
+  <url><loc>about.html</loc></url>
+  <url><loc>events.html</loc></url>
+  <url><loc>erumag.html</loc></url>
+  <url><loc>blog.html</loc></url>
+  <url><loc>greentalks.html</loc></url>
+  <url><loc>fieldtalks.html</loc></url>
+  <url><loc>team.html</loc></url>
+  <url><loc>contact.html</loc></url>
+  <url><loc>article-basci.html</loc></url>
+  <url><loc>article-bceao.html</loc></url>
+  <url><loc>article-dincer.html</loc></url>
+  <url><loc>article-openai.html</loc></url>
+  <url><loc>article-podcasts.html</loc></url>
+  <url><loc>article-serbest.html</loc></url>
+  <url><loc>article-syria.html</loc></url>
+  <url><loc>erumag-1.html</loc></url>
+  <url><loc>erumag-2.html</loc></url>
+  <url><loc>erumag-3.html</loc></url>
+  <url><loc>erumag-4.html</loc></url>
+</urlset>
