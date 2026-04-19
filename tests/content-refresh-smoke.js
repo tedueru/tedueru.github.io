@@ -123,7 +123,7 @@ expectIncludes('fieldtalks.html', [
   'fZozYKE4zSo',
   '1wu4VIDwBP0',
   'Dijital Dönüşüm Çağında Büyük Güç Rekabeti',
-  'Asst. Prof. Dr. Arda Gitmez',
+  'Asst. Prof. Arda Gitmez',
   'Assoc. Prof. Dr. Emre Demir',
 ]);
 
