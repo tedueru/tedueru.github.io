@@ -1,0 +1,242 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "About" [ref=e9] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e10]:
+          - link "Events" [ref=e11] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e12]:
+          - link "ERUMAG" [ref=e13] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e14]:
+          - link "Blog" [ref=e15] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e16]:
+          - link "GreenTalks" [ref=e17] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e18]:
+          - link "FieldTalks" [ref=e19] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e20]:
+          - link "Our Team" [ref=e21] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e22]:
+          - link "Advisory Board" [ref=e23] [cursor=pointer]:
+            - /url: team.html#advisory-board
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: The People Behind ERU
+      - heading "Our Team" [level=1] [ref=e29]
+      - paragraph [ref=e30]: The academics, founders, and student leaders shaping TEDU ERU's editorial and event work.
+  - link "Follow us on LinkedIn" [ref=e33] [cursor=pointer]:
+    - /url: https://www.linkedin.com/company/tedueru
+    - img [ref=e34]
+    - text: Follow us on LinkedIn
+  - generic [ref=e39]:
+    - heading "Academic Advisor & Founder" [level=2] [ref=e40]
+    - generic [ref=e41]:
+      - generic [ref=e42]: EB
+      - heading "Prof. Dr. Erdem Başçı" [level=4] [ref=e43]
+      - paragraph [ref=e44]: Academic Advisor
+      - link "LinkedIn" [ref=e45] [cursor=pointer]:
+        - /url: https://tr.linkedin.com/in/erdem-ba%C5%9F%C3%A7%C4%B1-7a1924277
+        - img [ref=e46]
+        - text: LinkedIn
+    - generic [ref=e50]:
+      - generic [ref=e51]: NY
+      - heading "Nejat Yılmaz" [level=4] [ref=e52]
+      - paragraph [ref=e53]: Founder (PhD Candidate at Colorado Boulder)
+      - link "LinkedIn" [ref=e54] [cursor=pointer]:
+        - /url: https://www.linkedin.com/in/nejat-y%C4%B1lmaz-b43580133?trk=people-guest_people_search-card
+        - img [ref=e55]
+        - text: LinkedIn
+  - generic [ref=e60]:
+    - heading "Our Team Board members and student leadership" [level=2] [ref=e61]:
+      - text: Our Team
+      - generic [ref=e62]: Board members and student leadership
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e65]: EE
+        - heading "Ezgi Eylem Erdoğan" [level=4] [ref=e66]
+        - paragraph [ref=e67]: President
+        - link "LinkedIn" [ref=e68] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/ezgi-eylem-erdo%C4%9Fan-3ab606280/
+          - img [ref=e69]
+          - text: LinkedIn
+      - generic [ref=e73]:
+        - generic [ref=e74]: AA
+        - heading "Arda Akgül" [level=4] [ref=e75]
+        - paragraph [ref=e76]: Co-Vice President
+        - link "LinkedIn" [ref=e77] [cursor=pointer]:
+          - /url: https://linkedin.com/in/ardakgul
+          - img [ref=e78]
+          - text: LinkedIn
+      - generic [ref=e82]:
+        - generic [ref=e83]: KB
+        - heading "Kerem Barbaros" [level=4] [ref=e84]
+        - paragraph [ref=e85]: Co-Vice President
+        - link "LinkedIn" [ref=e86] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/kerem-barbaros
+          - img [ref=e87]
+          - text: LinkedIn
+      - generic [ref=e91]:
+        - generic [ref=e92]: BB
+        - heading "Bengisu Başaran" [level=4] [ref=e93]
+        - paragraph [ref=e94]: Board Member
+        - link "LinkedIn" [ref=e95] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/bengisu-ba%C5%9Faran-a04324293
+          - img [ref=e96]
+          - text: LinkedIn
+      - generic [ref=e100]:
+        - generic [ref=e101]: KY
+        - heading "Kübra Yaşar" [level=4] [ref=e102]
+        - paragraph [ref=e103]: Board Member
+        - link "LinkedIn" [ref=e104] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/k%C3%BCbra-ya%C5%9Far-900ba5273
+          - img [ref=e105]
+          - text: LinkedIn
+      - generic [ref=e109]:
+        - generic [ref=e110]: SK
+        - heading "Sıla Khadaroo" [level=4] [ref=e111]
+        - paragraph [ref=e112]: Board Member
+        - link "LinkedIn" [ref=e113] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/sila-khadaroo-8942b4343
+          - img [ref=e114]
+          - text: LinkedIn
+      - generic [ref=e118]:
+        - generic [ref=e119]: MY
+        - heading "Mert Yüce" [level=4] [ref=e120]
+        - paragraph [ref=e121]: Alternate Board Member
+        - link "LinkedIn" [ref=e122] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/mert-y%C3%BCce-998a89246
+          - img [ref=e123]
+          - text: LinkedIn
+      - generic [ref=e127]:
+        - generic [ref=e128]: OE
+        - heading "Oumaima Ez-Zebayry" [level=4] [ref=e129]
+        - paragraph [ref=e130]: Alternate Board Member
+        - link "LinkedIn" [ref=e131] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/oumaima-ez-zebayry-212162263
+          - img [ref=e132]
+          - text: LinkedIn
+      - generic [ref=e136]:
+        - generic [ref=e137]: AO
+        - heading "Alperen Özdemir" [level=4] [ref=e138]
+        - paragraph [ref=e139]: Chairperson of the Audit Committee
+        - link "LinkedIn" [ref=e140] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/alperen-%C3%B6zdemir-143a3b216/en?trk=people-guest_people_search-card
+          - img [ref=e141]
+          - text: LinkedIn
+      - generic [ref=e145]:
+        - generic [ref=e146]: ST
+        - heading "Sude Türkmen" [level=4] [ref=e147]
+        - paragraph [ref=e148]: Audit Committee Member
+        - link "LinkedIn" [ref=e149] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/sude-t%C3%BCrkmen-1a5bb0329
+          - img [ref=e150]
+          - text: LinkedIn
+      - generic [ref=e154]:
+        - generic [ref=e155]: ZK
+        - heading "Zehra Karalar" [level=4] [ref=e156]
+        - paragraph [ref=e157]: Audit Committee Member
+        - link "LinkedIn" [ref=e158] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/zehra-karalar-a752a828a
+          - img [ref=e159]
+          - text: LinkedIn
+      - generic [ref=e163]:
+        - generic [ref=e164]: FT
+        - heading "Fazilet Defne Tokdemir" [level=4] [ref=e165]
+        - paragraph [ref=e166]: Audit Committee Member
+        - link "LinkedIn" [ref=e167] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/defne-tokdemir-440828321?trk=public_post_feed-actor-name
+          - img [ref=e168]
+          - text: LinkedIn
+      - generic [ref=e172]:
+        - generic [ref=e173]: YA
+        - heading "Yusuf Arda Arslanoğlu" [level=4] [ref=e174]
+        - paragraph [ref=e175]: Audit Committee Member
+        - link "LinkedIn" [ref=e176] [cursor=pointer]:
+          - /url: https://tr.linkedin.com/in/yusuf-arda-arslano%C4%9Flu-8a8523298
+          - img [ref=e177]
+          - text: LinkedIn
+  - generic [ref=e182]:
+    - heading "Advisory Board" [level=2] [ref=e183]
+    - paragraph [ref=e184]: The Advisory Board supports the executive team on strategy, continuity, and execution across ERU's projects and operations.
+    - generic [ref=e185]:
+      - generic [ref=e186]:
+        - generic [ref=e187]: KY
+        - heading "Kerem Yürekli" [level=4] [ref=e188]
+        - paragraph [ref=e189]: Advisory Board Member
+        - link "LinkedIn" [ref=e190] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/keremyurekli/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B8ADuXS3BRQ6Ha1xvTBU0Zw%3D%3D
+          - img [ref=e191]
+          - text: LinkedIn
+      - generic [ref=e195]:
+        - generic [ref=e196]: NY
+        - heading "Nejat Yılmaz" [level=4] [ref=e197]
+        - paragraph [ref=e198]: Advisory Board Member
+        - link "LinkedIn" [ref=e199] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/nejat-y%C4%B1lmaz-b43580133/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B8ADuXS3BRQ6Ha1xvTBU0Zw%3D%3D
+          - img [ref=e200]
+          - text: LinkedIn
+      - generic [ref=e204]:
+        - generic [ref=e205]: GB
+        - heading "Gökçe Başaran" [level=4] [ref=e206]
+        - paragraph [ref=e207]: Advisory Board Member
+        - link "LinkedIn" [ref=e208] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/gokcenurbasaran/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B8ADuXS3BRQ6Ha1xvTBU0Zw%3D%3D
+          - img [ref=e209]
+          - text: LinkedIn
+      - generic [ref=e213]:
+        - generic [ref=e214]: MB
+        - heading "Mustafa Boydaş" [level=4] [ref=e215]
+        - paragraph [ref=e216]: Advisory Board Member
+        - link "LinkedIn" [ref=e217] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/mustafaboydas/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B8ADuXS3BRQ6Ha1xvTBU0Zw%3D%3D
+          - img [ref=e218]
+          - text: LinkedIn
+      - generic [ref=e222]:
+        - generic [ref=e223]: OA
+        - heading "Orkun Apaydın" [level=4] [ref=e224]
+        - paragraph [ref=e225]: Advisory Board Member
+        - link "LinkedIn" [ref=e226] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/mehmet-orkun-apayd%C4%B1n-3b01251b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B8ADuXS3BRQ6Ha1xvTBU0Zw%3D%3D
+          - img [ref=e227]
+          - text: LinkedIn
+  - contentinfo [ref=e231]:
+    - generic [ref=e232]:
+      - generic [ref=e233]:
+        - generic [ref=e234]:
+          - generic [ref=e235]:
+            - text: TED University
+            - text: Economics Research Union
+          - paragraph [ref=e236]: Student-led economic research, publishing, and events.
+        - generic [ref=e237]:
+          - link "LinkedIn" [ref=e238] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+            - img [ref=e239]
+          - link "Instagram" [ref=e243] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+            - img [ref=e244]
+          - link "YouTube" [ref=e247] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+            - img [ref=e248]
+      - generic [ref=e250]:
+        - paragraph [ref=e251]: © 2026 TED University Economics Research Union. All rights reserved.
+        - generic [ref=e252]:
+          - link "About" [ref=e253] [cursor=pointer]:
+            - /url: about.html
+          - link "Contact" [ref=e254] [cursor=pointer]:
+            - /url: contact.html

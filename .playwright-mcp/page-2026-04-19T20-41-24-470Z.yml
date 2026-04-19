@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - button [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "About" [ref=e11] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e14]:
+          - link "ERUMAG" [ref=e15] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e16]:
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e18]:
+          - link "GreenTalks" [ref=e19] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e20]:
+          - link "FieldTalks" [ref=e21] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e22]:
+          - link "Our Team" [ref=e23] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: 🎙️ Economics Deep-Dives
+      - heading "FieldTalks" [level=1] [ref=e29]
+      - paragraph [ref=e30]: Conversations with economists and experts on economic matters — exploring theory, policy, and real-world applications.
+      - paragraph [ref=e31]:
+        - text: Prepared by
+        - strong [ref=e32]: Ezgi Eylem Erdoğan
+        - text: "&"
+        - strong [ref=e33]: Arda Akgül
+        - text: · Recorded & published by
+        - link "RadioTEDU" [ref=e34] [cursor=pointer]:
+          - /url: https://radiotedu.com
+  - generic [ref=e36]:
+    - paragraph [ref=e37]: Latest First
+    - heading "All Episodes & Seminars" [level=2] [ref=e38]
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - img [ref=e43]
+        - paragraph [ref=e45]: Apr 19, 2026 · Seminar
+      - heading "Political Economy, Institutions and Technology" [level=3] [ref=e46]
+      - paragraph [ref=e47]:
+        - strong [ref=e48]: "Speaker:"
+        - text: Asst. Prof. Arda Gitmez
+      - paragraph [ref=e49]: A FieldTalks seminar on political economy, institutions, and technology, recorded and published by TEDU ERU and RadioTEDU.
+      - link "Political Economy, Institutions and Technology" [ref=e51] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=SK42iFAkiTc
+        - img "Political Economy, Institutions and Technology" [ref=e52]
+      - link "Watch on YouTube" [ref=e54] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=SK42iFAkiTc
+        - img [ref=e55]
+        - text: Watch on YouTube
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - img [ref=e61]
+        - paragraph [ref=e64]: Apr 19, 2026 · Seminar
+      - heading "Politik İktisat, Kurumlar ve Teknoloji" [level=3] [ref=e65]
+      - paragraph [ref=e66]:
+        - strong [ref=e67]: "Speaker:"
+        - text: Dr. Öğr. Üyesi Arda Gitmez
+      - paragraph [ref=e68]: FieldTalks returns in Turkish with a conversation on institutions, political economy, and the technological forces changing economic outcomes.
+      - link "Politik İktisat, Kurumlar ve Teknoloji" [ref=e70] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=jnmfwkMo4i4
+        - img "Politik İktisat, Kurumlar ve Teknoloji" [ref=e71]
+      - link "Watch on YouTube" [ref=e73] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=jnmfwkMo4i4
+        - img [ref=e74]
+        - text: Watch on YouTube
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - img [ref=e80]
+        - paragraph [ref=e82]: Apr 2, 2026 · Seminar
+      - heading "Akıllı Üretim Sistemleri ve Küresel Dönüşümler" [level=3] [ref=e83]
+      - paragraph [ref=e84]:
+        - strong [ref=e85]: "Speaker:"
+        - text: Prof. Dr. Erkan Erdil
+      - paragraph [ref=e86]: A FieldTalks seminar focused on smart production systems, industrial transformation, and the wider macroeconomic implications of technological change.
+      - link "Akıllı Üretim Sistemleri ve Küresel Dönüşümler" [ref=e88] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=fZozYKE4zSo
+        - img "Akıllı Üretim Sistemleri ve Küresel Dönüşümler" [ref=e89]
+      - link "Watch on YouTube" [ref=e91] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=fZozYKE4zSo
+        - img [ref=e92]
+        - text: Watch on YouTube
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - img [ref=e98]
+        - paragraph [ref=e103]: Dec 27, 2025 · Seminar
+      - heading "Dijital Dönüşüm Çağında Büyük Güç Rekabeti" [level=3] [ref=e104]
+      - paragraph [ref=e105]:
+        - strong [ref=e106]: "Speakers:"
+        - text: Doç. Dr. Emre Demir and Dr. Berkay Orhaner
+      - paragraph [ref=e107]: A FieldTalks discussion on great power competition in the age of digital transformation and the geopolitical economy behind it.
+      - link "Dijital Dönüşüm Çağında Büyük Güç Rekabeti" [ref=e109] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=1wu4VIDwBP0
+        - img "Dijital Dönüşüm Çağında Büyük Güç Rekabeti" [ref=e110]
+      - link "Watch on YouTube" [ref=e112] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=1wu4VIDwBP0
+        - img [ref=e113]
+        - text: Watch on YouTube
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - img [ref=e119]
+        - paragraph [ref=e122]: Dec 22, 2025 · Seminar
+      - heading "Finansal Okuryazarlık" [level=3] [ref=e123]
+      - paragraph [ref=e124]:
+        - strong [ref=e125]: "Speaker:"
+        - text: Prof. Dr. Tolga Omay
+      - paragraph [ref=e126]: Finansal ekonomi, yatırım stratejileri ve finansal okuryazarlık. Türkiye'deki tasarruf alışkanlıkları, makro ekonomik faktörler ve yapay zekanın gelecekteki rolü.
+      - link "Finansal Okuryazarlık" [ref=e128] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=Q32krpb3Oik
+        - img "Finansal Okuryazarlık" [ref=e129]
+      - link "Watch on YouTube" [ref=e131] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=Q32krpb3Oik
+        - img [ref=e132]
+        - text: Watch on YouTube
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - img [ref=e138]
+        - paragraph [ref=e140]: Dec 22, 2025 · Seminar
+      - heading "Türkiye Ekonomisinin Sorunları ve Ekonomi Programı Tasarımı" [level=3] [ref=e141]
+      - paragraph [ref=e142]:
+        - strong [ref=e143]: "Speaker:"
+        - text: Prof. Dr. Fatih Özatay
+      - paragraph [ref=e144]: Türkiye ekonomisinin mevcut sorunları, enflasyon, mali politikalar, kriz yönetimi ve yabancı yatırımlar. Merkez Bankası'nın rolü ve verimlilik sorunları.
+      - link "Türkiye Ekonomisi" [ref=e146] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=u5DZ0mjDISA
+        - img "Türkiye Ekonomisi" [ref=e147]
+      - link "Watch on YouTube" [ref=e149] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=u5DZ0mjDISA
+        - img [ref=e150]
+        - text: Watch on YouTube
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - img [ref=e156]
+        - paragraph [ref=e158]: Nov 16, 2025 · Seminar (Podcast)
+      - heading "Ekonometrinin Dünü, Bugünü ve Yarını" [level=3] [ref=e159]
+      - paragraph [ref=e160]:
+        - strong [ref=e161]: "Speaker:"
+        - text: Dr. Savaş Gayaker
+      - paragraph [ref=e162]: Ekonometri tanımı, akademik kariyer, veri analizi, yapay zeka ile ilişkisi ve gelecekteki gelişmeler üzerine söyleşi.
+      - link "Ekonometri" [ref=e164] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=--mKQmzX0FM
+        - img "Ekonometri" [ref=e165]
+      - link "Watch on YouTube" [ref=e167] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=--mKQmzX0FM
+        - img [ref=e168]
+        - text: Watch on YouTube
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - img [ref=e174]
+        - paragraph [ref=e176]: Oct 29, 2025 · FieldTalks Ep. 6 (Podcast)
+      - heading "29 Ekim Cumhuriyet Bayramı Özel Programı" [level=3] [ref=e177]
+      - paragraph [ref=e178]:
+        - strong [ref=e179]: "Guest:"
+        - text: Dr. Serdar Şahinkaya
+      - paragraph [ref=e180]: FieldTalks podcastinin altıncı bölümünde Dr. Serdar Şahinkaya, Türkiye Cumhuriyeti'nin kurulmasından sonraki iktisadi süreçleri ele alıyor.
+      - link "29 Ekim Özel" [ref=e182] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=jDy6dzSZTL4
+        - img "29 Ekim Özel" [ref=e183]
+      - link "Watch on YouTube" [ref=e185] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=jDy6dzSZTL4
+        - img [ref=e186]
+        - text: Watch on YouTube
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - img [ref=e192]
+        - paragraph [ref=e200]: Jun 21, 2025 · FieldTalks Ep. 5 (Podcast)
+      - heading "Oyun Teorisi" [level=3] [ref=e201]
+      - paragraph [ref=e202]:
+        - strong [ref=e203]: "Guest:"
+        - text: Dr. Günnur Ege Bilgin
+      - paragraph [ref=e204]: Oyun Teorisi üzerine sorular yanıtlanıyor. Stratejik karar alma, Nash dengesi ve ekonomik uygulamalar tartışılıyor.
+      - link "Oyun Teorisi" [ref=e206] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=C7NrFdn_nMY
+        - img "Oyun Teorisi" [ref=e207]
+      - link "Watch on YouTube" [ref=e209] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=C7NrFdn_nMY
+        - img [ref=e210]
+        - text: Watch on YouTube
+    - generic [ref=e213]:
+      - generic [ref=e214]:
+        - img [ref=e216]
+        - paragraph [ref=e219]: May 25, 2025 · FieldTalks Ep. 4 (Podcast)
+      - heading "Yapay Zeka Ekonomisi" [level=3] [ref=e220]
+      - paragraph [ref=e221]:
+        - strong [ref=e222]: "Guest:"
+        - text: Prof. Dr. Altuğ Yalçıntaş
+      - paragraph [ref=e223]: Yapay Zeka ve Yapay Zeka Ekonomisi konuları. AI'nin ekonomik yapılanma ve iş gücü üzerindeki etkileri.
+      - link "Yapay Zeka Ekonomisi" [ref=e225] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=g85Vn86bpCk
+        - img "Yapay Zeka Ekonomisi" [ref=e226]
+      - link "Watch on YouTube" [ref=e228] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=g85Vn86bpCk
+        - img [ref=e229]
+        - text: Watch on YouTube
+    - generic [ref=e232]:
+      - generic [ref=e233]:
+        - img [ref=e235]
+        - paragraph [ref=e237]: May 19, 2025 · Special
+      - heading "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı" [level=3] [ref=e238]
+      - paragraph [ref=e239]: Kurtuluş Mücadelesi ve Cumhuriyet mirası üzerine özel bir program.
+      - link "19 Mayıs" [ref=e241] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=vnpnltJQ8tY
+        - img "19 Mayıs" [ref=e242]
+      - link "Watch on YouTube" [ref=e244] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=vnpnltJQ8tY
+        - img [ref=e245]
+        - text: Watch on YouTube
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - img [ref=e251]
+        - paragraph [ref=e253]: Apr 13, 2025 · FieldTalks Ep. 3 (Podcast)
+      - heading "Gazi Mustafa Kemal Paşa'nın Halkçılık Programı" [level=3] [ref=e254]
+      - paragraph [ref=e255]:
+        - strong [ref=e256]: "Guest:"
+        - text: Dr. Serdar Şahinkaya
+      - paragraph [ref=e257]: Gazi Mustafa Kemal'in Halkçılık Programı. Cumhuriyet'in erken dönemindeki ekonomi politikaları.
+      - link "Halkçılık Programı" [ref=e259] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=XNNvOeOiNC8
+        - img "Halkçılık Programı" [ref=e260]
+      - link "Watch on YouTube" [ref=e262] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=XNNvOeOiNC8
+        - img [ref=e263]
+        - text: Watch on YouTube
+    - generic [ref=e266]:
+      - generic [ref=e267]:
+        - img [ref=e269]
+        - paragraph [ref=e273]: Mar 19, 2025 · FieldTalks Ep. 2 (Podcast)
+      - heading "Eşleşme Teorisi ve Piyasa Tasarımı" [level=3] [ref=e274]
+      - paragraph [ref=e275]:
+        - strong [ref=e276]: "Guest:"
+        - text: Dr. Günnur Ege Bilgin
+      - paragraph [ref=e277]: Eşleşme Teorisi ve Piyasa Tasarımı üzerine söyleşi. Mekanizma tasarımı ve ekonomik eşleşme problemleri.
+      - link "Eşleşme Teorisi" [ref=e279] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=4IB9d0OkYUA
+        - img "Eşleşme Teorisi" [ref=e280]
+      - link "Watch on YouTube" [ref=e282] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=4IB9d0OkYUA
+        - img [ref=e283]
+        - text: Watch on YouTube
+  - contentinfo [ref=e286]:
+    - generic [ref=e287]:
+      - generic [ref=e288]:
+        - generic [ref=e290]:
+          - text: TED University
+          - text: Economics Research Union
+        - generic [ref=e291]:
+          - link "LinkedIn" [ref=e292] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+            - img [ref=e293]
+          - link "YouTube" [ref=e297] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+            - img [ref=e298]
+          - link "Instagram" [ref=e300] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+            - img [ref=e301]
+      - paragraph [ref=e305]: © 2026 TED University Economics Research Union. All rights reserved.

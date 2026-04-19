@@ -1,0 +1,264 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Log In" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fp%2FDVdhxG-jA_1%2F&source=desktop_nav
+      - link "Sign Up" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - dialog [ref=e34]:
+      - generic [ref=e35]:
+        - button "Close" [ref=e37] [cursor=pointer]:
+          - img "Close" [ref=e39]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - link "erutedu's profile picture" [ref=e46] [cursor=pointer]:
+              - img "erutedu's profile picture" [ref=e47]
+            - generic [ref=e49]:
+              - generic [ref=e50]: Never miss a post from erutedu
+              - generic [ref=e52]: Sign up for Instagram to stay in the loop.
+          - generic [ref=e53]:
+            - link "Sign up" [ref=e56] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Log in" [ref=e59] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=e60]:
+      - generic [ref=e62]:
+        - button [ref=e67]:
+          - generic [ref=e74]:
+            - list [ref=e76]:
+              - listitem [ref=e77]
+              - listitem [ref=e78]:
+                - generic [ref=e83] [cursor=pointer]:
+                  - button [ref=e84]:
+                    - img [ref=e86]
+                  - button [ref=e89]:
+                    - img [ref=e91]
+              - listitem [ref=e93]:
+                - img [ref=e100]
+            - button [ref=e102] [cursor=pointer]
+        - generic [ref=e105]:
+          - generic [ref=e107]:
+            - generic [ref=e109]:
+              - link "tedusca's profile picture" [ref=e110]:
+                - img "tedusca's profile picture" [ref=e111]
+              - link "erutedu's profile picture" [ref=e114]:
+                - img "erutedu's profile picture" [ref=e115]
+            - generic [ref=e120]:
+              - link "erutedu" [ref=e122] [cursor=pointer]:
+                - /url: /erutedu/
+                - generic [ref=e125]: erutedu
+              - text: and
+              - link "3 others" [ref=e127] [cursor=pointer]:
+                - /url: "#"
+            - button "More options" [ref=e130] [cursor=pointer]:
+              - img "More options" [ref=e133]
+          - separator [ref=e137]
+          - generic [ref=e139]:
+            - generic [ref=e141]:
+              - link "erutedu's profile picture" [ref=e143] [cursor=pointer]:
+                - /url: /erutedu/
+                - img "erutedu's profile picture" [ref=e144]
+              - generic [ref=e148]:
+                - generic [ref=e149]:
+                  - link "erutedu" [ref=e150] [cursor=pointer]:
+                    - /url: /erutedu/
+                    - generic [ref=e153]: erutedu
+                  - generic [ref=e154]: Edited
+                  - generic [ref=e155]: •
+                  - time [ref=e157]: 6w
+                - generic [ref=e158]:
+                  - text: We are so grateful to Italian Ambassador Giuseppe Manzo and his delegation for joining us at TEDU to discuss the future of our planet. 🌍
+                  - text: "Thank you to everyone who participated in our “Toward COP31: Youth for Energy Transition and Climate Change” seminar. 🌱"
+                  - text: 👇
+                  - text: ERU ailesi olarak İtalya Büyükelçisi Sayın Giuseppe Manzo ve değerli heyetini TEDÜ’de ağırlamaktan büyük onur duyduk! 🌍
+                  - text: "“COP31’e Doğru: Enerji Dönüşümü ve İklim Değişikliği İçin Gençlik” seminerimize katılan herkese teşekkür ederiz. Sürdürülebilir bir geleceği hep birlikte şekillendiriyoruz! 🌱"
+            - button "Load more comments" [ref=e160] [cursor=pointer]:
+              - img "Load more comments" [ref=e162]
+          - generic [ref=e164]:
+            - generic [ref=e165]:
+              - generic [ref=e166]:
+                - button "Like" [ref=e169] [cursor=pointer]:
+                  - img "Like" [ref=e172]
+                - button "408" [ref=e174] [cursor=pointer]
+                - button "Share" [ref=e175] [cursor=pointer]:
+                  - img "Share" [ref=e176]
+              - button "Save" [ref=e180] [cursor=pointer]:
+                - img "Save" [ref=e182]
+            - link "March 4" [ref=e186] [cursor=pointer]:
+              - /url: /erutedu/p/DVdhxG-jA_1/
+              - time [ref=e188]: March 4
+      - separator [ref=e190]
+      - generic [ref=e191]:
+        - generic [ref=e193]:
+          - text: More posts from
+          - link "erutedu" [ref=e194] [cursor=pointer]:
+            - /url: /erutedu/
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - link "Photo by TEDU Economics Research Union in TED Üniversitesi." [ref=e200] [cursor=pointer]:
+              - /url: /erutedu/p/CzyYpMdIykR/
+              - img "Photo by TEDU Economics Research Union in TED Üniversitesi." [ref=e203]
+            - link "Dear ERU Family, We were honored to host Dr. Arda Gitmez for an insightful seminar on “Political Economy, Institutions, and Technology.” It was a privilege to hear his perspectives and engage in such a high-level academic discussion. Following the seminar, we welcomed Dr. Gitmez to the RadioTEDU studios to record a new episode of FieldTalks. We look forward to sharing this valuable conversation with you soon. We extend our sincere thanks to Dr. Arda Gitmez for his participation and to all our attendees for their interest. @tedusca Carousel" [ref=e206] [cursor=pointer]:
+              - /url: /erutedu/p/DXO3slCDIpj/
+              - img "Dear ERU Family, We were honored to host Dr. Arda Gitmez for an insightful seminar on “Political Economy, Institutions, and Technology.” It was a privilege to hear his perspectives and engage in such a high-level academic discussion. Following the seminar, we welcomed Dr. Gitmez to the RadioTEDU studios to record a new episode of FieldTalks. We look forward to sharing this valuable conversation with you soon. We extend our sincere thanks to Dr. Arda Gitmez for his participation and to all our attendees for their interest. @tedusca" [ref=e209]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "Photo shared by TEDÜ Ekonomi-Finans Topluluğu on April 14, 2026 tagging @universityted, @tedusca, and @erutedu. May be an image of ‎poster and ‎text that says \"‎TÜYİD Gençlere Yatırımcı ilişkileriniAnlatıyor İlişkilerini Anlatıyor oOOHHHH- החרק ឥតដវ םםםם DODD tuyidtn tuyid relations society turkish investor 21 Nisan Salı 14:00 Çok Amaçlı ÇokAmaçlı ÇokAmaçlSalon Sa on Feyza Özdemir Astor Enerji Yatırımcı İlişkileri Müdürű Prof.Dr. Levent Akdeniz TED Üniversitesi İİBF Dekanı TEDU EFS Gülru Selçuk Filiz Aselsan Yatırımci İlişkileri Baş Ekip Lideri @teduefs ERU @erutedu‎\"‎‎." [ref=e212] [cursor=pointer]:
+              - /url: /teduefs/p/DXG7CWmiDZA/
+              - img "Photo shared by TEDÜ Ekonomi-Finans Topluluğu on April 14, 2026 tagging @universityted, @tedusca, and @erutedu. May be an image of ‎poster and ‎text that says \"‎TÜYİD Gençlere Yatırımcı ilişkileriniAnlatıyor İlişkilerini Anlatıyor oOOHHHH- החרק ឥតដវ םםםם DODD tuyidtn tuyid relations society turkish investor 21 Nisan Salı 14:00 Çok Amaçlı ÇokAmaçlı ÇokAmaçlSalon Sa on Feyza Özdemir Astor Enerji Yatırımcı İlişkileri Müdürű Prof.Dr. Levent Akdeniz TED Üniversitesi İİBF Dekanı TEDU EFS Gülru Selçuk Filiz Aselsan Yatırımci İlişkileri Baş Ekip Lideri @teduefs ERU @erutedu‎\"‎‎." [ref=e215]
+          - generic [ref=e217]:
+            - 'link "As TEDU Economics Research Union, we are delighted to host Dr. Arda Gitmez for our *EconTalks for Everyone* series. In this talk, titled “Political Economy, Institutions, and Technology,” key issues at the intersection of political economy, institutions, and technology will be discussed in an engaging and accessible way. 📍 Location: D030 🗓 Date: 15 April 2026 ⏰ Time: 13.00 🔴 This event is recognized as a TEDU400 Seminar. 📌 The talk will be conducted in English. We look forward to welcoming all students and everyone interested! ✨ Carousel" [ref=e219] [cursor=pointer]':
+              - /url: /erutedu/p/DXEnqc7DGUL/
+              - 'img "As TEDU Economics Research Union, we are delighted to host Dr. Arda Gitmez for our *EconTalks for Everyone* series. In this talk, titled “Political Economy, Institutions, and Technology,” key issues at the intersection of political economy, institutions, and technology will be discussed in an engaging and accessible way. 📍 Location: D030 🗓 Date: 15 April 2026 ⏰ Time: 13.00 🔴 This event is recognized as a TEDU400 Seminar. 📌 The talk will be conducted in English. We look forward to welcoming all students and everyone interested! ✨" [ref=e222]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - 'link "Sanayinin geleceği ve küresel ekonomi nereye gidiyor? 🌍🏭 ODTÜ İktisat Bölümü’nden Prof. Dr. Erkan Erdil hocamızı ağırlayacağımız “Akıllı Üretim Sistemleri ve Küresel Dönüşümler” başlıklı seminerimizde buluşuyoruz! Teknolojik dönüşümün üretim süreçlerini ve küresel rekabeti nasıl baştan aşağı şekillendirdiğini hep birlikte keşfedeceğiz. Gelin, geleceğin ekonomisini bugünden konuşalım! Etkinliğimiz TEDU 400 kapsamındadır! 📅 Tarih: 31 Mart Salı ⏰ Saat: 20.00 📍 Yer: Online (Google Meet) 🗣️ Dil: Türkçe 🔗 Katılım linki profilimizde (Bio’da)! Carousel" [ref=e225] [cursor=pointer]':
+              - /url: /erutedu/p/DWbndixDGOB/
+              - 'img "Sanayinin geleceği ve küresel ekonomi nereye gidiyor? 🌍🏭 ODTÜ İktisat Bölümü’nden Prof. Dr. Erkan Erdil hocamızı ağırlayacağımız “Akıllı Üretim Sistemleri ve Küresel Dönüşümler” başlıklı seminerimizde buluşuyoruz! Teknolojik dönüşümün üretim süreçlerini ve küresel rekabeti nasıl baştan aşağı şekillendirdiğini hep birlikte keşfedeceğiz. Gelin, geleceğin ekonomisini bugünden konuşalım! Etkinliğimiz TEDU 400 kapsamındadır! 📅 Tarih: 31 Mart Salı ⏰ Saat: 20.00 📍 Yer: Online (Google Meet) 🗣️ Dil: Türkçe 🔗 Katılım linki profilimizde (Bio’da)!" [ref=e228]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "Photo shared by TEDU Economics Research Union on March 18, 2026 tagging @tedusca. May be an image of poster, military uniform and text that says \"ÇANAKKALE yertme 18 Man Mart1915 1915 Türk milletinin bağımsızlık aşkını yüreğinde taşıyan, cesaretiyle etiyle millete umut olan Gazi Mustafa KemalAtatürk'üve Kemal Atatürk'ü bu vatan için canlarını feda eden aziz şehitlerimizi rahmet, minnet ve sonsuz saygıyla anıyoruz. TEDU ERU EH\"." [ref=e231] [cursor=pointer]:
+              - /url: /erutedu/p/DWBpywbDKBN/
+              - img "Photo shared by TEDU Economics Research Union on March 18, 2026 tagging @tedusca. May be an image of poster, military uniform and text that says \"ÇANAKKALE yertme 18 Man Mart1915 1915 Türk milletinin bağımsızlık aşkını yüreğinde taşıyan, cesaretiyle etiyle millete umut olan Gazi Mustafa KemalAtatürk'üve Kemal Atatürk'ü bu vatan için canlarını feda eden aziz şehitlerimizi rahmet, minnet ve sonsuz saygıyla anıyoruz. TEDU ERU EH\"." [ref=e234]
+          - generic [ref=e236]:
+            - link "Eşitlik ertelenemez! Bugün TEDÜ ERU ekibi olarak ODTÜ'de düzenlenen İBKİ (İktisat Biliminde Kadın İnisiyatifi) Konferansı'ndaydık. Sayın Ayça Tekin-Koru hocamızın ilham veren açılış konuşmasıyla başlayan; sayın Nazire Nergiz Dinçer hocamızın katkılarda bulunduğu değerli, harika bir etkinlikti. Emeği geçen herkese teşekkürler! ✨ Equality cannot be postponed! Today, as the TEDU ERU team, we were at the İBKİ (Women's Initiative in Economic Science) Conference held at METU. It was a great event that started with the inspiring opening speech of our teacher Ayça Tekin-Koru and contributed by our teacher Nazire Nergiz Dinçer. Thank you to everyone who contributed! ✨ @universityted @tedusca Carousel" [ref=e238] [cursor=pointer]:
+              - /url: /erutedu/p/DV9GqfPjCh5/
+              - img "Eşitlik ertelenemez! Bugün TEDÜ ERU ekibi olarak ODTÜ'de düzenlenen İBKİ (İktisat Biliminde Kadın İnisiyatifi) Konferansı'ndaydık. Sayın Ayça Tekin-Koru hocamızın ilham veren açılış konuşmasıyla başlayan; sayın Nazire Nergiz Dinçer hocamızın katkılarda bulunduğu değerli, harika bir etkinlikti. Emeği geçen herkese teşekkürler! ✨ Equality cannot be postponed! Today, as the TEDU ERU team, we were at the İBKİ (Women's Initiative in Economic Science) Conference held at METU. It was a great event that started with the inspiring opening speech of our teacher Ayça Tekin-Koru and contributed by our teacher Nazire Nergiz Dinçer. Thank you to everyone who contributed! ✨ @universityted @tedusca" [ref=e241]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "8 Mart Dünya Emekçi Kadınlar Günü kutlu olsun. Bugün, kadınların emeğini, bilgisini, üretimini ve toplumsal dönüşüme sunduğu katkıyı bir kez daha saygıyla hatırlıyoruz. Ekonomiden akademiye, kamusal hayattan gündelik yaşama kadar her alanda kadınların eşit temsili yalnızca bir hak meselesi değil, daha adil ve daha güçlü bir toplumun da temel koşuludur. ERU ailesi olarak eşitliğin, dayanışmanın ve umudun büyüdüğü yarınlara inanıyoruz. 💜 @universityted @tedusca Carousel" [ref=e244] [cursor=pointer]:
+              - /url: /erutedu/p/DVnqMMgjOwv/
+              - img "8 Mart Dünya Emekçi Kadınlar Günü kutlu olsun. Bugün, kadınların emeğini, bilgisini, üretimini ve toplumsal dönüşüme sunduğu katkıyı bir kez daha saygıyla hatırlıyoruz. Ekonomiden akademiye, kamusal hayattan gündelik yaşama kadar her alanda kadınların eşit temsili yalnızca bir hak meselesi değil, daha adil ve daha güçlü bir toplumun da temel koşuludur. ERU ailesi olarak eşitliğin, dayanışmanın ve umudun büyüdüğü yarınlara inanıyoruz. 💜 @universityted @tedusca" [ref=e247]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=e250] [cursor=pointer]:
+              - /url: /erutedu/p/DVduSAjDBa4/
+              - img [ref=e253]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+        - generic [ref=e255]:
+          - link "See more posts" [ref=e257] [cursor=pointer]:
+            - /url: /erutedu/
+            - generic [ref=e258]: See more posts
+          - separator [ref=e259]
+  - contentinfo [ref=e260]:
+    - generic [ref=e261]:
+      - generic [ref=e263]:
+        - link "Meta" [ref=e265] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e266]: Meta
+        - link "About" [ref=e268] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e269]: About
+        - link "Blog" [ref=e271] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e272]: Blog
+        - link "Jobs" [ref=e274] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e275]: Jobs
+        - link "Help" [ref=e277] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e278]: Help
+        - link "API" [ref=e280] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e281]: API
+        - link "Privacy" [ref=e283] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e284]: Privacy
+        - link "Terms" [ref=e286] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e287]: Terms
+        - link "Locations" [ref=e289] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e290]: Locations
+        - link "Instagram Lite" [ref=e292] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e293]: Instagram Lite
+        - link "Meta AI" [ref=e295] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e296]: Meta AI
+        - link "Threads" [ref=e298] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e299]: Threads
+        - link "Contact Uploading & Non-Users" [ref=e301] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e302]: Contact Uploading & Non-Users
+        - link "Meta Verified" [ref=e304] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e305]: Meta Verified
+      - generic [ref=e306]:
+        - generic [ref=e307] [cursor=pointer]:
+          - generic [ref=e308]:
+            - generic [ref=e309]: English
+            - img "Down chevron icon" [ref=e312]
+          - combobox "Switch Display Language" [ref=e314]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English" [selected]
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e316]: © 2026 Instagram from Meta

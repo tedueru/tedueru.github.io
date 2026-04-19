@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with the production domain before launch if your host requires an absolute sitemap URL.
+Sitemap: sitemap.xml

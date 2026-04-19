@@ -1,0 +1,677 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - button [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "About" [ref=e11] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e14]:
+          - link "ERUMAG" [ref=e15] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e16]:
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e18]:
+          - link "GreenTalks" [ref=e19] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e20]:
+          - link "FieldTalks" [ref=e21] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e22]:
+          - link "Our Team" [ref=e23] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Stay Connected
+      - heading "Events" [level=1] [ref=e29]
+      - paragraph [ref=e30]: Join our regular seminars, workshops, and panel discussions featuring renowned economists and policymakers.
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - paragraph [ref=e35]: You can follow announcements on social media for our events and explore our latest editorial and podcast work.
+      - generic [ref=e36]:
+        - link "LinkedIn" [ref=e37] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/tedueru
+          - img [ref=e38]
+          - text: LinkedIn
+        - link "Instagram" [ref=e42] [cursor=pointer]:
+          - /url: https://www.instagram.com/erutedu/
+          - img [ref=e43]
+          - text: Instagram
+    - generic [ref=e46]:
+      - figure [ref=e47]:
+        - img "Political Economy, Institutions, and Technology" [ref=e48]
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - img [ref=e52]
+          - paragraph [ref=e54]: April 15, 2026
+        - heading "Political Economy, Institutions, and Technology" [level=3] [ref=e55]
+        - generic [ref=e56]:
+          - paragraph [ref=e57]:
+            - img [ref=e58]
+            - strong [ref=e63]: "Speaker:"
+            - text: Dr. Arda Gitmez
+          - paragraph [ref=e64]:
+            - img [ref=e65]
+            - strong [ref=e68]: "Location:"
+            - text: D030, TED University
+          - generic [ref=e69]:
+            - img [ref=e70]
+            - text: English
+    - generic [ref=e74]:
+      - figure [ref=e75]:
+        - img "Akilli Uretim Sistemleri ve Kuresel Donusumler" [ref=e76]
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - img [ref=e80]
+          - paragraph [ref=e82]: March 31, 2026, 20:00
+        - heading "Akilli Uretim Sistemleri ve Kuresel Donusumler" [level=3] [ref=e83]
+        - generic [ref=e84]:
+          - paragraph [ref=e85]:
+            - img [ref=e86]
+            - strong [ref=e91]: "Speaker:"
+            - text: Prof. Dr. Erkan Erdil
+          - paragraph [ref=e92]:
+            - img [ref=e93]
+            - strong [ref=e96]: "Location:"
+            - text: Online (Google Meet)
+          - generic [ref=e97]:
+            - img [ref=e98]
+            - text: Online seminar
+    - generic [ref=e100]:
+      - figure:
+        - img "IBKI Conference at METU"
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - paragraph [ref=e106]: March 16, 2026
+        - heading "IBKI Conference at METU" [level=3] [ref=e107]
+        - generic [ref=e108]:
+          - paragraph [ref=e109]:
+            - img [ref=e110]
+            - strong [ref=e115]: "Note:"
+            - text: ERU attended the conference hosted at METU.
+          - paragraph [ref=e116]:
+            - img [ref=e117]
+            - strong [ref=e120]: "Location:"
+            - text: METU, Ankara
+    - generic [ref=e121]:
+      - figure:
+        - 'img "Toward COP31: Youth for Energy Transition and Climate Change"'
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - img [ref=e125]
+          - paragraph [ref=e127]: March 4, 2026
+        - 'heading "Toward COP31: Youth for Energy Transition and Climate Change" [level=3] [ref=e128]'
+        - generic [ref=e129]:
+          - paragraph [ref=e130]:
+            - img [ref=e131]
+            - strong [ref=e136]: "Guest(s):"
+            - text: Giuseppe Manzo and delegation
+          - paragraph [ref=e137]:
+            - img [ref=e138]
+            - strong [ref=e141]: "Location:"
+            - text: TED University
+    - generic [ref=e142]:
+      - figure:
+        - 'img "Herkes İçin İktisat: Financial Literacy"'
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - img [ref=e146]
+          - paragraph [ref=e148]: December 2025
+        - 'heading "Herkes İçin İktisat: Financial Literacy" [level=3] [ref=e149]'
+        - generic [ref=e150]:
+          - paragraph [ref=e151]:
+            - img [ref=e152]
+            - strong [ref=e157]: "Guest(s):"
+            - text: Prof. Dr. Tolga Omay
+          - paragraph [ref=e158]:
+            - img [ref=e159]
+            - strong [ref=e162]: "Location:"
+            - text: TED University
+    - generic [ref=e163]:
+      - figure:
+        - img "Küresel Krizler & Bankacılık Sektörü"
+      - generic [ref=e164]:
+        - generic [ref=e165]:
+          - img [ref=e167]
+          - paragraph [ref=e169]: December 19, 2025, 14:00
+        - heading "Küresel Krizler & Bankacılık Sektörü" [level=3] [ref=e170]
+        - generic [ref=e171]:
+          - paragraph [ref=e172]:
+            - img [ref=e173]
+            - strong [ref=e178]: "Guest(s):"
+            - text: "Sinan Şahinbaş (Mod: Prof. Dr. Erdem Başçı)"
+          - paragraph [ref=e179]:
+            - img [ref=e180]
+            - strong [ref=e183]: "Location:"
+            - text: Multi-Purpose Hall, TED University
+    - generic [ref=e184]:
+      - figure:
+        - 'img "Nobel Discussions: 2025 Nobel Prize in Economics"'
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - img [ref=e188]
+          - paragraph [ref=e190]: December 11, 2025, 21:00
+        - 'heading "Nobel Discussions: 2025 Nobel Prize in Economics" [level=3] [ref=e191]'
+        - generic [ref=e192]:
+          - paragraph [ref=e193]:
+            - img [ref=e194]
+            - strong [ref=e199]: "Guest(s):"
+            - text: Sina Ateş (Federal Reserve)
+          - paragraph [ref=e200]:
+            - img [ref=e201]
+            - strong [ref=e204]: "Location:"
+            - text: Zoom
+    - generic [ref=e205]:
+      - figure:
+        - img "Türkiye Ekonomisinin Sorunları ve Ekonomi Programı Tasarımı"
+      - generic [ref=e206]:
+        - generic [ref=e207]:
+          - img [ref=e209]
+          - paragraph [ref=e211]: December 2025
+        - heading "Türkiye Ekonomisinin Sorunları ve Ekonomi Programı Tasarımı" [level=3] [ref=e212]
+        - generic [ref=e213]:
+          - paragraph [ref=e214]:
+            - img [ref=e215]
+            - strong [ref=e220]: "Guest(s):"
+            - text: Prof. Dr. Fatih Özatay
+          - paragraph [ref=e221]:
+            - img [ref=e222]
+            - strong [ref=e225]: "Location:"
+            - text: TED University
+    - generic [ref=e226]:
+      - figure:
+        - 'img "Herkes İçin İktisat: 2026 Bütçesi ve Güncel Ekonomik Gelişmeler"'
+      - generic [ref=e227]:
+        - generic [ref=e228]:
+          - img [ref=e230]
+          - paragraph [ref=e232]: November 26, 2025, 13:00
+        - 'heading "Herkes İçin İktisat: 2026 Bütçesi ve Güncel Ekonomik Gelişmeler" [level=3] [ref=e233]'
+        - generic [ref=e234]:
+          - paragraph [ref=e235]:
+            - img [ref=e236]
+            - strong [ref=e241]: "Guest(s):"
+            - text: Prof. Dr. Doğan Cansızlar
+          - paragraph [ref=e242]:
+            - img [ref=e243]
+            - strong [ref=e246]: "Location:"
+            - text: Multi-Purpose Hall, TED University
+    - generic [ref=e247]:
+      - figure:
+        - img "Küresel İklim Hedefleri ve İklim Politikalarına Genel Bakış"
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - img [ref=e251]
+          - paragraph [ref=e253]: November 19, 2025, 13:00
+        - heading "Küresel İklim Hedefleri ve İklim Politikalarına Genel Bakış" [level=3] [ref=e254]
+        - generic [ref=e255]:
+          - paragraph [ref=e256]:
+            - img [ref=e257]
+            - strong [ref=e262]: "Guest(s):"
+            - text: Bengisu Özenç
+          - paragraph [ref=e263]:
+            - img [ref=e264]
+            - strong [ref=e267]: "Location:"
+            - text: D232, TED University
+    - generic [ref=e268]:
+      - figure:
+        - img "Türkiye Emisyon Ticaret Sistemi Piyasası Kuruluşu"
+      - generic [ref=e269]:
+        - generic [ref=e270]:
+          - img [ref=e272]
+          - paragraph [ref=e274]: November 13, 2025, 11:00
+        - heading "Türkiye Emisyon Ticaret Sistemi Piyasası Kuruluşu" [level=3] [ref=e275]
+        - generic [ref=e276]:
+          - paragraph [ref=e277]:
+            - img [ref=e278]
+            - strong [ref=e283]: "Guest(s):"
+            - text: Arzu Önsal
+          - paragraph [ref=e284]:
+            - img [ref=e285]
+            - strong [ref=e288]: "Location:"
+            - text: D228, TED University
+    - generic [ref=e289]:
+      - figure:
+        - img "Türkiye-Çin Ekonomik İlişkileri"
+      - generic [ref=e290]:
+        - generic [ref=e291]:
+          - img [ref=e293]
+          - paragraph [ref=e295]: November 6, 2025
+        - heading "Türkiye-Çin Ekonomik İlişkileri" [level=3] [ref=e296]
+        - generic [ref=e297]:
+          - paragraph [ref=e298]:
+            - img [ref=e299]
+            - strong [ref=e304]: "Guest(s):"
+            - text: Assoc. Prof. Dr. Emre Demir
+          - paragraph [ref=e305]:
+            - img [ref=e306]
+            - strong [ref=e309]: "Location:"
+            - text: K184, TED University
+    - generic [ref=e310]:
+      - figure:
+        - 'img "Banka Müze Gezileri: Ziraat Bankası & İş Bankası"'
+      - generic [ref=e311]:
+        - generic [ref=e312]:
+          - img [ref=e314]
+          - paragraph [ref=e316]: October 18, 2025, 12:00
+        - 'heading "Banka Müze Gezileri: Ziraat Bankası & İş Bankası" [level=3] [ref=e317]'
+        - generic [ref=e318]:
+          - paragraph [ref=e319]:
+            - img [ref=e320]
+            - strong [ref=e325]: "Guest(s):"
+            - text: TEDU Students
+          - paragraph [ref=e326]:
+            - img [ref=e327]
+            - strong [ref=e330]: "Location:"
+            - text: Ulus, Ankara
+    - generic [ref=e331]:
+      - figure:
+        - 'img "Towards a Post-WTO World: The End of Rule-Based Multilateral Trading System"'
+      - generic [ref=e332]:
+        - generic [ref=e333]:
+          - img [ref=e335]
+          - paragraph [ref=e337]: May 13, 2025, 11:30
+        - 'heading "Towards a Post-WTO World: The End of Rule-Based Multilateral Trading System" [level=3] [ref=e338]'
+        - generic [ref=e339]:
+          - paragraph [ref=e340]:
+            - img [ref=e341]
+            - strong [ref=e346]: "Guest(s):"
+            - text: Dr. Şahin Yaman
+          - paragraph [ref=e347]:
+            - img [ref=e348]
+            - strong [ref=e351]: "Location:"
+            - text: D026, TED University
+    - generic [ref=e352]:
+      - figure:
+        - img "The Conduct of Contemporary Warfare"
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - img [ref=e356]
+          - paragraph [ref=e358]: May 12, 2025, 13:00
+        - heading "The Conduct of Contemporary Warfare" [level=3] [ref=e359]
+        - generic [ref=e360]:
+          - paragraph [ref=e361]:
+            - img [ref=e362]
+            - strong [ref=e367]: "Guest(s):"
+            - text: Dr. Çağlar Kurç
+          - paragraph [ref=e368]:
+            - img [ref=e369]
+            - strong [ref=e372]: "Location:"
+            - text: G010, TED University
+    - generic [ref=e373]:
+      - figure:
+        - img "Technology, Geopolitics and Defense Industry"
+      - generic [ref=e374]:
+        - generic [ref=e375]:
+          - img [ref=e377]
+          - paragraph [ref=e379]: May 7, 2025, 15:00
+        - heading "Technology, Geopolitics and Defense Industry" [level=3] [ref=e380]
+        - generic [ref=e381]:
+          - paragraph [ref=e382]:
+            - img [ref=e383]
+            - strong [ref=e388]: "Guest(s):"
+            - text: Arda Mevlütoğlu
+          - paragraph [ref=e389]:
+            - img [ref=e390]
+            - strong [ref=e393]: "Location:"
+            - text: G112, TED University
+    - generic [ref=e394]:
+      - figure:
+        - img "ERU ile Banka Müzelerine Keşif"
+      - generic [ref=e395]:
+        - generic [ref=e396]:
+          - img [ref=e398]
+          - paragraph [ref=e400]: March 15, 2025, 12:00
+        - heading "ERU ile Banka Müzelerine Keşif" [level=3] [ref=e401]
+        - generic [ref=e402]:
+          - paragraph [ref=e403]:
+            - img [ref=e404]
+            - strong [ref=e409]: "Guest(s):"
+            - text: TEDU Students
+          - paragraph [ref=e410]:
+            - img [ref=e411]
+            - strong [ref=e414]: "Location:"
+            - text: Ulus, Ankara
+    - generic [ref=e415]:
+      - figure:
+        - 'img "Dünden Bugüne İktisat: Gazi Mustafa Kemal Paşa’nın Halkçılık Programı"'
+      - generic [ref=e416]:
+        - generic [ref=e417]:
+          - img [ref=e419]
+          - paragraph [ref=e421]: March 13, 2025, 14:00
+        - 'heading "Dünden Bugüne İktisat: Gazi Mustafa Kemal Paşa’nın Halkçılık Programı" [level=3] [ref=e422]'
+        - generic [ref=e423]:
+          - paragraph [ref=e424]:
+            - img [ref=e425]
+            - strong [ref=e430]: "Guest(s):"
+            - text: Dr. Serdar Şahinkaya
+          - paragraph [ref=e431]:
+            - img [ref=e432]
+            - strong [ref=e435]: "Location:"
+            - text: TED University
+    - generic [ref=e436]:
+      - figure:
+        - img "İklim Değişikliği ve Sürdürülebilirlik"
+      - generic [ref=e437]:
+        - generic [ref=e438]:
+          - img [ref=e440]
+          - paragraph [ref=e442]: December 2024
+        - heading "İklim Değişikliği ve Sürdürülebilirlik" [level=3] [ref=e443]
+        - generic [ref=e444]:
+          - paragraph [ref=e445]:
+            - img [ref=e446]
+            - strong [ref=e451]: "Guest(s):"
+            - text: "Sultan Tepe (Mod: Prof. Dr. Erdem Başçı)"
+          - paragraph [ref=e452]:
+            - img [ref=e453]
+            - strong [ref=e456]: "Location:"
+            - text: TED University / Online
+    - generic [ref=e457]:
+      - figure:
+        - img "AI & DS Joint Event"
+      - generic [ref=e458]:
+        - generic [ref=e459]:
+          - img [ref=e461]
+          - paragraph [ref=e463]: November 2024
+        - heading "AI & DS Joint Event" [level=3] [ref=e464]
+        - generic [ref=e465]:
+          - paragraph [ref=e466]:
+            - img [ref=e467]
+            - strong [ref=e472]: "Guest(s):"
+            - text: Prof. Dr. Altuğ Yalçıntaş
+          - paragraph [ref=e473]:
+            - img [ref=e474]
+            - strong [ref=e477]: "Location:"
+            - text: TED University
+    - generic [ref=e478]:
+      - figure:
+        - img "Agriculture and Rural Development in Türkiye"
+      - generic [ref=e479]:
+        - generic [ref=e480]:
+          - img [ref=e482]
+          - paragraph [ref=e484]: November 2024
+        - heading "Agriculture and Rural Development in Türkiye" [level=3] [ref=e485]
+        - generic [ref=e486]:
+          - paragraph [ref=e487]:
+            - img [ref=e488]
+            - strong [ref=e493]: "Guest(s):"
+            - text: Dr. Coşkun Şerefoğlu
+          - paragraph [ref=e494]:
+            - img [ref=e495]
+            - strong [ref=e498]: "Location:"
+            - text: TED University
+    - generic [ref=e499]:
+      - figure:
+        - 'img "Nobel Discussions: 2024 Nobel Prize & Daron Acemoğlu’s Studies"'
+      - generic [ref=e500]:
+        - generic [ref=e501]:
+          - img [ref=e503]
+          - paragraph [ref=e505]: November 2024
+        - 'heading "Nobel Discussions: 2024 Nobel Prize & Daron Acemoğlu’s Studies" [level=3] [ref=e506]'
+        - generic [ref=e507]:
+          - paragraph [ref=e508]:
+            - img [ref=e509]
+            - strong [ref=e514]: "Guest(s):"
+            - text: Assoc. Prof. Dr. Aykut Attar
+          - paragraph [ref=e515]:
+            - img [ref=e516]
+            - strong [ref=e519]: "Location:"
+            - text: TED University
+    - generic [ref=e520]:
+      - figure:
+        - img "Lisanslı Depoculuk, Emtia Borsacılığı ve Aracılı Sistem"
+      - generic [ref=e521]:
+        - generic [ref=e522]:
+          - img [ref=e524]
+          - paragraph [ref=e526]: November 5, 2024
+        - heading "Lisanslı Depoculuk, Emtia Borsacılığı ve Aracılı Sistem" [level=3] [ref=e527]
+        - generic [ref=e528]:
+          - paragraph [ref=e529]:
+            - img [ref=e530]
+            - strong [ref=e535]: "Guest(s):"
+            - text: Ali Cem Suca
+          - paragraph [ref=e536]:
+            - img [ref=e537]
+            - strong [ref=e540]: "Location:"
+            - text: TED University
+    - generic [ref=e541]:
+      - figure:
+        - img "Economics Without Money"
+      - generic [ref=e542]:
+        - generic [ref=e543]:
+          - img [ref=e545]
+          - paragraph [ref=e547]: October 23, 2024, 12:00
+        - heading "Economics Without Money" [level=3] [ref=e548]
+        - generic [ref=e549]:
+          - paragraph [ref=e550]:
+            - img [ref=e551]
+            - strong [ref=e556]: "Guest(s):"
+            - text: Dr. Günnur Ege Bilgin
+          - paragraph [ref=e557]:
+            - img [ref=e558]
+            - strong [ref=e561]: "Location:"
+            - text: TED University
+    - generic [ref=e562]:
+      - figure:
+        - img "Introduction to the World Bank and its Türkiye Policies"
+      - generic [ref=e563]:
+        - generic [ref=e564]:
+          - img [ref=e566]
+          - paragraph [ref=e568]: May 2024
+        - heading "Introduction to the World Bank and its Türkiye Policies" [level=3] [ref=e569]
+        - generic [ref=e570]:
+          - paragraph [ref=e571]:
+            - img [ref=e572]
+            - strong [ref=e577]: "Guest(s):"
+            - text: Humberto Lopez (World Bank Country Director)
+          - paragraph [ref=e578]:
+            - img [ref=e579]
+            - strong [ref=e582]: "Location:"
+            - text: TED University
+    - generic [ref=e583]:
+      - figure:
+        - img "Economics of Health Behaviors"
+      - generic [ref=e584]:
+        - generic [ref=e585]:
+          - img [ref=e587]
+          - paragraph [ref=e589]: April 2024
+        - heading "Economics of Health Behaviors" [level=3] [ref=e590]
+        - generic [ref=e591]:
+          - paragraph [ref=e592]:
+            - img [ref=e593]
+            - strong [ref=e598]: "Guest(s):"
+            - text: Assoc. Prof. Dr. Tekin Kose
+          - paragraph [ref=e599]:
+            - img [ref=e600]
+            - strong [ref=e603]: "Location:"
+            - text: Zoom
+    - generic [ref=e604]:
+      - figure:
+        - img "COVID-19 Effects on Inflation"
+      - generic [ref=e605]:
+        - generic [ref=e606]:
+          - img [ref=e608]
+          - paragraph [ref=e610]: April 2024
+        - heading "COVID-19 Effects on Inflation" [level=3] [ref=e611]
+        - generic [ref=e612]:
+          - paragraph [ref=e613]:
+            - img [ref=e614]
+            - strong [ref=e619]: "Guest(s):"
+            - text: Prof. Şebnem Kalemli-Özcan
+          - paragraph [ref=e620]:
+            - img [ref=e621]
+            - strong [ref=e624]: "Location:"
+            - text: Zoom
+    - generic [ref=e625]:
+      - figure:
+        - 'img "Green Talks: The Transformative Impact of Climate Change"'
+      - generic [ref=e626]:
+        - generic [ref=e627]:
+          - img [ref=e629]
+          - paragraph [ref=e631]: April 2024
+        - 'heading "Green Talks: The Transformative Impact of Climate Change" [level=3] [ref=e632]'
+        - generic [ref=e633]:
+          - paragraph [ref=e634]:
+            - img [ref=e635]
+            - strong [ref=e640]: "Guest(s):"
+            - text: Hande Hekim
+          - paragraph [ref=e641]:
+            - img [ref=e642]
+            - strong [ref=e645]: "Location:"
+            - text: TED University
+    - generic [ref=e646]:
+      - figure:
+        - 'img "Yüzüncü Yıl İktisat Seminerleri: Türkiye''nin Ekonomik Büyüme Süreci"'
+      - generic [ref=e647]:
+        - generic [ref=e648]:
+          - img [ref=e650]
+          - paragraph [ref=e652]: April 2024
+        - 'heading "Yüzüncü Yıl İktisat Seminerleri: Türkiye''nin Ekonomik Büyüme Süreci" [level=3] [ref=e653]'
+        - generic [ref=e654]:
+          - paragraph [ref=e655]:
+            - img [ref=e656]
+            - strong [ref=e661]: "Guest(s):"
+            - text: Prof. Seyit Mümin Cılasun
+          - paragraph [ref=e662]:
+            - img [ref=e663]
+            - strong [ref=e666]: "Location:"
+            - text: TED University
+    - generic [ref=e667]:
+      - figure:
+        - 'img "Green Talks: Integration of Sustainability into Business Strategy"'
+      - generic [ref=e668]:
+        - generic [ref=e669]:
+          - img [ref=e671]
+          - paragraph [ref=e673]: March 29, 2024, 11:30
+        - 'heading "Green Talks: Integration of Sustainability into Business Strategy" [level=3] [ref=e674]'
+        - generic [ref=e675]:
+          - paragraph [ref=e676]:
+            - img [ref=e677]
+            - strong [ref=e682]: "Guest(s):"
+            - text: Özlem Ünlüer (Sustainability Director, Arçelik)
+          - paragraph [ref=e683]:
+            - img [ref=e684]
+            - strong [ref=e687]: "Location:"
+            - text: D030, TED University
+    - generic [ref=e688]:
+      - figure:
+        - 'img "Behavioral Eco: Tackling Tragedy of the Commons"'
+      - generic [ref=e689]:
+        - generic [ref=e690]:
+          - img [ref=e692]
+          - paragraph [ref=e694]: March 28, 2024, 16:00
+        - 'heading "Behavioral Eco: Tackling Tragedy of the Commons" [level=3] [ref=e695]'
+        - generic [ref=e696]:
+          - paragraph [ref=e697]:
+            - img [ref=e698]
+            - strong [ref=e703]: "Guest(s):"
+            - text: Dr. Cavit Görkem Destan
+          - paragraph [ref=e704]:
+            - img [ref=e705]
+            - strong [ref=e708]: "Location:"
+            - text: TED University
+    - generic [ref=e709]:
+      - figure:
+        - img "Türkiye'deki Merkez Bankacılığı Serüveni"
+      - generic [ref=e710]:
+        - generic [ref=e711]:
+          - img [ref=e713]
+          - paragraph [ref=e715]: March 2024
+        - heading "Türkiye'deki Merkez Bankacılığı Serüveni" [level=3] [ref=e716]
+        - generic [ref=e717]:
+          - paragraph [ref=e718]:
+            - img [ref=e719]
+            - strong [ref=e724]: "Guest(s):"
+            - text: Prof. Dr. Hakan Kara
+          - paragraph [ref=e725]:
+            - img [ref=e726]
+            - strong [ref=e729]: "Location:"
+            - text: TED University
+    - generic [ref=e730]:
+      - figure:
+        - img "Yüzüncü Yıl İktisat Seminerleri"
+      - generic [ref=e731]:
+        - generic [ref=e732]:
+          - img [ref=e734]
+          - paragraph [ref=e736]: February 2024
+        - heading "Yüzüncü Yıl İktisat Seminerleri" [level=3] [ref=e737]
+        - generic [ref=e738]:
+          - paragraph [ref=e739]:
+            - img [ref=e740]
+            - strong [ref=e745]: "Guest(s):"
+            - text: Prof. Ayça Tekin-Koru
+          - paragraph [ref=e746]:
+            - img [ref=e747]
+            - strong [ref=e750]: "Location:"
+            - text: TED University
+    - generic [ref=e751]:
+      - figure:
+        - 'img "Nobel Discussions: 2023 Nobel Prize & Claudia Goldin"'
+      - generic [ref=e752]:
+        - generic [ref=e753]:
+          - img [ref=e755]
+          - paragraph [ref=e757]: December 2023
+        - 'heading "Nobel Discussions: 2023 Nobel Prize & Claudia Goldin" [level=3] [ref=e758]'
+        - generic [ref=e759]:
+          - paragraph [ref=e760]:
+            - img [ref=e761]
+            - strong [ref=e766]: "Guest(s):"
+            - text: Prof. Dr. Meltem Dayıoğlu Tayfur
+          - paragraph [ref=e767]:
+            - img [ref=e768]
+            - strong [ref=e771]: "Location:"
+            - text: TED University
+    - generic [ref=e772]:
+      - figure:
+        - img "Inflation and Economics"
+      - generic [ref=e773]:
+        - generic [ref=e774]:
+          - img [ref=e776]
+          - paragraph [ref=e778]: December 2023
+        - heading "Inflation and Economics" [level=3] [ref=e779]
+        - generic [ref=e780]:
+          - paragraph [ref=e781]:
+            - img [ref=e782]
+            - strong [ref=e787]: "Guest(s):"
+            - text: Prof. Dr. Erdem Başçı
+          - paragraph [ref=e788]:
+            - img [ref=e789]
+            - strong [ref=e792]: "Location:"
+            - text: TED University
+  - contentinfo [ref=e793]:
+    - generic [ref=e794]:
+      - generic [ref=e795]:
+        - generic [ref=e797]:
+          - text: TED University
+          - text: Economics Research Union
+        - generic [ref=e798]:
+          - link "LinkedIn" [ref=e799] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+            - img [ref=e800]
+          - link "Instagram" [ref=e804] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+            - img [ref=e805]
+          - link "YouTube" [ref=e808] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+            - img [ref=e809]
+      - generic [ref=e811]:
+        - paragraph [ref=e812]: © 2026 TED University Economics Research Union. All rights reserved.
+        - generic [ref=e813]:
+          - link "About" [ref=e814] [cursor=pointer]:
+            - /url: about.html
+          - link "Contact" [ref=e815] [cursor=pointer]:
+            - /url: contact.html

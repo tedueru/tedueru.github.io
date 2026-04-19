@@ -1,0 +1,170 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - button [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "About" [ref=e11] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e14]:
+          - link "ERUMAG" [ref=e15] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e16]:
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e18]:
+          - link "GreenTalks" [ref=e19] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e20]:
+          - link "FieldTalks" [ref=e21] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e22]:
+          - link "Our Team" [ref=e23] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e26]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - paragraph [ref=e30]: Our Publication
+        - heading "ERUMAG" [level=1] [ref=e31]
+        - paragraph [ref=e32]: TEDU ERU's flagship publication brings student-written economic analysis, interviews, and issue archives into one accessible editorial space.
+        - generic [ref=e33]:
+          - link "Open latest issue" [ref=e34] [cursor=pointer]:
+            - /url: erumag-4.html
+          - link "Latest PDF" [ref=e35] [cursor=pointer]:
+            - /url: ERUMAG, Issue 4, 2026.pdf
+            - img [ref=e36]
+            - text: Latest PDF
+      - generic [ref=e40]:
+        - img "ERUMAG Issue 4 cover" [ref=e42]
+        - paragraph [ref=e44]:
+          - strong [ref=e45]: 4 issues
+          - text: From the inaugural edition to the latest 2026 release.
+  - generic [ref=e47]:
+    - paragraph [ref=e48]: ERUMAG Archive
+    - heading "Our Issues" [level=2] [ref=e49]
+    - generic [ref=e51]:
+      - img "ERUMAG Issue 4 cover" [ref=e53]
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: 2026 · Latest
+        - heading "Issue 4 - Consumerism & Modern Behaviors" [level=3] [ref=e56]
+        - paragraph [ref=e57]: Consumption culture, changing behavior, an interview with Prof. Dr. Nazire Nergiz Dincer, and a special contribution by Maths-Up.
+        - generic [ref=e58]:
+          - link "Read More" [ref=e59] [cursor=pointer]:
+            - /url: erumag-4.html
+          - link "PDF" [ref=e60] [cursor=pointer]:
+            - /url: ERUMAG, Issue 4, 2026.pdf
+            - img [ref=e61]
+            - text: PDF
+    - generic [ref=e64]:
+      - img "ERUMAG Issue 3 cover" [ref=e66]
+      - generic [ref=e67]:
+        - paragraph [ref=e68]: "2025"
+        - heading "Issue 3 - AI & Economic Uncertainty" [level=3] [ref=e69]
+        - paragraph [ref=e70]: An issue centered on inflation, artificial intelligence, uncertainty, and an interview with Prof. Dr. Erdem Basci.
+        - generic [ref=e71]:
+          - link "Read More" [ref=e72] [cursor=pointer]:
+            - /url: erumag-3.html
+          - link "PDF" [ref=e73] [cursor=pointer]:
+            - /url: ERUMAG, Issue 3, 2025.pdf
+            - img [ref=e74]
+            - text: PDF
+    - generic [ref=e77]:
+      - img "ERUMAG Issue 2 cover" [ref=e79]
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: "2025"
+        - heading "Issue 2 - Fertility Rates & Demographic Economics" [level=3] [ref=e82]
+        - paragraph [ref=e83]: Falling fertility rates, long-run demographic pressure, and policy questions that shape economic futures.
+        - generic [ref=e84]:
+          - link "Read More" [ref=e85] [cursor=pointer]:
+            - /url: erumag-2.html
+          - link "PDF" [ref=e86] [cursor=pointer]:
+            - /url: ERUMAG, Issue 2, 2025.pdf
+            - img [ref=e87]
+            - text: PDF
+    - generic [ref=e90]:
+      - img "ERUMAG Issue 1 cover" [ref=e92]
+      - generic [ref=e93]:
+        - paragraph [ref=e94]: 2025 · Inaugural
+        - heading "Issue 1 - The Foundation" [level=3] [ref=e95]
+        - paragraph [ref=e96]: The inaugural issue that established ERUMAG's editorial voice and analytical direction.
+        - generic [ref=e97]:
+          - link "Read More" [ref=e98] [cursor=pointer]:
+            - /url: erumag-1.html
+          - link "PDF" [ref=e99] [cursor=pointer]:
+            - /url: ERUMAG_Issue1_2025.pdf
+            - img [ref=e100]
+            - text: PDF
+  - generic [ref=e104]:
+    - paragraph [ref=e105]: From Our Blog
+    - heading "Articles & Interviews" [level=2] [ref=e106]
+    - generic [ref=e108]:
+      - 'link "Jan 19, 2026 · 6 min An Early Trial of Euro: Central Bank of West African States Exploring the BCEAO and how West Africa''s monetary union mirrors the Eurozone. Read article" [ref=e109] [cursor=pointer]':
+        - /url: article-bceao.html
+        - paragraph [ref=e110]: Jan 19, 2026 · 6 min
+        - 'heading "An Early Trial of Euro: Central Bank of West African States" [level=3] [ref=e111]'
+        - paragraph [ref=e112]: Exploring the BCEAO and how West Africa's monetary union mirrors the Eurozone.
+        - generic [ref=e113]:
+          - text: Read article
+          - img [ref=e114]
+      - link "Jan 14, 2026 · 10 min An Interview with Prof. Dr. Nazire Nergiz Dincer From mathematics to economics - career reflections, sustainability, and the circular economy. Read interview" [ref=e116] [cursor=pointer]:
+        - /url: article-dincer.html
+        - paragraph [ref=e117]: Jan 14, 2026 · 10 min
+        - heading "An Interview with Prof. Dr. Nazire Nergiz Dincer" [level=3] [ref=e118]
+        - paragraph [ref=e119]: From mathematics to economics - career reflections, sustainability, and the circular economy.
+        - generic [ref=e120]:
+          - text: Read interview
+          - img [ref=e121]
+      - 'link "Nov 28, 2025 · 5 min The OpenAI Effect: Why Your Next Electronic Device Just Doubled in Price How the Stargate project created a supply vacuum in consumer electronics. Read article" [ref=e123] [cursor=pointer]':
+        - /url: article-openai.html
+        - paragraph [ref=e124]: Nov 28, 2025 · 5 min
+        - 'heading "The OpenAI Effect: Why Your Next Electronic Device Just Doubled in Price" [level=3] [ref=e125]'
+        - paragraph [ref=e126]: How the Stargate project created a supply vacuum in consumer electronics.
+        - generic [ref=e127]:
+          - text: Read article
+          - img [ref=e128]
+      - 'link "Nov 28, 2025 · 8 min Inflation, Uncertainty and AI: Interview with Prof. Dr. Erdem Basci Former CBRT Governor on monetary policy, CBDC, and AI''s impact. Read interview" [ref=e130] [cursor=pointer]':
+        - /url: article-basci.html
+        - paragraph [ref=e131]: Nov 28, 2025 · 8 min
+        - 'heading "Inflation, Uncertainty and AI: Interview with Prof. Dr. Erdem Basci" [level=3] [ref=e132]'
+        - paragraph [ref=e133]: Former CBRT Governor on monetary policy, CBDC, and AI's impact.
+        - generic [ref=e134]:
+          - text: Read interview
+          - img [ref=e135]
+  - contentinfo [ref=e137]:
+    - generic [ref=e138]:
+      - generic [ref=e139]:
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - text: TED University
+            - text: Economics Research Union
+          - paragraph [ref=e142]: Student-led economic research, publishing, and events.
+        - generic [ref=e143]:
+          - link "LinkedIn" [ref=e144] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+            - img [ref=e145]
+          - link "Instagram" [ref=e149] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+            - img [ref=e150]
+          - link "YouTube" [ref=e153] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+            - img [ref=e154]
+      - generic [ref=e156]:
+        - paragraph [ref=e157]: © 2026 TED University Economics Research Union. All rights reserved.
+        - generic [ref=e158]:
+          - link "About" [ref=e159] [cursor=pointer]:
+            - /url: about.html
+          - link "Contact" [ref=e160] [cursor=pointer]:
+            - /url: contact.html

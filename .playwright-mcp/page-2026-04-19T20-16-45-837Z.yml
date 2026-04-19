@@ -1,0 +1,259 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Log In" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fp%2FDXEnqc7DGUL%2F&source=desktop_nav
+      - link "Sign Up" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - dialog [ref=e34]:
+      - generic [ref=e35]:
+        - button "Close" [ref=e37] [cursor=pointer]:
+          - img "Close" [ref=e39]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - link "erutedu's profile picture" [ref=e46] [cursor=pointer]:
+              - img "erutedu's profile picture" [ref=e47]
+            - generic [ref=e49]:
+              - generic [ref=e50]: Never miss a post from erutedu
+              - generic [ref=e52]: Sign up for Instagram to stay in the loop.
+          - generic [ref=e53]:
+            - link "Sign up" [ref=e56] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Log in" [ref=e59] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=e60]:
+      - generic [ref=e62]:
+        - button [ref=e67]:
+          - generic [ref=e74]:
+            - list [ref=e76]:
+              - listitem [ref=e77]
+              - listitem [ref=e78]:
+                - generic [ref=e83] [cursor=pointer]:
+                  - button [ref=e84]:
+                    - img [ref=e86]
+                  - button [ref=e89]:
+                    - img [ref=e91]
+              - listitem [ref=e93]:
+                - img [ref=e100]
+            - button [ref=e102] [cursor=pointer]
+        - generic [ref=e105]:
+          - generic [ref=e107]:
+            - button "erutedu's profile picture" [disabled] [ref=e109]:
+              - link "erutedu's profile picture" [disabled] [ref=e111] [cursor=pointer]:
+                - img "erutedu's profile picture" [ref=e112]
+            - generic [ref=e115]:
+              - link "erutedu" [ref=e119] [cursor=pointer]:
+                - /url: /erutedu/
+                - generic [ref=e122]: erutedu
+              - generic [ref=e123]:
+                - generic [ref=e125]: •
+                - button "Follow" [ref=e126] [cursor=pointer]
+            - button "More options" [ref=e129] [cursor=pointer]:
+              - img "More options" [ref=e132]
+          - separator [ref=e136]
+          - generic [ref=e138]:
+            - generic [ref=e140]:
+              - link "erutedu's profile picture" [ref=e142] [cursor=pointer]:
+                - /url: /erutedu/
+                - img "erutedu's profile picture" [ref=e143]
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - link "erutedu" [ref=e149] [cursor=pointer]:
+                    - /url: /erutedu/
+                    - generic [ref=e152]: erutedu
+                  - generic [ref=e153]: Edited
+                  - generic [ref=e154]: •
+                  - time [ref=e156]: 4d
+                - generic [ref=e157]:
+                  - text: As TEDU Economics Research Union, we are delighted to host Dr. Arda Gitmez for our *EconTalks for Everyone* series.
+                  - text: In this talk, titled “Political Economy, Institutions, and Technology,” key issues at the intersection of political economy, institutions, and technology will be discussed in an engaging and accessible way.
+                  - text: "📍 Location: D030"
+                  - text: "🗓 Date: 15 April 2026"
+                  - text: "⏰ Time: 13.00"
+                  - text: 🔴 This event is recognized as a TEDU400 Seminar.
+                  - text: 📌 The talk will be conducted in English.
+                  - text: We look forward to welcoming all students and everyone interested! ✨
+            - button "Load more comments" [ref=e159] [cursor=pointer]:
+              - img "Load more comments" [ref=e161]
+            - generic [ref=e165]:
+              - heading "No comments yet." [level=2] [ref=e167]
+              - generic [ref=e169]: Start the conversation.
+          - generic [ref=e170]:
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - button "Like" [ref=e175] [cursor=pointer]:
+                  - img "Like" [ref=e178]
+                - button "18" [ref=e180] [cursor=pointer]
+                - button "Comment" [ref=e182] [cursor=pointer]:
+                  - img "Comment" [ref=e184]
+                - button "Share" [ref=e186] [cursor=pointer]:
+                  - img "Share" [ref=e187]
+              - button "Save" [ref=e191] [cursor=pointer]:
+                - img "Save" [ref=e193]
+            - link "6 days ago" [ref=e197] [cursor=pointer]:
+              - /url: /erutedu/p/DXEnqc7DGUL/
+              - time [ref=e199]: 6 days ago
+          - generic [ref=e204]:
+            - link "Log in" [ref=e205] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fp%2FDXEnqc7DGUL%2F&source=post_comment_input
+            - text: to like or comment.
+      - separator [ref=e207]
+      - generic [ref=e208]:
+        - generic [ref=e210]:
+          - text: More posts from
+          - link "erutedu" [ref=e211] [cursor=pointer]:
+            - /url: /erutedu/
+        - generic [ref=e214]:
+          - generic [ref=e215]:
+            - link [ref=e217] [cursor=pointer]:
+              - /url: /erutedu/p/CzyYpMdIykR/
+            - link "Carousel" [ref=e222] [cursor=pointer]:
+              - /url: /erutedu/p/DXO3slCDIpj/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=e227] [cursor=pointer]:
+              - /url: /teduefs/p/DXG7CWmiDZA/
+          - generic [ref=e231]:
+            - link "Carousel" [ref=e233] [cursor=pointer]:
+              - /url: /erutedu/p/DWbndixDGOB/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=e238] [cursor=pointer]:
+              - /url: /erutedu/p/DWBpywbDKBN/
+            - link "Carousel" [ref=e243] [cursor=pointer]:
+              - /url: /erutedu/p/DV9GqfPjCh5/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+          - generic [ref=e247]:
+            - link "Carousel" [ref=e249] [cursor=pointer]:
+              - /url: /erutedu/p/DVnqMMgjOwv/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "Carousel" [ref=e254] [cursor=pointer]:
+              - /url: /erutedu/p/DVduSAjDBa4/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+        - generic [ref=e259]:
+          - link "See more posts" [ref=e261] [cursor=pointer]:
+            - /url: /erutedu/
+            - generic [ref=e262]: See more posts
+          - separator [ref=e263]
+  - contentinfo [ref=e264]:
+    - generic [ref=e265]:
+      - generic [ref=e267]:
+        - link "Meta" [ref=e269] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e270]: Meta
+        - link "About" [ref=e272] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e273]: About
+        - link "Blog" [ref=e275] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e276]: Blog
+        - link "Jobs" [ref=e278] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e279]: Jobs
+        - link "Help" [ref=e281] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e282]: Help
+        - link "API" [ref=e284] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e285]: API
+        - link "Privacy" [ref=e287] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e288]: Privacy
+        - link "Terms" [ref=e290] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e291]: Terms
+        - link "Locations" [ref=e293] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e294]: Locations
+        - link "Instagram Lite" [ref=e296] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e297]: Instagram Lite
+        - link "Meta AI" [ref=e299] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e300]: Meta AI
+        - link "Threads" [ref=e302] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e303]: Threads
+        - link "Contact Uploading & Non-Users" [ref=e305] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e306]: Contact Uploading & Non-Users
+        - link "Meta Verified" [ref=e308] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e309]: Meta Verified
+      - generic [ref=e310]:
+        - generic [ref=e311] [cursor=pointer]:
+          - generic [ref=e312]:
+            - generic [ref=e313]: English
+            - img "Down chevron icon" [ref=e316]
+          - combobox "Switch Display Language" [ref=e318]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English" [selected]
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e320]: © 2026 Instagram from Meta

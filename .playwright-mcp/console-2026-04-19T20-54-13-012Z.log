@@ -1,0 +1,2 @@
+[ 1680958ms] TypeError: Cannot read properties of null (reading 'setAttribute')
+    at HTMLAnchorElement.<anonymous> (http://127.0.0.1:8123/script.js:16:42)

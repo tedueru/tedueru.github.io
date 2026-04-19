@@ -1,0 +1,145 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - button [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "About" [ref=e11] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e14]:
+          - link "ERUMAG" [ref=e15] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e16]:
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e18]:
+          - link "GreenTalks" [ref=e19] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e20]:
+          - link "FieldTalks" [ref=e21] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e22]:
+          - link "Our Team" [ref=e23] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - paragraph [ref=e30]: Student-led economic dialogue
+      - heading "Shaping the Future of Economic Thought" [level=1] [ref=e31]:
+        - text: Shaping the Future of
+        - text: Economic Thought
+      - paragraph [ref=e32]: TEDU ERU brings together student publishing, seminars, interviews, and field conversations to make economic research accessible, current, and public-facing.
+      - generic [ref=e33]:
+        - link "Discover Our Purpose" [ref=e34] [cursor=pointer]:
+          - /url: about.html
+        - link "Read ERUMAG" [ref=e35] [cursor=pointer]:
+          - /url: erumag.html
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - img "TEDU ERU logo" [ref=e38]
+        - generic [ref=e39]:
+          - heading "Research, publishing, and events" [level=2] [ref=e40]
+          - paragraph [ref=e41]: Built at TED University, connected to wider economic conversations through magazines, seminars, and recorded talks.
+      - generic [ref=e42]:
+        - article [ref=e43]:
+          - img "ERUMAG Issue 4 cover" [ref=e44]
+          - generic [ref=e45]:
+            - strong [ref=e46]: ERUMAG Issue 4
+            - generic [ref=e47]: Consumerism, changing behavior, and contemporary economic questions.
+        - article [ref=e48]:
+          - img "FieldTalks event poster featuring Arda Gitmez" [ref=e49]
+          - generic [ref=e50]:
+            - strong [ref=e51]: Latest seminar
+            - generic [ref=e52]: Political Economy, Institutions, and Technology
+  - generic [ref=e54]:
+    - paragraph [ref=e55]: What We Do
+    - heading "Our Initiatives" [level=2] [ref=e56]
+    - paragraph [ref=e58]: Engage with the formats TEDU ERU uses to turn economic curiosity into public work.
+    - generic [ref=e59]:
+      - link "Events Seminars, workshops, and conversations with economists, diplomats, and researchers. Explore events" [ref=e60] [cursor=pointer]:
+        - /url: events.html
+        - img [ref=e62]
+        - heading "Events" [level=3] [ref=e64]
+        - paragraph [ref=e65]: Seminars, workshops, and conversations with economists, diplomats, and researchers.
+        - generic [ref=e66]:
+          - text: Explore events
+          - img [ref=e67]
+      - link "ERUMAG Our flagship magazine featuring student-written analysis, interviews, and issue archives. Browse the archive" [ref=e69] [cursor=pointer]:
+        - /url: erumag.html
+        - img [ref=e71]
+        - heading "ERUMAG" [level=3] [ref=e73]
+        - paragraph [ref=e74]: Our flagship magazine featuring student-written analysis, interviews, and issue archives.
+        - generic [ref=e75]:
+          - text: Browse the archive
+          - img [ref=e76]
+      - link "GreenTalks Conversations on climate, sustainability, and the economic dimensions of ecological change. See GreenTalks" [ref=e78] [cursor=pointer]:
+        - /url: greentalks.html
+        - img [ref=e80]
+        - heading "GreenTalks" [level=3] [ref=e83]
+        - paragraph [ref=e84]: Conversations on climate, sustainability, and the economic dimensions of ecological change.
+        - generic [ref=e85]:
+          - text: See GreenTalks
+          - img [ref=e86]
+      - link "FieldTalks Recorded talks and podcasts connecting policy, institutions, and economics in practice. Watch FieldTalks" [ref=e88] [cursor=pointer]:
+        - /url: fieldtalks.html
+        - img [ref=e90]
+        - heading "FieldTalks" [level=3] [ref=e93]
+        - paragraph [ref=e94]: Recorded talks and podcasts connecting policy, institutions, and economics in practice.
+        - generic [ref=e95]:
+          - text: Watch FieldTalks
+          - img [ref=e96]
+  - generic [ref=e100]:
+    - generic [ref=e101]:
+      - paragraph [ref=e102]: Our Mission
+      - heading "Awakening academic curiosity in economics" [level=2] [ref=e103]
+      - paragraph [ref=e104]: We create accessible entry points into economic discussion for students across disciplines, then turn that curiosity into magazines, events, and public-facing analysis.
+      - link "Learn More About Us" [ref=e105] [cursor=pointer]:
+        - /url: about.html
+    - generic [ref=e107]:
+      - img "TEDU ERU members at an event" [ref=e108]
+      - generic [ref=e109]:
+        - paragraph [ref=e110]: Spotlight
+        - heading "From campus conversations to published work" [level=3] [ref=e111]
+        - paragraph [ref=e112]: "ERUMAG, seminars, and recorded talks operate as one ecosystem: ideas move from event rooms into editorial work and back into public discussion."
+        - link "See the latest issue" [ref=e113] [cursor=pointer]:
+          - /url: erumag.html
+  - contentinfo [ref=e114]:
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - paragraph [ref=e118]: TED University
+          - text: Economics Research Union
+          - paragraph [ref=e119]: A student-led platform for economic publishing, seminar series, and institutional dialogue.
+        - generic [ref=e120]:
+          - paragraph [ref=e121]: Contact
+          - generic [ref=e122]: Ziya Gokalp Caddesi No:48
+          - generic [ref=e123]: 06420 Kolej, Cankaya / Ankara
+          - link "eru@tedu.edu.tr" [ref=e124] [cursor=pointer]:
+            - /url: mailto:eru@tedu.edu.tr
+        - generic [ref=e125]:
+          - paragraph [ref=e126]: Follow
+          - link "LinkedIn" [ref=e127] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+          - link "Instagram" [ref=e128] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+          - link "YouTube" [ref=e129] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+      - generic [ref=e130]:
+        - paragraph [ref=e131]: © 2026 TED University Economics Research Union. All rights reserved.
+        - generic [ref=e132]:
+          - link "About" [ref=e133] [cursor=pointer]:
+            - /url: about.html
+          - link "Contact" [ref=e134] [cursor=pointer]:
+            - /url: contact.html

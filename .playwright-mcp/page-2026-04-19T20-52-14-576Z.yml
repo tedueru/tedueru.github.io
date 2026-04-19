@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "TEDU ERU TED University Economics Research Union" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "TEDU ERU" [ref=e5]
+        - generic [ref=e6]:
+          - text: TED University
+          - text: Economics Research Union
+      - button [ref=e7] [cursor=pointer]:
+        - img [ref=e8]
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "About" [ref=e11] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e14]:
+          - link "ERUMAG" [ref=e15] [cursor=pointer]:
+            - /url: erumag.html
+        - listitem [ref=e16]:
+          - link "Blog" [ref=e17] [cursor=pointer]:
+            - /url: blog.html
+        - listitem [ref=e18]:
+          - link "GreenTalks" [ref=e19] [cursor=pointer]:
+            - /url: greentalks.html
+        - listitem [ref=e20]:
+          - link "FieldTalks" [ref=e21] [cursor=pointer]:
+            - /url: fieldtalks.html
+        - listitem [ref=e22]:
+          - link "Our Team" [ref=e23] [cursor=pointer]:
+            - /url: team.html
+        - listitem [ref=e24]:
+          - link "Contact" [ref=e25] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: 🌿 Sustainability & Climate
+      - heading "GreenTalks" [level=1] [ref=e29]
+      - paragraph [ref=e30]: Focused on sustainability, clean energy, and the Sustainable Development Goals (SDGs) — exploring the economics of a greener future.
+      - paragraph [ref=e31]:
+        - text: Prepared by
+        - strong [ref=e32]: Ezgi Eylem Erdoğan
+        - text: "&"
+        - strong [ref=e33]: Arda Akgül
+        - text: · Recorded & published by
+        - link "RadioTEDU" [ref=e34] [cursor=pointer]:
+          - /url: https://radiotedu.com
+  - generic [ref=e36]:
+    - paragraph [ref=e37]: Latest First
+    - heading "All Episodes & Seminars" [level=2] [ref=e38]
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - img [ref=e43]
+        - paragraph [ref=e46]: Nov 20, 2025 · Seminar
+      - heading "Küresel İklim Hedefleri ve İklim Politikalarına Genel Bakış" [level=3] [ref=e47]
+      - paragraph [ref=e48]:
+        - strong [ref=e49]: "Guest:"
+        - text: Bengisu Özenç — SEFiA Founding Director
+      - paragraph [ref=e50]: İklim değişikliği, sürdürülebilirlik ve küresel politika gündemi üzerine odaklanılan etkinlik TEDU400 ve TEDU101 kapsamında düzenlenmiştir.
+      - link "Küresel İklim Hedefleri" [ref=e52] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=OXK51UEG9jg
+        - img "Küresel İklim Hedefleri" [ref=e53]
+      - link "Watch on YouTube" [ref=e55] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=OXK51UEG9jg
+        - img [ref=e56]
+        - text: Watch on YouTube
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - img [ref=e62]
+        - paragraph [ref=e64]: Nov 14, 2025 · TEDUsTRC (Seminar w/TEDUsTRC)
+      - heading "Türkiye Emisyon Ticaret Sistemi Piyasası Kuruluşu" [level=3] [ref=e65]
+      - paragraph [ref=e66]:
+        - strong [ref=e67]: "Guest:"
+        - text: Arzu Önsal
+      - paragraph [ref=e68]: Çevre ve İklim Politikası, AB Yeşil Mutabakatı, İklim Müzakereleri gibi konular ele alındı.
+      - link "Emisyon Ticaret Sistemi" [ref=e70] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=58THEG-WnMM
+        - img "Emisyon Ticaret Sistemi" [ref=e71]
+      - link "Watch on YouTube" [ref=e73] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=58THEG-WnMM
+        - img [ref=e74]
+        - text: Watch on YouTube
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - img [ref=e80]
+        - paragraph [ref=e85]: Nov 7, 2025 · Seminar
+      - heading "Türkiye–China Economic Relations" [level=3] [ref=e86]
+      - paragraph [ref=e87]:
+        - strong [ref=e88]: "Guest:"
+        - text: Assoc. Prof. Dr. Emre Demir
+      - paragraph [ref=e89]: Seminar co-hosted by ERU and the TEDU Platform of Politics (POP).
+      - link "Türkiye-China Relations" [ref=e91] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=kB5pZBm0RKA
+        - img "Türkiye-China Relations" [ref=e92]
+      - link "Watch on YouTube" [ref=e94] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=kB5pZBm0RKA
+        - img [ref=e95]
+        - text: Watch on YouTube
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - img [ref=e101]
+        - paragraph [ref=e107]: Jun 8, 2025 · GreenTalks Ep. 2
+      - heading "Çin'in Yeşil Dönüşümü" [level=3] [ref=e108]
+      - paragraph [ref=e109]:
+        - strong [ref=e110]: "Guest:"
+        - text: Doç. Dr. Emre Demir (Assoc. Prof.)
+      - paragraph [ref=e111]: Çin'in yenilenebilir enerji alanındaki devasa yatırımları ve bu dönüşümün küresel jeopolitik üzerindeki etkileri.
+      - link "Çin'in Yeşil Dönüşümü" [ref=e113] [cursor=pointer]:
+        - /url: https://www.youtube.com/watch?v=_M88-HdFifw
+        - img "Çin'in Yeşil Dönüşümü" [ref=e114]
+      - generic [ref=e115]:
+        - link "Watch on YouTube" [ref=e116] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=_M88-HdFifw
+          - img [ref=e117]
+          - text: Watch on YouTube
+        - link "Spotify" [ref=e120] [cursor=pointer]:
+          - /url: https://open.spotify.com/episode/1pC6AC_66tiXW1_jtiWF-w
+          - img [ref=e121]
+          - text: Spotify
+  - contentinfo [ref=e123]:
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - generic [ref=e127]:
+          - text: TED University
+          - text: Economics Research Union
+        - generic [ref=e128]:
+          - link "LinkedIn" [ref=e129] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tedueru
+            - img [ref=e130]
+          - link "YouTube" [ref=e134] [cursor=pointer]:
+            - /url: https://www.youtube.com/@TEDUERU
+            - img [ref=e135]
+          - link "Instagram" [ref=e137] [cursor=pointer]:
+            - /url: https://www.instagram.com/erutedu/
+            - img [ref=e138]
+      - paragraph [ref=e142]: © 2026 TED University Economics Research Union. All rights reserved.
