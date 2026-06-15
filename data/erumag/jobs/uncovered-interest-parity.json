@@ -1,0 +1,35 @@
+{
+ "issue": 1,
+ "issue_title": "The Foundation",
+ "issue_subtitle": "Inaugural Issue",
+ "issue_year": "2025",
+ "issue_date": "2025-01-15",
+ "issue_cover": "covers/erumag-1-cover.jpg",
+ "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+ "slug": "uncovered-interest-parity",
+ "filename": "article-uncovered-interest-parity.html",
+ "title": "What Happened to Uncovered Interest Parity?",
+ "kind": "article",
+ "pages": [
+  13,
+  13
+ ],
+ "wordcount": 254,
+ "textfile": "data/erumag/uncovered-interest-parity.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/uncovered-interest-parity-f1.jpeg",
+   "caption": "",
+   "w": 1581,
+   "h": 1010,
+   "page": 13
+  },
+  {
+   "file": "assets/erumag/uncovered-interest-parity-f3.png",
+   "caption": "",
+   "w": 756,
+   "h": 331,
+   "page": 13
+  }
+ ]
+}

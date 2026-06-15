@@ -1,0 +1,189 @@
+An Early Trial of Euro: Central
+
+Bank of West African States
+
+Mustafa BOYDAŞ Economics 4 Year Student th
+
+European Monetary Union is most well-known monetary union in the World. However, it is not the only one. What if we say that there is another monetary union in the middle of Africa with a common central bank called BCEAO (Central Bank of West Africa)? The Central Bank of West African States (BCEAO) is a central bank and therefore the supranational monetary authority for the eight member states of the West African Economic and Monetary Union (WAEMU), named as Benin, Burkina Faso, Côte d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, and Togo. BCEAO headquarters is located in Dakar, the capital city of Senegal. The BCEAO issues the West African CFA franc (XOF), a currency pegged to the euro, as the only issuer of the West African CFA franc, and it is responsible for conducting the monetary policy of XOF, ensuring financial stability, and managing the FX reserves of the union.
+
+Historical Background
+
+We can consider that behind the BCEAO, there is a rich history about colonialism and the geopolitics of Africa, and to fully understand the sophisticated sides of the new Eco currency, it is essential to look at the history of the monetary authority in the region, the Central Bank of West African States (BCEAO). The story started with the CFA franc in 1945. On 26th December of 1945, the CFA franc was created. Initially, CFA was the abbreviation of the Colonies françaises d'Afrique (French Colonies of Africa). On 12th May 1962, Banque centrale des États de l'Afrique de l'Ouest (Central Bank of West African States) was founded as a supranational central bank of 8 member countries.
+
+Arda AKGÜL Economics/BA 3 Year Student rd
+
+At the same time, the West African Monetary Union (WAMU) was founded with the same member countries as well, yet Guinea-Bissau joined much later (1997), and Mauritania was originally in the union but left in 1973; Mali also left in 1962 and rejoined in 1984. After the foundation of WAMU, the name of their currency changed to Communauté Financière Africaine (African Financial Community). Besides the WAMU, in 1994 the West African Economic and Monetary Union (WAEMU) was founded to provide fiscal discipline, convergence, and regulatory union between WAMU countries, and its institutional evolution offers insights for the ECOWAS integration proposal. While the currency was managed from Paris in its early history, the 1970s witnessed a significant shift to Africanization. This shift happened during the term of the first African governor, Abdoulaye Fadiga, in 1975 and the relocation of the bank's headquarters from Paris to Dakar, Senegal, in 1978.
+
+BCEAO Headquarters, Dakkar/Senegal
+
+Source: MIT Library
+
+Despite these administrative changes, the currency continued to be pegged to the French franc. The
+
+rate was 50 CFA francs to 1 French franc. As narrated in the Future Plans section of this work, as of
+
+2025, the withdrawal of Mali, Burkina Faso, and Niger from ECOWAS to form the Alliance of Sahel States
+
+(AES) has made ECOWAS's plans delayed.
+
+Similarities with ECB
+
+The BCEAO is described as an "early trial" of the Euro in terms of the state coming from currency
+
+union, however, similarities exist. Both are central banks that are above the countries, and they govern
+
+a currency union of sovereign states. However, the differences show the distinct historical and
+
+economic contexts of West Africa and Europe.
+
+Feature European Central Bank (ECB)
+
+Free Float (determined by
+
+Exchange Rate Regime
+
+markets).
+
+Decentralized (held by National
+
+Reserve Management
+
+Central Banks).
+
+The ECB acts for the banking
+
+Lender of Last Resort
+
+system.
+
+External Guarantee None.
+
+Future Plans
+
+The Economic Community of West African States (ECOWAS), which was introduced in Lagos in 1975
+
+and has member countries in 15 West African countries, is currently working on the idea of an ECO
+
+currency. However, the vision of a unified currency may struggle as of 2025 due to Burkina Faso, Mali,
+
+and Niger because of their withdrawal from ECOWAS to form the Alliance of Sahel States (AES). These
+
+nations have rejected both the CFA franc and the proposed fiat money, the eco, and instead, they
+
+proposed a resource-backed model anchored in gold, uranium, and oil. This effectively splits the
+
+region into three competing monetary ideologies: the ECOWAS (fiat money Eco), the AES bloc
+
+(commodity-backed), and the status quo CFA zone. While ECOWAS maintains a 2027 launch target, the
+
+combination of missed convergence criteria and this new disparity shows that timeline is highly
+
+unrealistic.
+
+Central Bank of West African
+
+States (BCEAO)
+
+Fixed Peg (to the Euro).
+
+Historically Centralized
+
+(Operations Account).
+
+The French Treasury acted as an
+
+external guarantor for FX reserves
+
+for the pre-2021 period.
+
+French Treasury Guarantee
+
+(Unlimited Convertibility).
+
+The flags of the countries of the Economic Community of West African States (ECOWAS) Commission
+
+Conclusion and Suggestions
+
+Apparently, a well-functioning economy comes with political stability. However, as we should look at
+
+the structure specifically, it is important to define BCEAO’s path.
+
+Firstly, most of the West African countries, including WAEMU countries also, are suffering from
+
+different types of political instabilities. Military coups in Burkina Faso and Mali are two of the many
+
+examples. In this environment, a common central bank, monetary policy, and currency could be
+
+beneficial for WAEMU countries in providing independence of institutions. However, the decisions of
+
+BCEAO are not separate from the union countries themselves. In other words, the political instabilities
+
+of these countries are still affecting the BCEAO’s decisions whether there is an independent central
+
+bank or not. Therefore, there could be a risk of penalizing stable countries of the union also. Moreover,
+
+there are not homogeneous economies inside the WAEMU. They are all different in terms of inflation,
+
+fiscal policy and etc. As a result, the ideal monetary policy could differ. However, due to the common
+
+monetary policy for each country by BCEAO, the effects of the monetary policy change for every
+
+country.
+
+(Data Source: BCEAO*) *Burkina Faso’s inflation data is missing for the years of 2022 and 2023. Therefore, we use the same value of 2021 for these years.
+
+Source: BCEAO
+
+Besides, the Central Bank of West African States (BCEAO) is an institution that could be divided into
+
+two eras. It was designed to connect West Africa colonies to France. Through the reforms of 1975 and
+
+the leadership of Abdoulaye Fadiga, it attempted to localize this relationship, moving its headquarter
+
+to Dakar and its strategy toward African development. Today, however, the BCEAO faces an existential
+
+problems. First group is AES, the alliance demand a total sovereignity from France and a currency
+
+based on African resources such as Gold and Uranium. Second group is ECOWAS, who demand a
+
+merger with the volatile Western African economy under the Eco, and the group who demand stability
+
+as they fear from the hyperinflation of the WAMZ and prefer the safety of the Euro peg.
+
+Suggestions can be using the AES narrative without embracing volatility, so the BCEAO should
+
+consider moving from a strict Euro peg to a basket peg, for instance, a basket that contains Euro,
+
+Dollar and Yuan. A final step of maturity of this localization step would be for the BCEAO to build
+
+sufficient reserves to redo the French guarantee entirely, as it can transform the BCEAO into a truly
+
+independent central bank like any central bank.
+
+The "Early Trial of the Euro" in Africa has proven that a monetary union could survive for decades
+
+among developing nations. Whether it can survive the disparities in African geopolitical sovereignty is
+
+the defining question of the region.
+
+References:
+
+Bhatia, R. J. (1985). The West African Monetary Union: An analytical review (Occasional Paper No. 35). International Monetary Fund. https://doi.org/10.5089/9781616351083.084
+
+Central Bank of West African States (BCEAO). (2025, May 19). History of the CFA franc. https://www.bceao.int/en/content/history-cfa-franc
+
+Central Bank of West African States (BCEAO). (2025, May 19). Presentation of BCEAO. https://www.bceao.int/en/content/presentation-bceao
+
+Central Bank of West African States (BCEAO). (2025, May 19). Presentation of WAMU. https://www.bceao.int/en/content/presentation-wamu
+
+Economic Community of West African States. (n.d.). Member states. https://www.ecowas.int/member-states/
+
+Economic Community of West African States. (n.d.). News. https://www.ecowas.int/c/news/
+
+Ibrahim, G. (2020, April 1). Franc CFA'dan ECO'ya Afrika'da Para Birimi Tartışmaları [Currency discussions in Africa from Franc CFA to ECO]. ORDAF. https://ordaf.org/franc-cfadan-ecoya-afrikada-para-birimitartismalari/
+
+Masson, P., & Pattillo, C. (2001). Monetary union in West Africa (ECOWAS): Is it desirable and how could it be achieved? (Occasional Paper No. 204). International Monetary Fund.
+
+Nchadze, L. E. (2019, February 7). The populists are right – How the Franc CFA impoverishes Africa. On Policy Africa. https://onpolicy.org/the-populists-are-right-how-the-franc-cfa-impoverishes-africa/
+
+UMOA-Titres. (2021, August). Information note of WAEMU area. https://www.umoatitres.org/wpcontent/uploads/2022/03/Information-Note-of-WAEMU-area_2021.pdf

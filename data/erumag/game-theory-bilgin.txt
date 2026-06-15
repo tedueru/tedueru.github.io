@@ -1,0 +1,343 @@
+Game Theory with Dr. Günnur
+
+Ege Bilgin
+
+Arda AKGÜL Economics/BA 3 Year Student rd
+
+Assisted by Google’s NotebookLM to script the podcast.
+
+The "FieldTalks" podcast series, prepared in collaboration with the TED University Economics Research Union and broadcast on RadioTEDU, presented a podcast with Dr. Günnur Ege Bilgin in which the theoretical foundations and practical applications of Game Theory were discussed. It was hosted by Arda Akgül and Ezgi Eylem Erdoğan. This episode welcomed Dr. Bilgin back to the studio, accompanied by a special guest, Dr. Bilgin’s dog Neşe, following her previous session on Matching Theory and Market Design.
+
+Dr. Bilgin defines Game Theory not only as the study of games but also as the mathematical analysis of strategic interaction among decision-makers. In economic terminology, these decisionmakers are referred to as "agents," which can represent individuals, corporations, political parties, or nations. Dr. Bilgin states that whenever an agent's objective function, let it be profitability, satisfaction, or utility, is directly affected by the choices of another agent, Game Theory becomes the essential part of analysis.
+
+youtube.com/@TEDUERU
+
+instagram.com/erutedu
+
+The Ubiquity of Strategic Interaction
+
+Historical Evolution: From Oligopolies to
+
+Dr. Bilgin emphasizes that Game Theory is
+
+Nash
+
+shown everyday life, often occurs in
+
+Dr. Bilgin outlines the historical trajectory
+
+situations where individuals may not
+
+of the field, as Dr. Bilgin notes that while
+
+realize they are engaging in strategic
+
+formal Game Theory is often associated
+
+calculation. She illustrates this with the
+
+with the 20th century, its roots lie in the
+
+example of bargaining at a bazaar. The
+
+1700s and 1800s. Early economic models by
+
+seller places a high price tag not as a final
+
+Cournot and Bertrand examined
+
+offer but as a strategic anchor, as it is
+
+oligopolies, markets with few sellers, where
+
+anticipated that the buyer's counter offer.
+
+firms had to consider competitors' prices
+
+Similarly, in traffic, a driver’s decision to
+
+or quantities. However, the major turning
+
+yield or proceed is often based on an
+
+point occurred in the 1950s with John
+
+current assessment of the other driver's
+
+Nash. Prior to Nash, pioneers like von
+
+aggressiveness or intent. Even in academic
+
+Neumann and Morgenstern focused largely
+
+settings, students engage in game-theoretic
+
+on "zero-sum games," where one party’s
+
+behavior. A student’s decision on how
+
+gain is strictly the other’s loss. Nash
+
+much to study for a midterm is often a
+
+revolutionized the field by generalizing the
+
+strategic response to the perceived
+
+theory to apply to all types of interactions,
+
+preparation levels of their peers and the
+
+as it is proving that an equilibrium exists
+
+grading curve set by the instructor. These
+
+even in complex, non-zero-sum scenarios.
+
+interactions mirror the biological
+
+The "Nash Equilibrium" describes a state of
+
+competition seen in nature, where animals
+
+mutual consistency where no player has an
+
+compete for area or food, they also further
+
+incentive to deviate from their strategy,
+
+validate the theory’s application across
+
+provided others do not change theirs. This
+
+disciplines from biology to sociology.
+
+concept remains the initial part of modern
+
+microeconomic theory.
+
+Dr. Günnur Ege Bilgin, Neşe the Dog, Arda Akgül and Ezgi Eylem Erdoğan after the recording of
+
+the podcast in RadioTEDU studio.
+
+Game Theory in the Turkish Academic
+
+Landscape
+
+Türkiye also has a strong position in the
+
+field of microeconomic theory. Dr. Bilgin
+
+notes that because Game Theory acts as a
+
+foundational "language" or toolset for
+
+various economics disciplines, many
+
+Turkish academics are, by definition, game
+
+theorists. She highlights that scholars
+
+across major institutions like Boğaziçi, Koç,
+
+Bilkent, METU, and TED University utilize
+
+these tools to study Industrial
+
+Organization, Mechanism Design, and
+
+Social Choice Theory. Dr. Bilgin points out
+
+that political elections are a prime example
+
+of these theories in action. The interaction
+
+between voters, who may vote strategically
+
+rather than sincerely, and candidates, who
+
+adjust agendas to gain the median voter, is
+
+a complex game analyzed by mechanism
+
+designers and social choice theorists
+
+within the Turkish academy.
+
+An example of Prisoner’s dilemma game.
+
+Both Prisoner 1 and Prisoner 2 have a dominant strategy to
+
+play Confess, as it has a higher payoff than Not Confess,
+
+regardless of what the other player chooses.
+
+Solving Global Crises as The Collective
+
+Action Problem
+
+When addressing whether Game Theory
+
+can solve major global issues like climate
+
+change or the refugee crisis, Dr. Bilgin
+
+argues that the theory explains exactly why
+
+these problems are so difficult to resolve.
+
+These are classic "collective action"
+
+problems where individual incentives
+
+conflict with the collective good:
+
+Climate Change: While all nations
+
+benefit from a stable climate, the
+
+individual incentive for a country is
+
+often to continue polluting to maximize
+
+industrial growth while hoping other
+
+nations bear the cost of reduction.
+
+Refugee Crisis: Countries may agree on
+
+the humanitarian need to host refugees,
+
+but each individual nation often prefers
+
+that neighbors shoulder the burden. Dr.
+
+Bilgin suggests that recognizing these
+
+structures allows for "Mechanism
+
+Design", the reverse-engineering of a
+
+game. By altering incentives and
+
+regulations, policymakers can make the
+
+socially cooperative choice (reducing
+
+emissions or hosting refugees) the
+
+rational "best response" for individual
+
+agents.
+
+Forward Induction and the Stag Hunt
+
+Artificial Intelligence and the Perfection
+
+To move beyond standard examples like
+
+of Rationality
+
+the Prisoner's Dilemma, Dr. Bilgin
+
+The integration of artificial intelligence into
+
+introduces "Forward Induction" through
+
+the economy offers a promising frontier for
+
+the "Stag Hunt" game. In this scenario, two
+
+Game Theory. Dr. Bilgin notes that human
+
+hunters must choose between hunting a
+
+players often exhibit a "trembling hand",
+
+stag (high reward, requires cooperation) or
+
+making errors or acting irrationally due to
+
+a hare (low reward, can be done alone).
+
+emotion. AI agents, however, can be
+
+Without communication, the fear that the
+
+programmed to strictly apply rational
+
+other might choose the Hare often drives
+
+strategies. Dr. Bilgin uses the example of
+
+both to the low-reward equilibrium. Dr.
+
+autonomous vehicles to illustrate this
+
+Bilgin explains how adding a past option,
+
+benefit. In a traffic system that consists of
+
+such as a "Tea Garden", can solve this. If an
+
+AI drivers, every car knows the optimal
+
+agent had the option to go to a tea garden
+
+rules and knows that every other car
+
+for a medium reward but chose to hunt
+
+follows them. This eliminates the
+
+instead, the other player can deduce a
+
+uncertainty of human error, and it would
+
+specific intent. They infer that the agent
+
+allow the system to settle into a more
+
+would not have skipped the tea just to hunt
+
+efficient and safe equilibrium. Unlike
+
+a hare (which offers low reward).
+
+humans, who might act unpredictably, AI
+
+Therefore, the agent must be targeting the
+
+agents can sustain stable cooperation in
+
+Stag. This "Forward Induction", analyzing
+
+complex environments.
+
+past actions to predict future rational
+
+behavior, allows players to coordinate on
+
+the optimal outcome.
+
+Pop Culture and Resources
+
+For enthusiasts looking to explore the field, Dr. Bilgin recommends the film A Beautiful Mind for a
+
+dramatized but inspiring look at John Nash’s life. For a more practical understanding, she
+
+suggests observing the "power struggles" in daily relationships or politics. Academically, she
+
+recommends the handbooks and textbooks by Osborne and Rubinstein, which present Game
+
+Theory as an engaging form of puzzle-solving accessible to those willing to think strategically.
+
+We’d like to thank Dr. Bilgin for her contribution
+
+and support to our works.
+
+youtube.com/@TEDUERU
+
+instagram.com/erutedu
+
+Make sure that you’re subscribed to TED University Economics Research Union’s YouTube Channel to be notified with new episodes!

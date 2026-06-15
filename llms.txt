@@ -14,8 +14,8 @@ Primary sections:
 - /contact.html : Contact information
 
 Key content types:
-- Article pages under /article-*.html
-- ERUMAG issue pages under /erumag-*.html
+- Article pages under /article-*.html (each ERUMAG magazine article is also published as its own readable page with an AI-generated summary and charts)
+- ERUMAG issue pages under /erumag-*.html (each lists every article in that issue)
 - PDF issues in the site root
 
 Primary organization:

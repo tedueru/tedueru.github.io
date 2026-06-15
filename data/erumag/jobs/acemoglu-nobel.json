@@ -1,0 +1,98 @@
+{
+ "issue": 1,
+ "issue_title": "The Foundation",
+ "issue_subtitle": "Inaugural Issue",
+ "issue_year": "2025",
+ "issue_date": "2025-01-15",
+ "issue_cover": "covers/erumag-1-cover.jpg",
+ "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+ "slug": "acemoglu-nobel",
+ "filename": "article-acemoglu-nobel.html",
+ "title": "Daron Acemoglu: The Story Behind the Nobel",
+ "kind": "article",
+ "pages": [
+  14,
+  20
+ ],
+ "wordcount": 2270,
+ "textfile": "data/erumag/acemoglu-nobel.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/acemoglu-nobel-f1.png",
+   "caption": "",
+   "w": 756,
+   "h": 504,
+   "page": 14
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f2.png",
+   "caption": "",
+   "w": 515,
+   "h": 768,
+   "page": 16
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f3.jpeg",
+   "caption": "",
+   "w": 720,
+   "h": 464,
+   "page": 17
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f4.jpeg",
+   "caption": "",
+   "w": 305,
+   "h": 348,
+   "page": 17
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f5.png",
+   "caption": "Professor Yuen Yuen Ang at SOAS for",
+   "w": 500,
+   "h": 389,
+   "page": 17
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f6.png",
+   "caption": "",
+   "w": 615,
+   "h": 410,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f7.png",
+   "caption": "",
+   "w": 768,
+   "h": 512,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f8.png",
+   "caption": "Book cover of What is Economics by Rosa",
+   "w": 321,
+   "h": 480,
+   "page": 19
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f9.png",
+   "caption": "",
+   "w": 345,
+   "h": 123,
+   "page": 19
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f10.jpeg",
+   "caption": "Claudia Goldin after receiving her Nobel Prize on 10 December 2023.",
+   "w": 530,
+   "h": 353,
+   "page": 20
+  },
+  {
+   "file": "assets/erumag/acemoglu-nobel-f11.png",
+   "caption": "",
+   "w": 1440,
+   "h": 812,
+   "page": 20
+  }
+ ]
+}

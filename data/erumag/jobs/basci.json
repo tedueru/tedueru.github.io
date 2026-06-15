@@ -1,0 +1,49 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "basci",
+ "filename": "article-basci.html",
+ "title": "Inflation, Uncertainty and AI: Interview with Prof. Dr. Erdem Basci",
+ "kind": "interview",
+ "pages": [
+  20,
+  23
+ ],
+ "wordcount": 1241,
+ "textfile": "data/erumag/basci.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/basci-f1.png",
+   "caption": "",
+   "w": 658,
+   "h": 494,
+   "page": 20
+  },
+  {
+   "file": "assets/erumag/basci-f2.png",
+   "caption": "A surgeon robot that performs with a performance of human (Johns Hopkins",
+   "w": 864,
+   "h": 588,
+   "page": 22
+  },
+  {
+   "file": "assets/erumag/basci-f3.png",
+   "caption": "",
+   "w": 1200,
+   "h": 900,
+   "page": 22
+  },
+  {
+   "file": "assets/erumag/basci-f4.png",
+   "caption": "",
+   "w": 658,
+   "h": 494,
+   "page": 23
+  }
+ ]
+}

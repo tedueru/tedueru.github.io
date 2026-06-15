@@ -1,0 +1,35 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "transportation-rd",
+ "filename": "article-transportation-rd.html",
+ "title": "Transportation and Infrastructure From an R&D and Innovation Perspective",
+ "kind": "article",
+ "pages": [
+  36,
+  37
+ ],
+ "wordcount": 748,
+ "textfile": "data/erumag/transportation-rd.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/transportation-rd-f1.png",
+   "caption": "Li et al. (2025)",
+   "w": 478,
+   "h": 336,
+   "page": 37
+  },
+  {
+   "file": "assets/erumag/transportation-rd-f2.png",
+   "caption": "Li et al. (2025)",
+   "w": 560,
+   "h": 275,
+   "page": 37
+  }
+ ]
+}

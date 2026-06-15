@@ -1,0 +1,47 @@
+“At Least 3 Kids!”
+
+Gökçenur BAŞARAN Economics 4 Grade Student th
+
+In the last years, the fertility rate in Türkiye has been very low (1.48), which is way lower than the sustainable population value of 2.1. Why does this happen? Is it just about the economic crisis that we experience nowadays, or is it a worldwide trend? In 2001, the fertility rate was 2.38; in 2024, it is 1.48 (TurkStat, 2025). What do these numbers say to us? Today, Türkiye’s fertility rate has fallen to 1.48 children per woman, which means that, on average, each woman is having fewer than 1.5 children in her lifetime. Experts warn that this is well below the 2.1 rate needed to maintain a stable population. What are the possible reasons behind this decline?
+
+Number of births and total fertility rate, 2001-2024
+
+(Birth Statistics, TurkStat)
+
+As we can see in the graph, Türkiye’s fertility rate has a decreasing trend, especially after 2018. Before arguing the reasons, let’s see the fertility rate in other countries. I chose the United States, Mexico, Brazil, Germany, Hungary, and Romania. Brazil and Mexico were chosen because those countries are developing countries such as Türkiye. Hungary is chosen since its political and economic situation is similar to Türkiye, and to see the whole world situation, I added Germany and the USA as developed countries to determine if they have the same issue as Türkiye.
+
+People stopped having children in Türkiye, especially after 2018. Why does this happen? Is this a threat? Should the government encourage people to have a child or children?
+
+To answer this question, we first need to understand what the fertility rate is. The fertility rate is the average number of children a woman is expected to have in her lifetime. The reference value for population growth is approximately 2.1 children per woman for long-term stability. This means that to maintain the same population levels, countries should have a rate of 2.1. To achieve population growth, the rate should be more than 2.1.
+
+In Türkiye, the fertility rate decreased to 1.48. (TurkStat, 2025) This fall has gained momentum, especially after 2017, and it has fallen below the replacement threshold of 2.1 for the population. Today, it has a similar level to countries such as Germany and Hungary. While Hungary started from a low level and increased with incentives, Türkiye reached this level by declining.
+
+Fertility Rate in 6 Countries Data: World Bank, World Development Indicators
+
+Brazil also has a decreasing trend as Türkiye. Although Mexico has a higher fertility rate, it is on a similar decreasing trend. In Germany, there was a temporary increase due to factors such as immigration and women's employment, and then it started to decline again. On the other hand, the USA has been stable for a long time, but its fertility rate also has been decreasing in recent years. These data show that Türkiye is following the global trend of fertility decline, but this process is happening faster compared to other countries. Despite the incentives applied, the downward trend in fertility rates has not been overcome.
+
+According to an article published in 2024, Sobotka, Beaujouan & Zeman (2024), the reasons behind the fall in the fertility rate declining trend in the world are the following:
+
+Demand-Side Reasons: • Career and freedom priority: Individuals prioritize personal development and independent living. • Changing social norms: The understanding that "having children is mandatory" is weakening. • Transformation in lifestyle preferences: Preferences such as individuality, travel, and personal comfort are increasing. • Economic concerns: Unemployment, low income, and high living costs reduce the desire to have children. • Marriage and relationship structures: The marriage rate is declining; relationships are becoming more fragile.
+
+Capacity (Biological and Social) Side Causes: • Late birth age: Women postpone childbearing, and biological fertility decreases. • Increase in infertility rates: Health problems, stress, and environmental pollution affect fertility. • Lack of state support: Inadequate daycare, maternity leave, care allowances put women in a difficult position
+
+However, as a country, we are experiencing the lowest rates in the last 20 years. According to an article by Keskin and Çavlin (2022), researchers calculated completed fertility rate (CFR) for each
+
+cohort (women born in 1960–1982) which is defined as the total number of children ever born to a woman by the end of her reproductive years. The study concludes that the reasons behind the decline in the fertility rate in Türkiye are the following:
+
+•Education Level: Women who have higher education levels tend to have fewer children. Especially among university graduates, the number dropped to 1.5. •Urbanization: Women living in the cities have fewer children than in the countryside.
+
+•Regional Difference: Fertility is low in the West, higher in the East, but declining there as well. •Generation Effect: While women born in 1950 had an average of 4 children, this number dropped to 2.1 among women born in 1982. Fertility declined with each generation.
+
+•Heterogeneity (Inequality): Not everyone was affected at the same rate. The rate of decline is different according to education, place of residence, and region.
+
+Another article (Kavas & Civelek, 2023) also reviews the years 2001–2023 and adds contributions as below: • Late Marriage and Birth (Postponement Effect): Women marry later and have children; this reduces the total number of children. • Women's Participation in the Labor Force: As women's participation in the labor force increases, the role of motherhood is postponed or decreased, and the balance of work and children is effective, especially for educated women. • Change in Family Structure: While the traditional extended family model has declined, the nuclear family has become widespread, and the norm of "many children" has been socially weakened.
+
+To sum up, the decline in Türkiye’s fertility rate is not just a national problem but also part of a global trend that is shaped by economic, social, and cultural changes. The speed and intensity of the decline in Türkiye stand out. Factors such as delayed marriage, higher education levels, and financial instabilities are common across many countries, but Türkiye’s unique conditions, such as urban-rural gaps, regional differences, and lack of strong support systems, make the impact greater. These patterns show that if no inclusive and long-term policies are developed, Türkiye could face serious problems like an aging population, a shrinking workforce, and demographic imbalance.
+
+Reference: Kavas, S., & Civelek, S. (2023). Türkiye'de doğurganlık oranlarının düşüşü: Eğilimler, nedenler ve sonuçlar. Türkiye Nüfus Etütleri Dergisi, 45(2), 92–126.
+
+Keskin, F., & Çavlin, A. (2022). Cohort fertility heterogeneity during the fertility decline period in Turkey. Journal of Biosocial Science, 55(4), 779–794. https://doi.org/10.1017/s0021932022000268
+
+Winkler-Dworak, M., Zeman, K., & Sobotka, T. (2024). Fertility decline in the later phase of the COVID‑19 pandemic: The role of policy interventions, vaccination programmes, and economic uncertainty [Preprint]. medRxiv. https://doi.org/10.1101/2024.04.26.243064

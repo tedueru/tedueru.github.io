@@ -1,0 +1,43 @@
+Gender-Based Consumer Behavior: A Comparative Analysis of Women's and
+
+Men's Spending Habits
+
+Kerem BARBAROS
+
+Economics 4 Year Student th
+
+Consumer behavior is a complex process shaped not only by economic rationality but also by sociological, psychological, and cultural factors. The field referred to in academic literature as “Gender Marketing” reveals that women and men exhibit distinct differences in their purchasing motivations, information processing, and risk perceptions (Silverstein & Sayre, 2009; Brennan, 2015). This article examines these differences along the axes of Utilitarian and Hedonic consumption.
+
+1. Psychological Foundations: “Hunter” and “Gatherer” Instincts
+
+• Men (Outcome-Focused/Hunter): Men's shopping behavior is generally defined as “taskoriented.” A man's entry into a store usually carries the goal of obtaining a specific product in the shortest time and with the least effort. Shopping is not a ‘process’ but a “job” to be completed (Kruger & Byker, 2009).
+
+• Women (Process-Oriented/Gatherers): For women, shopping is a holistic experience that goes beyond simply owning the product, encompassing processes of research, comparison, and socialization. The emphasis on details and the desire to “find the best option” prolongs women's decision-making process while also spreading their satisfaction level throughout the process (Silverstein & Sayre, 2009).
+
+2. Data-Based Findings
+
+The spending difference between genders is not only theoretical but also supported by statistical data.
+
+Data 1: Dominance in Purchase Decisions Global market research shows that women are the decisive force in household spending. Various studies (e.g., Bloomberg and Forbes data) indicate that approximately 70% to 80% of consumer spending worldwide is controlled or directly influenced by women (Silverstein & Sayre, 2009; Brennan, 2015). This shows that women play a critical role as the “veto power” or “approval authority” even in areas traditionally attributed to men, such as automobiles or real estate.
+
+Data 2: Investment and Risk Perception A 2021 study by Fidelity Investments titled “Women and Investing” revealed a striking piece of data. Women trade less frequently than men; however, when looking at long-term portfolio performance, female investors' returns were found to be an average of 40 basis points (0.4%) higher than men's on an annual basis (Fidelity Investments, 2021). This suggests that men, with their overconfidence bias, engage in riskier and more frequent trading, increasing commission costs, while women tend to be more cautious and inclined toward a “buy and hold” strategy.
+
+3. Digital Consumption and E-Commerce
+
+With digitalization, spending habits are changing shape:
+
+• Information Processing: While men generally focus on technical specifications (specs) and logistics speed on e-commerce sites, women focus on user reviews, social proof, and the context of product use (Brennan, 2015).
+
+•Average Basket Size: Men's single-transaction spending amount (average basket size) is generally higher , while women shop more frequently (Silverstein & Sayre, 2009).
+
+Women's and men's spending habits can be explained by socio-economic roles rather than biological determinism. Men view spending as a means of “gaining power and status” or “satisfying needs,” while women code it as a means of “household welfare,” “relationship management,” and “personal expression.” However, with Generation Z, the blurring of gender roles indicates that these sharp distinctions will gradually diminish over the next decade.
+
+References:
+
+Silverstein, M. J., & Sayre, K. (2009). "The Female Economy". Harvard Business Review
+
+Brennan, B. (2015). "Top 10 Things Everyone Should Know About Women Consumers"
+
+Forbes. Fidelity Investments. (2021). 2021 Women and Investing Study
+
+Kruger, D. J., & Byker, D. (2009). "Evolved Foraging Psychology Underlies Sex Differences in Shopping Experiences and Behaviors". Journal of Social, Evolutionary, and Cultural Psychology

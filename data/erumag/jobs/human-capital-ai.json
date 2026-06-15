@@ -1,0 +1,20 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "human-capital-ai",
+ "filename": "article-human-capital-ai.html",
+ "title": "The Future of Human Capital: Navigating the Duality of AI in Professional Practice",
+ "kind": "article",
+ "pages": [
+  11,
+  13
+ ],
+ "wordcount": 1476,
+ "textfile": "data/erumag/human-capital-ai.txt",
+ "figures": []
+}

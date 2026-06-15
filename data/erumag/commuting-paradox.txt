@@ -1,0 +1,43 @@
+How Commuting Is Affecting
+
+Our Mood?
+
+Mustafa BOYDAŞ Economics Master's Student at TED University
+
+Commuting is a concept for some of us that is scary and stressful. As a person who is commuting almost every day between Batıkent and Kolej using public transport, I am quite sure that I am also among these people. On some days, I am not using the metro due to the congestion, although it will be quicker. Instead, I am trying to find alternative ways to my home which are not as crowded as the Ankara Metro. Besides, I sometimes even feel bad when I remember that I have to use public transport to come back home. Due to “commuting” being a stressful concept in my life, I wanted to read literature and learn about this topic. In this article, you will read my findings in the literature.
+
+Commuting Paradox
+
+Firstly, the Standard Urban Model (Alonso, 1964; Muth, 1969; Mills, 1972) is a model that can explain a lot of daily concepts, such as rent prices, house and work locations. The model explains that in the city centers, house rents are high, but your commuting time is very low. However, if you are far from the city center, there are cheaper houses but a longer commuting time. Besides, your house satisfaction could be higher due to the larger houses and gardens. Therefore, people can compensate for their work commute with higher satisfaction that comes from bigger houses or cheaper rents. As a result, there is a general equilibrium where no one can move to a place that gives higher utility. However, some economists argue that there is a “commuting paradox” of people in real life. In other words, they think that people couldn’t compensate for their utility level if they are living far from the city center, which means their work. The theory is brilliant, but is it aligned with real life?
+
+Stutzer and Frey (2008) investigated the link between the theory and the data. By using the German Socioeconomic Panel survey (GSOEP) between 1985 and 2003, they tried to compare the utility level differences by commuting time. To calculate the utility level, they used subjective well-being level data that comes from GSOEP as a proxy variable. Their initial assumption is that the utility level will not change as the commuting time changes. The reason behind that is the Standard Urban Model’s compensation.
+
+Basically, people can compensate for their well-being by renting cheaper or better houses even though these houses are far from the city center. However, if there is a statistically significant well-being level difference between the individuals who are suffering from different commuting times, that means that there isn’t enough compensation for these people.The results of this study show that people’s subjective well-being decreases as commuting time increases. Hence, the theory isn’t aligned with the data, and people cannot compensate for their utility level in real life. The authors named that situation the “commuting paradox”. Moreover, they found that people need a 35.4% increase in their wages on average to fully compensate for their subjective well-being.
+
+Does Commuting Type Matter?
+
+Commuting time is not the only thing that affects utility. Commuting type is also effective. Olsson et al. (2013) focus on happiness and commuting. In this study from Sweden, they divide the communication types into 3: private cars, public transport, and biking or walking. According to the results of this study, the people who are walking or biking as commuting have higher satisfaction levels than commuting with cars or public transportation. Another finding is that increasing commuting time also decreases the satisfaction level. Therefore, people’s satisfaction levels aren’t just related to the duration of commuting but also to the type of commuting.
+
+Monocentric City (Google Nano Banana 2)
+
+Another study from the Netherlands mainly focused on different commuting types and their effects on people’s moods (Lancée et al., 2017). Their results showed that the people who are using public transport for commuting have the lowest happiness. Similarly, walking and riding a bike are the best in terms of happiness levels. A different finding is that commuting with someone also affects your mood positively.
+
+Although these papers perfectly reflect my experiences, I am also wondering about the Turkish literature on this topic. Serin Atis et al. (2022) investigated the relation between commuting, mood, and job performance. People who are using public transportation as commuting have a significantly worse mood than using private cars. Another finding is that people who have lower moods are also performing worse in their jobs. However, they couldn’t find any significant relation between commuting duration and job performance.
+
+I think these papers explain perfectly the situation that most people feel every day. Even though reading these papers will not provide a better experience for me, I believe that we can still make our journey enjoyable by socializing or focusing on ourselves.
+
+Reference :
+
+Alonso, W. (1964). Location and land use: Toward a general theory of land rent. Harvard University Press.
+
+Lancée, S., Veenhoven, R., & Burger, M. (2017). What way of travel feels best for what kind of people? Mood during commute in the Netherlands. Transportation Research Part A, 104, 195–208. https://doi.org/10.1016/j.tra.2017.04.025
+
+Mills, E. S. (1972). Studies in the structure of the urban economy. Johns Hopkins University Press.
+
+Muth, R. F. (1969). Cities and housing. University of Chicago Press.
+
+Olsson, L. E., Gärling, T., Ettema, D., Friman, M., & Fujii, S. (2013). Happiness and satisfaction with work commute. Social Indicators Research, 111, 255–263. https://doi.org/10.1007/s11205-012-0003-2
+
+Serin Atis, G., Ozic, A. B., Bukruk, T., Ozkaya, E., & Kantas Yorulmazlar, O. (2022). The association between commuting, mood and job performance: the structural equation modelling approach. International Journal of Occupational Safety and Ergonomics, 28(4), 2599–2605. https://doi.org/10.1080/10803548.2021.2010970.
+
+Stutzer, A., & Frey, B. S. (2008). Stress that doesn’t pay: The commuting paradox. Scandinavian Journal of Economics, 110(2), 339–366. https://doi.org/10.1111/j.1467-9442.2008.00542.x

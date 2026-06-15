@@ -1,0 +1,42 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "corruption",
+ "filename": "article-corruption.html",
+ "title": "Corruption and Economic Growth",
+ "kind": "article",
+ "pages": [
+  26,
+  28
+ ],
+ "wordcount": 886,
+ "textfile": "data/erumag/corruption.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/corruption-f1.png",
+   "caption": "",
+   "w": 656,
+   "h": 490,
+   "page": 26
+  },
+  {
+   "file": "assets/erumag/corruption-f2.png",
+   "caption": "Source: Gründer and Potrafke (2019)",
+   "w": 809,
+   "h": 439,
+   "page": 27
+  },
+  {
+   "file": "assets/erumag/corruption-f3.png",
+   "caption": "",
+   "w": 882,
+   "h": 419,
+   "page": 28
+  }
+ ]
+}

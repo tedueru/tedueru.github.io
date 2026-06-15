@@ -1,0 +1,56 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "matching-theory-bilgin",
+ "filename": "article-matching-theory-bilgin.html",
+ "title": "Matching Theory and Market Design with Dr. Gunnur Ege Bilgin",
+ "kind": "interview",
+ "pages": [
+  33,
+  34
+ ],
+ "wordcount": 475,
+ "textfile": "data/erumag/matching-theory-bilgin.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/matching-theory-bilgin-f1.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 33
+  },
+  {
+   "file": "assets/erumag/matching-theory-bilgin-f2.png",
+   "caption": "Path to Academia",
+   "w": 960,
+   "h": 540,
+   "page": 33
+  },
+  {
+   "file": "assets/erumag/matching-theory-bilgin-f3.png",
+   "caption": "RadioTEDU Studios, March 2025.",
+   "w": 199,
+   "h": 237,
+   "page": 34
+  },
+  {
+   "file": "assets/erumag/matching-theory-bilgin-f4.png",
+   "caption": "RadioTEDU Studios, March 2025.",
+   "w": 188,
+   "h": 241,
+   "page": 34
+  },
+  {
+   "file": "assets/erumag/matching-theory-bilgin-f5.png",
+   "caption": "",
+   "w": 486,
+   "h": 230,
+   "page": 34
+  }
+ ]
+}

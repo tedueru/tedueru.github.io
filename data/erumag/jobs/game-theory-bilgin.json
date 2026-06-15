@@ -1,0 +1,49 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "game-theory-bilgin",
+ "filename": "article-game-theory-bilgin.html",
+ "title": "Game Theory with Dr. Gunnur Ege Bilgin",
+ "kind": "interview",
+ "pages": [
+  39,
+  42
+ ],
+ "wordcount": 1231,
+ "textfile": "data/erumag/game-theory-bilgin.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/game-theory-bilgin-f1.png",
+   "caption": "Assisted by Google’s NotebookLM to script the podcast.",
+   "w": 960,
+   "h": 540,
+   "page": 39
+  },
+  {
+   "file": "assets/erumag/game-theory-bilgin-f2.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 39
+  },
+  {
+   "file": "assets/erumag/game-theory-bilgin-f3.jpeg",
+   "caption": "",
+   "w": 820,
+   "h": 615,
+   "page": 40
+  },
+  {
+   "file": "assets/erumag/game-theory-bilgin-f4.png",
+   "caption": "An example of Prisoner’s dilemma game.",
+   "w": 512,
+   "h": 388,
+   "page": 41
+  }
+ ]
+}

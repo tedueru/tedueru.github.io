@@ -1,0 +1,59 @@
+Is having a common currency
+
+beneficial for EU countries?
+
+Mehmet Orkun APAYDIN Economics Master’s Student at TED University
+
+Europe is seen as the centre of enlightenment and civilization thanks to having crucial periods like the Renaissance and industrial revolution. Besides that, Europe has struggled with conflicts, and following world wars devastated most European cities in terms of infrastructure, institutions, and population, so European economies spent time fixing their economies. The European Union was established in 1991 after the collapse of the Berlin Wall. To join the European Union itself, a country must fulfil the Copenhagen Criteria, such as democracy and the existence of the rule of law. To then enter the Euro Area, a country must also meet the Maastricht Criteria, such as price stability and a budget deficit of around 3 percent. Croatia joined the Euro Area in 2023, and Bulgaria joined the Euro Area in 2026.
+
+The common currency, the Euro, satisfies economic integration, low inflation, low exchange rate, low trade cost and has a reserve currency for the Euro Area countries.
+
+However, from the establishment, the vulnerability of the economic system of the European Union has demonstrated that every member reacted to exogenous shocks differently.
+
+"If the Euro fails, Europe fails.” -Angela Merkel
+
+Also, endogenous shocks like the European Debt Crisis within the union could harm other members. These cases lead us to ask these questions: Is the adoption of the Euro as a common currency suitable for European Union members, and is having a common currency, the Euro, adequate to bring inflation down? These questions might be answered by looking at different perspectives, the first one is the monetary policy perspective.
+
+Sweden, Denmark, Hungary, Romania, Czechia and Poland are non-Euro Area countries of the EU. To answer these questions, it’s necessary to look at monetary policy tools like inflation and Real GDP data of those countries to compare with the Euro Area.
+
+Source: World Development Indicators
+
+From the inflation of non-Euro Area and Euro Area data below, it can be seen that there is a similar trend between the two groups over the two decades. Non-Euro Area countries’ inflation was below 10 per cent during the European Debt crisis between 2010 and 2012, which hit Euro Area members like Greece and Portugal.
+
+Source: World Development Indicators
+
+Some shocks, like the 2009 global financial crisis, have demonstrated that the flexibility of using one's own currency decreases the harm of shocks to the economy. Cases of non-Euro Area countries might be examined by using a similar Trilemma of Dani Rodrik. The Trilemma includes national sovereignty, a democratic state and hyper globalization currency, which is the Euro for the EU, and the country must pick two of three policies and must give up one of them. Countries like Sweden and Denmark prefer nation-states, democratic states, by giving up the Euro. Vermeiren (2013) argues that non-Euro Area countries have flexibility by refusing economic integration and insulating themselves from possible shocks by protecting national sovereignty and democratic politics
+
+The people of Sweden refused to be integrated into the Euro in 2003 to protect the flexibility of the Swedish Krona and national sovereignty. Likely, Denmark refused the Maastricht Criteria in 2000 to protect the flexibility of the Danish Krone and national sovereignty, and the EU provided Denmark an opt-out, which includes stabilization of the Danish Krone with the Euro.
+
+Furthermore, Poland, which uses the Zloty, has been affected minimally among European Union members in the 2009 global financial crisis. Drozdowicz-Bieć (2011) states that Poland was the only member of the European Union that avoided the global financial crisis in 2009, and the flexibility of the Zloty helped Poland to enhance exports through the global financial crisis. Also, Poland takes advantage of financial stability in the firm dynamics side, and Akcigit et al. (2023) argue that Poland has considerable development in innovation in Eastern Europe and has moved from low to middle income.
+
+Czechia stays away from using the Euro due to cultural and economic concerns. Baun et al. (2010) argue that the Czech Krona symbolises economic stability and independence, so moving the Euro from the Krona is not just an economic decision. Horvath (2007) states that independent monetary policy is a kind of insurance to avoid a crisis.
+
+Real GDP Growth
+
+Czech Central Bank Ceska Narodni Banka, Prague Source: Mehmet Orkun Apaydın Archive
+
+There is a historical background of disagreement about a common currency, from the Rodrik Trilemma perspective. Ortaylı (2026) states that the economic integration of the European Union is a project that appears perfect on paper; however, it fails to account for the profound social and cultural differences within Europe’s fabric. The economic structure of Northern Europe, shaped by the Protestant ethic and discipline, cannot be fused in the same melting pot (the Euro) as the Mediterranean world, which is more flexible, prone to the informal economy, and detached from such discipline. This is akin to forcing a suit of armour onto a weak-bodied economy that it simply cannot carry. Consequently, while the hegemony of the strong (Germany) increases, others lose their room for manoeuvre (Ortaylı, 2026, p. 185).
+
+In conclusion, using the Euro provides economic integration, low inflation, a low exchange rate, low trade costs, and a reserve currency for Euro Area countries; however, during crises, non-Euro Area countries have the flexibility to mitigate the impact of possible shocks, as in Poland’s case during the 2009 crisis. Moreover, non-Euro Area countries have national sovereignty and democratic state concerns against the
+
+acceptance of the Euro. There is no certain answer for these questions, common currency preferences of EU members depend on members’ political, economic and cultural attitudes, so the Euro could be just as advantageous as not using it, and not using the Euro might be beneficial for European Union members.
+
+References:
+
+Baun, M., & Marek, D. (2010). "The Czech Republic and the Euro: Public Opinion and the Political Economy of Euro Adoption”, Journal of Contemporary European Studies, 18(2), 179-194.
+
+Drozdowicz-Bieć, M. (2011). "Reasons Why Poland Avoided the 2007-2009 Recession", Prace i Materiały Instytutu Rozwoju Gospodarczego (SGH), 86(2), 39-66.
+
+Horvath, R. (2007). "Ready for EMU? Evidence for the Czech Republic."
+
+Ortaylı, İ. (2026). Europe and Us (Avrupa ve Biz). Istanbul: Kronik Kitap. (pp. 182-190).
+
+Rodrik, D. (2011). The globalization paradox: Democracy and the future of the world economy. W. W. Norton & Company.
+
+Vermeiren, M. (2013). "The Political Economy of the Eurozone Crisis: A Rodrikian Perspective.", Journal of Common Market Studies, 51(6), 1194-1210.
+
+World Bank. (2024, August 1). From shadows to sunrise: How to overcome the middle-income trap. World Bank Blogs. https://blogs.worldbank.org/en/developmenttalk/from-shadows-to-sunrise--how-to-overcome-the-middle-income-trap
+
+World Bank. (t.y.). World Development Indicators. https://databank.worldbank.org/source/world-developmentindicators

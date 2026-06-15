@@ -1,0 +1,35 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "reading-economy-numbers",
+ "filename": "article-reading-economy-numbers.html",
+ "title": "Reading the Economy Through Numbers: What Do Mathematical Models Tell Us?",
+ "kind": "article",
+ "pages": [
+  37,
+  38
+ ],
+ "wordcount": 450,
+ "textfile": "data/erumag/reading-economy-numbers.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/reading-economy-numbers-f1.png",
+   "caption": "The Mathematics of Strategic Decisions: Game Theory",
+   "w": 450,
+   "h": 300,
+   "page": 37
+  },
+  {
+   "file": "assets/erumag/reading-economy-numbers-f2.png",
+   "caption": "",
+   "w": 373,
+   "h": 374,
+   "page": 38
+  }
+ ]
+}

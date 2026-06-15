@@ -1,0 +1,35 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "breakups-economy",
+ "filename": "article-breakups-economy.html",
+ "title": "How Breakups Affect the Economy: Marriages, Breakups and Divorces",
+ "kind": "article",
+ "pages": [
+  10,
+  13
+ ],
+ "wordcount": 1925,
+ "textfile": "data/erumag/breakups-economy.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/breakups-economy-f1.png",
+   "caption": "",
+   "w": 1125,
+   "h": 750,
+   "page": 10
+  },
+  {
+   "file": "assets/erumag/breakups-economy-f2.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 10
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "everything-is-a-lie",
+ "filename": "article-everything-is-a-lie.html",
+ "title": "Everything Is a Lie: The World Just Turns Around Itself 365 Times",
+ "kind": "article",
+ "pages": [
+  29,
+  32
+ ],
+ "wordcount": 1493,
+ "textfile": "data/erumag/everything-is-a-lie.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/everything-is-a-lie-f1.png",
+   "caption": "Source: hausfraujournal.com",
+   "w": 400,
+   "h": 358,
+   "page": 30
+  },
+  {
+   "file": "assets/erumag/everything-is-a-lie-f2.png",
+   "caption": "Source: polyp.org.uk",
+   "w": 378,
+   "h": 275,
+   "page": 30
+  },
+  {
+   "file": "assets/erumag/everything-is-a-lie-f3.png",
+   "caption": "",
+   "w": 540,
+   "h": 403,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/everything-is-a-lie-f4.png",
+   "caption": "Source: openPR.com",
+   "w": 472,
+   "h": 378,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/everything-is-a-lie-f5.png",
+   "caption": "",
+   "w": 775,
+   "h": 517,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/everything-is-a-lie-f6.png",
+   "caption": "Consumerism by BOBERT",
+   "w": 432,
+   "h": 563,
+   "page": 32
+  }
+ ]
+}

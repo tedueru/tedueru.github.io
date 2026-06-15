@@ -1,0 +1,42 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "steam-engine",
+ "filename": "article-steam-engine.html",
+ "title": "Who's Afraid of the Steam Engine?",
+ "kind": "article",
+ "pages": [
+  14,
+  17
+ ],
+ "wordcount": 1684,
+ "textfile": "data/erumag/steam-engine.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/steam-engine-f1.png",
+   "caption": "",
+   "w": 520,
+   "h": 362,
+   "page": 14
+  },
+  {
+   "file": "assets/erumag/steam-engine-f2.png",
+   "caption": "The Economist, 2012",
+   "w": 476,
+   "h": 268,
+   "page": 15
+  },
+  {
+   "file": "assets/erumag/steam-engine-f3.png",
+   "caption": "Figure 2: Executive expectations regarding AI's impact on employment and labor productivity.",
+   "w": 630,
+   "h": 460,
+   "page": 16
+  }
+ ]
+}

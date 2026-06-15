@@ -1,0 +1,43 @@
+Corruption and Economic Growth
+
+Sıla KHADAROO
+
+Economics 2 Year Student nd
+
+When it comes to corruption, we assume it to only have negative impacts, but could it be that for any reason it could also have positive outcomes? Or to what extent does corruption affect an economy?
+
+We can start by broadly explaining the two existing theories regarding the effects of corruption. These are the ‘grease the wheels’ theory and the ‘sand in the wheels’ theory. The ‘grease the wheels theory’ states that with corruption, if the regulations are not being followed as they should, and if there are strict rules for new firms entering the market, then it is probable that buying off authority officials and people of political power will result in increased economic activity (Gründer and Potrafke, 2019). Also, it is seen that corruption is more existent in countries that are not developed and that have little protection of property rights.
+
+Source: Gründer and Potrafke (2019)
+
+Investments that would normally not have been possible become possible through a new channel, which in this situation is corruption, hence livening the economy and increasing growth (Leff, 1964 & De Vaal and Ebber, 2011). The ‘sand in the wheels theory’ states the opposite by saying that, independent of how much corruption there is and the duration of it, through the losses occurring in the potential for transformation and in production, there will be reduced economic growth (Gründer and Potrafke, 2019 & Beyaert et al., 2023).
+
+It is possible to continue by further examining the work of Gründer and Potrafke (2019). It should be noted that due to a methodology change made in 2012, this study only covers the time period of 2012-2018. Their first results propose that there can be a loss of real GDP per capita in the short run, by 10%, when corruption elevates by one standard deviation. When looking at the marginal effect, this time it is not a loss of 10% but of approximately 4%. In the long run, they found it to be near 17%. Let’s also not forget to point out that even though this study finds a linear relationship, there have been several other studies that find non-linear, inverse U-shaped relationships together with relationships depending on the conditions of institutions (Beyaert, 2023).
+
+Source: Gründer and Potrafke (2019)
+
+On the contrary, well-established institutions will create a space where only a small share of inputs are allocated for intermediary use. Consecutively, more actual output can be produced, therefore pushing economic growth. ‘Intermediary uses’ in this frame refers to corruption. In spite of that, the expansion or shrinkage in growth determined by institutions relies on the total effects originating from both the direct and indirect factors (De Vaal and Ebben, 2011).
+
+One more noteworthy point is how economic growth is affected by the effects of corruption on investment. This relation is visible through foreign direct investments, as it is observed that because low-risk investors are less likely to invest in high-corruption countries, they shift their investments to more low-corruption countries, therefore lowering the FDI of highcorruption countries (Cieslik and Goczek, 2017).
+
+Having said that, another discussion is the relation between geographical location, corruption, and GDP. Taking into account that, between bordering countries, there are political activities, possible migrations, and trade, we can suspect corruption in one country to be positively correlated with corruption in a bordering country.
+
+Since we mentioned institutions, a comparison between wellestablished, functional institutions and poorly established, inoperative institutions can be made. In poorly established institutions, there is a misdistribution of input. In this case, inputs are manipulated and mostly utilized for intermediary purposes rather than for creating actual output. This leads to a loss in motivation in the independent will to produce.
+
+However, when tested further, it is seen that there is no correlation between the degree of corruption in bordering countries and the GDP of the original country (Gründer and Potrafke, 2019). According to the findings of Beyaert et al. (2023), continents can be grouped according to the extent of corruption as follows: Latin America and Africa as high corruption, Europe and North America as low corruption, and Asia as immensely variant.
+
+In conclusion, corruption can have a two-way effect on economic growth. A variety of research has been done, approaching the matter through different lenses such as development, quality of institutions, effects on investments, and geological location. So, whether corruption is detrimental or beneficial is dependent on the dynamics of several factors.
+
+References: Beyaert, A., García-Solanes, J., & Lopez-Gomez, L. (2022). Corruption, quality of institutions and growth. Applied Economic Analysis, 31(91), 55–72. https://doi.org/10.1108/aea-11-2021-0297
+
+Cieślik, A., & Goczek, Ł. (2017). Control of corruption, international investment, and economic growth – Evidence from panel data. https://doi.org/10.1016/j.worlddev.2017.10.028
+
+De Vaal, A., & Ebben, W. (2011). Institutions and the Relation between Corruption and Economic Growth. Review of Development Economics, 15(1), 108–123. https://doi.org/10.1111/j.1467 9361.2010.00596.x
+
+Gründler, K., & Potrafke, N. (2019). Corruption and economic growth: New empirical evidence. European Journal of Political https://doi.org/10.1016/j.ejpoleco.2019.08.001 Seamans, R., & Raj, M. (2018). AI, Labor, Productivity and the Need for Firm-Level Data. https://doi.org/10.3386/w24239
+
+Leff, N. H. (1964). Economic development through bureaucratic corruption. American Behavioral Scientist, 8(3), 8–14. https://doi.org/10.1177/000276426400800303
+
+Zakharov, N. (2018). Does corruption hinder investment? Evidence from Russian regions. European Journal of Political Economy, 56, 39–61. https://doi.org/10.1016/j.ejpoleco.2018.06. 28
+
+Source: Gründer and Potrafke (2019)

@@ -1,0 +1,29 @@
+Reading the Economy Through Numbers:
+
+What Do Mathematical Models Tell Us?
+
+Tülin KÖKSAL E. Maths Edu. 3 Year Student rd
+
+Economics is often described using phrases from everyday life: “The market is nervous,” “Consumers are waiting,” and “Interest rates are searching for direction.” Yet behind these expressions lies a powerful tool for understanding economics: mathematical models. Economics speaks not only through intuition but also through equations. And these equations help us understand how individuals and institutions make decisions.
+
+The Mathematics of Strategic Decisions: Game Theory
+
+Game theory examines situations where individuals or institutions consider not only their own preferences but also the possible behaviors of others when making decisions. This approach is used in a wide range of areas, from competitive markets to public policy. Consider, for example, the price-setting process of two companies. The decision made by one company is not independent of the other's decision. Game theory provides a mathematical framework for this mutual interaction. One of the most well-known concepts in this field is equilibrium, which refers to the point at which changing the parties' current strategies would not provide them with any additional benefit. In economics, such equilibria provide important clues for understanding market behavior.
+
+Arif ÖZCAN E. Maths Edu. 3 Year Student rd
+
+What Does the Data Say? Regression Models
+
+Another way to understand economic relationships is through data. Regression analysis attempts to measure the relationship between one variable and others. The links between income and consumption, interest rates and investment, or education level and unemployment are examined using such models. However, there is an important distinction here: Measuring a relationship does not automatically make it causal. Therefore, mathematical models do not merely produce results; they also question under which conditions these results are valid. When the model's assumptions are not met, the results can be misleading.
+
+Do Models Accurately Reflect Real Life?
+
+Mathematical models are not exact replicas of real life. However, they make complex economic structures more understandable. They clearly state assumptions, make uncertainties manageable, and provide systematic answers to the question, “What if this happens?” In this respect, models serve to understand the economy rather than predict it.
+
+The Silent Language of Understanding Economics
+
+It is as important to see the structures on which these interpretations are based as it is to interpret economic developments. Mathematical models are the silent but powerful language of economics. Game theory teaches strategic thinking, while regression models teach critical thinking about data. And perhaps most importantly, mathematics does not produce definitive answers for economics; it enables us to ask more accurate questions.
+
+As the TEDU Economics Research Union, we’d like to thank the TEDU Maths-Up
+
+Society for their contribution to the ERUMAG.

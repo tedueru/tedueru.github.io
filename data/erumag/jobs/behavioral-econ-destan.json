@@ -1,0 +1,49 @@
+{
+ "issue": 1,
+ "issue_title": "The Foundation",
+ "issue_subtitle": "Inaugural Issue",
+ "issue_year": "2025",
+ "issue_date": "2025-01-15",
+ "issue_cover": "covers/erumag-1-cover.jpg",
+ "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+ "slug": "behavioral-econ-destan",
+ "filename": "article-behavioral-econ-destan.html",
+ "title": "Behavioral Economics with Dr. Cavit Gorkem Destan",
+ "kind": "interview",
+ "pages": [
+  21,
+  23
+ ],
+ "wordcount": 631,
+ "textfile": "data/erumag/behavioral-econ-destan.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/behavioral-econ-destan-f1.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 21
+  },
+  {
+   "file": "assets/erumag/behavioral-econ-destan-f2.png",
+   "caption": "",
+   "w": 960,
+   "h": 540,
+   "page": 21
+  },
+  {
+   "file": "assets/erumag/behavioral-econ-destan-f3.png",
+   "caption": "“BOĞAZİÇİ, BONN, TEDÜ”",
+   "w": 510,
+   "h": 294,
+   "page": 22
+  },
+  {
+   "file": "assets/erumag/behavioral-econ-destan-f4.png",
+   "caption": "Poster of the Conference by Cavit Görkem Destan",
+   "w": 756,
+   "h": 945,
+   "page": 23
+  }
+ ]
+}

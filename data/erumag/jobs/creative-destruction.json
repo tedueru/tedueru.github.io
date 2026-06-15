@@ -1,0 +1,56 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "creative-destruction",
+ "filename": "article-creative-destruction.html",
+ "title": "Technological Creativity and Creative Destruction: The Ideas Behind the Nobel Prize",
+ "kind": "article",
+ "pages": [
+  30,
+  36
+ ],
+ "wordcount": 2241,
+ "textfile": "data/erumag/creative-destruction.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/creative-destruction-f1.jpeg",
+   "caption": "Portrait of Joel Mokyr Source: NobelPrize.org",
+   "w": 756,
+   "h": 504,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/creative-destruction-f2.png",
+   "caption": "",
+   "w": 796,
+   "h": 491,
+   "page": 32
+  },
+  {
+   "file": "assets/erumag/creative-destruction-f3.jpeg",
+   "caption": "Philippe Aghion during lecture at the Collège",
+   "w": 756,
+   "h": 504,
+   "page": 33
+  },
+  {
+   "file": "assets/erumag/creative-destruction-f6.jpeg",
+   "caption": "University",
+   "w": 558,
+   "h": 413,
+   "page": 35
+  },
+  {
+   "file": "assets/erumag/creative-destruction-f7.png",
+   "caption": "",
+   "w": 922,
+   "h": 615,
+   "page": 36
+  }
+ ]
+}

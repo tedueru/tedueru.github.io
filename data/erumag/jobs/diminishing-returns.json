@@ -1,0 +1,42 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "diminishing-returns",
+ "filename": "article-diminishing-returns.html",
+ "title": "Learning: The Power Beyond Diminishing Returns",
+ "kind": "article",
+ "pages": [
+  11,
+  12
+ ],
+ "wordcount": 660,
+ "textfile": "data/erumag/diminishing-returns.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/diminishing-returns-f1.png",
+   "caption": "",
+   "w": 615,
+   "h": 410,
+   "page": 11
+  },
+  {
+   "file": "assets/erumag/diminishing-returns-f2.png",
+   "caption": "Individuals or organizations that invest in learning change their mode of production. They no",
+   "w": 461,
+   "h": 308,
+   "page": 12
+  },
+  {
+   "file": "assets/erumag/diminishing-returns-f3.png",
+   "caption": "",
+   "w": 410,
+   "h": 615,
+   "page": 12
+  }
+ ]
+}

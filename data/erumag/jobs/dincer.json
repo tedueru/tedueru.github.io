@@ -1,0 +1,56 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "dincer",
+ "filename": "article-dincer.html",
+ "title": "An Interview with Prof. Dr. Nazire Nergiz Dincer",
+ "kind": "interview",
+ "pages": [
+  18,
+  23
+ ],
+ "wordcount": 2402,
+ "textfile": "data/erumag/dincer.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/dincer-f1.png",
+   "caption": "Prof. Dr. Nazire Nergiz Dinçer, Gökçenur Başaran, and Ezgi Eylem Erdoğan during the interview.",
+   "w": 820,
+   "h": 547,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/dincer-f2.png",
+   "caption": "",
+   "w": 180,
+   "h": 180,
+   "page": 19
+  },
+  {
+   "file": "assets/erumag/dincer-f3.png",
+   "caption": "Could you provide information about the TED Sustainable Trade Research Center (TEDU sTAM)?",
+   "w": 400,
+   "h": 400,
+   "page": 21
+  },
+  {
+   "file": "assets/erumag/dincer-f4.png",
+   "caption": "",
+   "w": 768,
+   "h": 513,
+   "page": 22
+  },
+  {
+   "file": "assets/erumag/dincer-f5.png",
+   "caption": "works.",
+   "w": 547,
+   "h": 820,
+   "page": 23
+  }
+ ]
+}

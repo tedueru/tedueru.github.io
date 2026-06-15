@@ -1,0 +1,41 @@
+Global Seasonal Consumption Peaks
+
+Arda AKGÜL
+
+Economics/BA 4 Year Student th
+
+Recent economic literature identifies two primary mechanisms that drive the organization of seasonal peaks in retail. First, intertemporal substitution and consumer inventory (stockpiling) give the idea of that temporary price reductions shift demand forward, as households purchase more during sales and then draw down inventories afterward (Hendel and Nevo, 2005). Second, platform-designed “shopping festival environments”, including scarcity promotion, social interaction matters, and gamified promotions, can amplify consumers’ perceptions of the event and strengthen purchasing demands around important dates (Li et al., 2025).
+
+Regional Analysis
+
+In the United States, the retail center has moved to late November/early December, specifically for the period between Thanksgiving and Cyber ​Monday. Deloitte (2025) considers this period to be the peak period, with Cyber ​Monday consistently ranking as the biggest online shopping day. For example, Adobe reports $137.4 billion in online spending from November 1 to December 1, 2025, and Reuters reports $44.2 billion in online sales in the five day period from Thanksgiving to Cyber ​ Monday (Adobe Analytics, 2025; Reuters, 2025). This change comes with the “Christmas Creep”, in which retailers start promotions earlier, but the majority of spending remains concentrated at the end of November due to predictable promotions (Mastercard SpendingPulse, 2025).
+
+In China, Singles' Day (11.11) November is where the peak month for e-commerce is seen, as it was introduced by Alibaba in 2009 (Li et al., 2025). While Lunar New Year continues to be a cultural peak for travel and eating, 11.11 functions as an “artificial” shopping holiday optimized for discounts (McKinsey & Company, 2019). Recently, this deal has expanded to a multi-week season that begins in October, although the festival atmosphere maintains 11.11 as the focal point for purchasing propensity (Reuters, 2025). In the UK and Europe, like the US, the UK has seen a shift towards November as the main discount month with the traditional “Gift Giving Day”. The British Retail Consortium (2025) states that consumers actively delay their spending as they anticipate Black Friday. In India and Southeast Asia overall, peaks are culturally significant dates, such as around Diwali (usually October or November) (IBEF, 2025).
+
+Source: London, UK: November 25, 2022. Reuters.
+
+However, the season is also used by platforms' “megasales” that begin weeks in advance, which combines traditional days' demand with the intensity of modern e-commerce. Specifically in Southeast Asia, November serves as a peak because it merges global events (11.11, Black Friday) consecutively. Türkiye shows the same pattern of globalization like European markets, with the peak in "Kasım İndirimleri" (November discounts) and "Efsane Cuma" (Legendary Friday as the Turkish version of Black Friday, due to cultural and religious concerns). PwC Türkiye (2025) reports that consumers approach this period with already determined needs. It is indicating a high degree of planned purchasing rather than immediate scrolling in e-commerce platforms.
+
+Comparative evidence suggests a global convergence towards November as the main peak for retail. While cultural and religious holidays (Diwali, Lunar New Year, Eid) remain as drivers of consumption, they are increasingly used by digital platforms into extended, promotion purposes as “sale seasons.” This supports the hypothesis that the dynamics of the digital platform and the predictability of discounts are homogenizing the seasonality of global retail.
+
+References: AdobeAnalytics. (2025). Adobe Analytics Holiday Shopping Report.
+
+British Retail Consortium. (2025). Retail Sales Monitor: November Trends.
+
+Deloitte. (2025). 2025 Holiday Retail Survey: United States and Global Outlook. Deloitte Insights.
+
+Hendel, I, Nevo, A., "Measuring the Implications of Sales and Consumer Inventory Behavior," NBER Working Paper 11307 (2005), https://doi.org/10.3386/w11307.
+
+Li, J., Wang, X., & Gu, Q. (2025). Shopping festival atmospherics of China's singles day shopping festival and participants' perception: Scale development and validation. PloS one, 20(6), e0324989. https://doi.org/10.1371/journal.pone.0324989
+
+Mastercard SpendingPulse. (2025). U.S. Retail Sales & E-commerce Performance Report.
+
+McKinsey & Company. (2019). Singles’ Day: The shopping holiday that took over the world.
+
+PwC Türkiye. (2025). Efsane Cuma Dosyası 2025. https://www.pwc.com.tr/efsane-cuma-dosyasi-2025
+
+Reuters. (2025). Singles Day: China's shopping festival expands timeline.
+
+Reuters. (2022, November 26). UK Black Friday shopper traffic up 3.7%. Retrieved from https://www.reuters.com/world/uk/uk-black-friday-shopper-traffic-up-37-sensormatic-2022-11-26/
+
+India Brand Equity Foundation (IBEF). (2025, October 22). Diwali 2025 sales hit a record US$ 68.77 billion, Indian goods see 25% rise: CAIT. Retrieved from https://www.ibef.org/news/diwali-2025-sales-hit-a-record-us-68-77billion-indian-goods-see-25-rise-cait

@@ -1,0 +1,42 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "trade-war",
+ "filename": "article-trade-war.html",
+ "title": "Trade War: Is It a Winnable or Losing War for the United States?",
+ "kind": "article",
+ "pages": [
+  27,
+  28
+ ],
+ "wordcount": 813,
+ "textfile": "data/erumag/trade-war.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/trade-war-f1.png",
+   "caption": "A fun critique of Trump's tariffs",
+   "w": 448,
+   "h": 517,
+   "page": 27
+  },
+  {
+   "file": "assets/erumag/trade-war-f2.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 27
+  },
+  {
+   "file": "assets/erumag/trade-war-f3.jpeg",
+   "caption": "Donald Trump is holding reciprocal tariff rates.",
+   "w": 900,
+   "h": 600,
+   "page": 28
+  }
+ ]
+}

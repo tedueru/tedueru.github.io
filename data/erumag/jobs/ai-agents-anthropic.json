@@ -1,0 +1,35 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "ai-agents-anthropic",
+ "filename": "article-ai-agents-anthropic.html",
+ "title": "Impact of AI Agents on the Workforce According to Anthropic Reports",
+ "kind": "article",
+ "pages": [
+  18,
+  21
+ ],
+ "wordcount": 1669,
+ "textfile": "data/erumag/ai-agents-anthropic.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/ai-agents-anthropic-f1.png",
+   "caption": "Hadfield et al., 2025",
+   "w": 1152,
+   "h": 648,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/ai-agents-anthropic-f2.png",
+   "caption": "Massenkoff & McCrory, 2026",
+   "w": 1152,
+   "h": 648,
+   "page": 20
+  }
+ ]
+}

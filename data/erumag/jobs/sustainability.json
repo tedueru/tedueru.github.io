@@ -1,0 +1,77 @@
+{
+ "issue": 1,
+ "issue_title": "The Foundation",
+ "issue_subtitle": "Inaugural Issue",
+ "issue_year": "2025",
+ "issue_date": "2025-01-15",
+ "issue_cover": "covers/erumag-1-cover.jpg",
+ "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+ "slug": "sustainability",
+ "filename": "article-sustainability.html",
+ "title": "Sustainability and Its Importance",
+ "kind": "article",
+ "pages": [
+  7,
+  10
+ ],
+ "wordcount": 1129,
+ "textfile": "data/erumag/sustainability.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/sustainability-f1.png",
+   "caption": "",
+   "w": 1229,
+   "h": 780,
+   "page": 7
+  },
+  {
+   "file": "assets/erumag/sustainability-f2.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 7
+  },
+  {
+   "file": "assets/erumag/sustainability-f3.jpeg",
+   "caption": "Conference room at the UN headquarter",
+   "w": 1210,
+   "h": 908,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/sustainability-f4.png",
+   "caption": "Global average surface temperature",
+   "w": 458,
+   "h": 255,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/sustainability-f5.jpeg",
+   "caption": "",
+   "w": 929,
+   "h": 619,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/sustainability-f6.png",
+   "caption": "",
+   "w": 724,
+   "h": 194,
+   "page": 9
+  },
+  {
+   "file": "assets/erumag/sustainability-f7.png",
+   "caption": "",
+   "w": 750,
+   "h": 500,
+   "page": 9
+  },
+  {
+   "file": "assets/erumag/sustainability-f8.png",
+   "caption": "Comparing IEO (red) and ICLN (blue) ETFs during",
+   "w": 516,
+   "h": 361,
+   "page": 10
+  }
+ ]
+}

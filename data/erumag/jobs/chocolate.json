@@ -1,0 +1,49 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "chocolate",
+ "filename": "article-chocolate.html",
+ "title": "Chocolate: A Sweet Treat or Deforestation Driver?",
+ "kind": "article",
+ "pages": [
+  11,
+  13
+ ],
+ "wordcount": 1084,
+ "textfile": "data/erumag/chocolate.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/chocolate-f1.png",
+   "caption": "",
+   "w": 512,
+   "h": 332,
+   "page": 11
+  },
+  {
+   "file": "assets/erumag/chocolate-f2.png",
+   "caption": "",
+   "w": 224,
+   "h": 224,
+   "page": 11
+  },
+  {
+   "file": "assets/erumag/chocolate-f3.jpeg",
+   "caption": "Source: Mighty Earth",
+   "w": 1024,
+   "h": 768,
+   "page": 12
+  },
+  {
+   "file": "assets/erumag/chocolate-f4.png",
+   "caption": "",
+   "w": 1134,
+   "h": 639,
+   "page": 13
+  }
+ ]
+}

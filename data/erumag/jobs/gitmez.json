@@ -1,0 +1,42 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "gitmez",
+ "filename": "article-gitmez.html",
+ "title": "Political Economy, Institutions and Technology: FieldTalks with Asst. Prof. Arda Gitmez",
+ "kind": "interview",
+ "pages": [
+  46,
+  50
+ ],
+ "wordcount": 1659,
+ "textfile": "data/erumag/gitmez.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/gitmez-f1.png",
+   "caption": "",
+   "w": 768,
+   "h": 432,
+   "page": 46
+  },
+  {
+   "file": "assets/erumag/gitmez-f2.png",
+   "caption": "Asst. Prof. Arda Gitmez during podcast at RadioTEDU studio.",
+   "w": 331,
+   "h": 433,
+   "page": 49
+  },
+  {
+   "file": "assets/erumag/gitmez-f3.png",
+   "caption": "As TED University Economics Research Union, we thank Asst. Prof. Arda Gitmez for joining",
+   "w": 600,
+   "h": 450,
+   "page": 50
+  }
+ ]
+}

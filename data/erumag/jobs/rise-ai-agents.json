@@ -1,0 +1,28 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "rise-ai-agents",
+ "filename": "article-rise-ai-agents.html",
+ "title": "The Rise of AI Agents: How the Most-Used Agentic LLM Is Reshaping Finance and Beyond",
+ "kind": "article",
+ "pages": [
+  24,
+  26
+ ],
+ "wordcount": 1256,
+ "textfile": "data/erumag/rise-ai-agents.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/rise-ai-agents-f1.png",
+   "caption": "",
+   "w": 960,
+   "h": 518,
+   "page": 24
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "economic-boycotting",
+ "filename": "article-economic-boycotting.html",
+ "title": "Economic Boycotting: A Historical and Academic Perspective",
+ "kind": "article",
+ "pages": [
+  18,
+  21
+ ],
+ "wordcount": 1378,
+ "textfile": "data/erumag/economic-boycotting.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/economic-boycotting-f1.png",
+   "caption": "",
+   "w": 566,
+   "h": 378,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/economic-boycotting-f2.png",
+   "caption": "",
+   "w": 433,
+   "h": 272,
+   "page": 18
+  },
+  {
+   "file": "assets/erumag/economic-boycotting-f3.jpeg",
+   "caption": "",
+   "w": 640,
+   "h": 430,
+   "page": 19
+  },
+  {
+   "file": "assets/erumag/economic-boycotting-f4.png",
+   "caption": "",
+   "w": 740,
+   "h": 345,
+   "page": 20
+  },
+  {
+   "file": "assets/erumag/economic-boycotting-f5.jpeg",
+   "caption": "Israel-Palestinian war protests in Paris, August 2, 2014",
+   "w": 576,
+   "h": 324,
+   "page": 20
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "ai-money-machine",
+ "filename": "article-ai-money-machine.html",
+ "title": "The AI Money Machine: How to Justify These Cashflows?",
+ "kind": "article",
+ "pages": [
+  13,
+  19
+ ],
+ "wordcount": 3053,
+ "textfile": "data/erumag/ai-money-machine.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/ai-money-machine-f1.png",
+   "caption": "",
+   "w": 327,
+   "h": 416,
+   "page": 13
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f2.png",
+   "caption": "Google Trends, last 12 months, Türkiye.",
+   "w": 470,
+   "h": 238,
+   "page": 14
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f3.png",
+   "caption": "Google Trends, last 12 months, worldwide.",
+   "w": 470,
+   "h": 239,
+   "page": 14
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f4.png",
+   "caption": "Data Center for GPUs to train/infer AI",
+   "w": 576,
+   "h": 324,
+   "page": 15
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f5.png",
+   "caption": "These are largely sunk costs. Once you train the",
+   "w": 413,
+   "h": 316,
+   "page": 16
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f6.png",
+   "caption": "(Buchholz, 2024)",
+   "w": 480,
+   "h": 480,
+   "page": 17
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f7.png",
+   "caption": "and save the big model for hard cases, a form of",
+   "w": 1260,
+   "h": 841,
+   "page": 17
+  },
+  {
+   "file": "assets/erumag/ai-money-machine-f8.png",
+   "caption": "",
+   "w": 768,
+   "h": 432,
+   "page": 18
+  }
+ ]
+}

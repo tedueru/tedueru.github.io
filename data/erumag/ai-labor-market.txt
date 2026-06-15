@@ -1,0 +1,27 @@
+Artificial Intelligence and the
+
+Labor Market
+
+Prof. Dr. Meltem DAYIOĞLU
+
+TED University, Department of Economics
+
+meltem.dayioglu@tedu.edu.tr
+
+In recent years, the ways in which advances in artificial intelligence are transforming and are expected to continue transforming the labor market have become a central concern. The job we hold has profound effects on our lives by determining our income, working conditions, and therefore our standard of living. Considering that wage income constitutes the primary source of income for a large majority of households in Türkiye, the scope of this impact becomes even more apparent. Working in high-paying and stable jobs shapes not only the well-being of individuals but also the living conditions of their family members. In contrast, unemployment or low-paid and insecure jobs make life more difficult for the entire household. Therefore, in a country where social assistance is relatively limited, a good life largely depends on having a good job for broad segments of society.
+
+So, how is artificial intelligence shaping the labor market? Could these developments reduce the demand for labor and increase unemployment? While it is difficult to provide definitive answers to these questions, the nature of the relationship between artificial intelligence and labor offers some clues. In cases where artificial intelligence substitutes for labor, demand for the affected jobs is expected to decline; indeed, we are already observing this. Jobs that are routine, repetitive, and do not require creativity can easily be performed by artificial intelligence.
+
+For example, translation of a simple text or simple administrative work can now be done quickly and cheaply by AI.
+
+On the other hand, in jobs where artificial intelligence and labor complement each other, productivity gains emerge. In such cases, demand for labor may even increase. In these types of jobs, creativity, critical thinking, and problem-solving skills come to the forefront. It is reasonable to suggest that individuals possessing these skills will be in a more advantageous position in the labor market at least in the short and medium term. However, the rapid pace of development in artificial intelligence indicates that even jobs based on these skills may undergo transformation in the long run.
+
+The effects of artificial intelligence on income distribution should also be carefully considered. While individuals who can effectively use artificial intelligence are expected to see increases in their income, those who fail to adapt to this transformation are likely to experience income losses. Nevertheless, the potential of artificial intelligence to increase total production and national income through productivity gains should not be overlooked. In theory, this increase in total income could be used through appropriate tax and transfer policies to achieve a more balanced income distribution.
+
+However, even if income losses can be compensated, it should not be forgotten that work has not only a material but also a psychological and social dimension. Working in a “meaningful” job is an important factor that increases life satisfaction. Work often becomes a part of an individual’s identity. The behavioral economics literature shows that individuals working in jobs they perceive as meaningless demand higher wages, whereas those who find their work meaningful exhibit higher productivity. In this context, the disappearance of jobs or the loss of meaning in work due to artificial intelligence may negatively affect life satisfaction, regardless of income.
+
+Considering the opportunities offered by artificial intelligence, it is clear that halting this technological transformation is neither possible nor desirable. Indeed, many firms are making substantial investments in the development and application of artificial intelligence.
+
+In this process, it is crucial to rethink workplaces with a human-centered approach. In an environment where artificial intelligence is rapidly spreading, anticipating how jobs will transform and developing policies to mitigate potential negative effects are becoming increasingly critical for public authorities.
+
+In this framework, promoting lifelong learning is also one of the key policy areas. The acceleration of technological change leads to the rapid obsolescence of existing skills. Education policies that support the acquisition of new skills required by the labor market will play a key role in preventing the workforce from becoming redundant. It is clear that the challenges posed by artificial intelligence much like climate and environmental issues cannot be solved by the efforts of individual countries alone. Therefore, international cooperation, common standards, and coordinated policy frameworks are of great importance. However, this process should not be limited to managing risks; it should also aim to ensure that the opportunities offered by artificial intelligence are shared in a more inclusive and equitable manner. Considering the inadequate responses to global challenges in the past, developing a more proactive, coordinated, and inclusive approach to artificial intelligence is no longer a choice but a necessity.

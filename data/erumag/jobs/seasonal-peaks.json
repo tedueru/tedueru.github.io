@@ -1,0 +1,28 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "seasonal-peaks",
+ "filename": "article-seasonal-peaks.html",
+ "title": "Global Seasonal Consumption Peaks",
+ "kind": "article",
+ "pages": [
+  35,
+  36
+ ],
+ "wordcount": 702,
+ "textfile": "data/erumag/seasonal-peaks.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/seasonal-peaks-f1.png",
+   "caption": "Source: London, UK: November 25, 2022. Reuters.",
+   "w": 480,
+   "h": 321,
+   "page": 35
+  }
+ ]
+}

@@ -1,0 +1,2170 @@
+[
+  {
+    "issue": 1,
+    "issue_title": "The Foundation",
+    "issue_subtitle": "Inaugural Issue",
+    "issue_year": "2025",
+    "issue_date": "2025-01-15",
+    "issue_cover": "covers/erumag-1-cover.jpg",
+    "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+    "slug": "sustainability",
+    "filename": "article-sustainability.html",
+    "title": "Sustainability and Its Importance",
+    "kind": "article",
+    "pages": [
+      7,
+      10
+    ],
+    "wordcount": 1129,
+    "textfile": "data/erumag/sustainability.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/sustainability-f1.png",
+        "caption": "",
+        "w": 1229,
+        "h": 780,
+        "page": 7
+      },
+      {
+        "file": "assets/erumag/sustainability-f2.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 7
+      },
+      {
+        "file": "assets/erumag/sustainability-f3.jpeg",
+        "caption": "Conference room at the UN headquarter",
+        "w": 1210,
+        "h": 908,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/sustainability-f4.png",
+        "caption": "Global average surface temperature",
+        "w": 458,
+        "h": 255,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/sustainability-f5.jpeg",
+        "caption": "",
+        "w": 929,
+        "h": 619,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/sustainability-f6.png",
+        "caption": "",
+        "w": 724,
+        "h": 194,
+        "page": 9
+      },
+      {
+        "file": "assets/erumag/sustainability-f7.png",
+        "caption": "",
+        "w": 750,
+        "h": 500,
+        "page": 9
+      },
+      {
+        "file": "assets/erumag/sustainability-f8.png",
+        "caption": "Comparing IEO (red) and ICLN (blue) ETFs during",
+        "w": 516,
+        "h": 361,
+        "page": 10
+      }
+    ]
+  },
+  {
+    "issue": 1,
+    "issue_title": "The Foundation",
+    "issue_subtitle": "Inaugural Issue",
+    "issue_year": "2025",
+    "issue_date": "2025-01-15",
+    "issue_cover": "covers/erumag-1-cover.jpg",
+    "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+    "slug": "uncovered-interest-parity",
+    "filename": "article-uncovered-interest-parity.html",
+    "title": "What Happened to Uncovered Interest Parity?",
+    "kind": "article",
+    "pages": [
+      13,
+      13
+    ],
+    "wordcount": 254,
+    "textfile": "data/erumag/uncovered-interest-parity.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/uncovered-interest-parity-f1.jpeg",
+        "caption": "",
+        "w": 1581,
+        "h": 1010,
+        "page": 13
+      },
+      {
+        "file": "assets/erumag/uncovered-interest-parity-f3.png",
+        "caption": "",
+        "w": 756,
+        "h": 331,
+        "page": 13
+      }
+    ]
+  },
+  {
+    "issue": 1,
+    "issue_title": "The Foundation",
+    "issue_subtitle": "Inaugural Issue",
+    "issue_year": "2025",
+    "issue_date": "2025-01-15",
+    "issue_cover": "covers/erumag-1-cover.jpg",
+    "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+    "slug": "acemoglu-nobel",
+    "filename": "article-acemoglu-nobel.html",
+    "title": "Daron Acemoglu: The Story Behind the Nobel",
+    "kind": "article",
+    "pages": [
+      14,
+      20
+    ],
+    "wordcount": 2270,
+    "textfile": "data/erumag/acemoglu-nobel.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/acemoglu-nobel-f1.png",
+        "caption": "",
+        "w": 756,
+        "h": 504,
+        "page": 14
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f2.png",
+        "caption": "",
+        "w": 515,
+        "h": 768,
+        "page": 16
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f3.jpeg",
+        "caption": "",
+        "w": 720,
+        "h": 464,
+        "page": 17
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f4.jpeg",
+        "caption": "",
+        "w": 305,
+        "h": 348,
+        "page": 17
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f5.png",
+        "caption": "Professor Yuen Yuen Ang at SOAS for",
+        "w": 500,
+        "h": 389,
+        "page": 17
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f6.png",
+        "caption": "",
+        "w": 615,
+        "h": 410,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f7.png",
+        "caption": "",
+        "w": 768,
+        "h": 512,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f8.png",
+        "caption": "Book cover of What is Economics by Rosa",
+        "w": 321,
+        "h": 480,
+        "page": 19
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f9.png",
+        "caption": "",
+        "w": 345,
+        "h": 123,
+        "page": 19
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f10.jpeg",
+        "caption": "Claudia Goldin after receiving her Nobel Prize on 10 December 2023.",
+        "w": 530,
+        "h": 353,
+        "page": 20
+      },
+      {
+        "file": "assets/erumag/acemoglu-nobel-f11.png",
+        "caption": "",
+        "w": 1440,
+        "h": 812,
+        "page": 20
+      }
+    ]
+  },
+  {
+    "issue": 1,
+    "issue_title": "The Foundation",
+    "issue_subtitle": "Inaugural Issue",
+    "issue_year": "2025",
+    "issue_date": "2025-01-15",
+    "issue_cover": "covers/erumag-1-cover.jpg",
+    "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+    "slug": "behavioral-econ-destan",
+    "filename": "article-behavioral-econ-destan.html",
+    "title": "Behavioral Economics with Dr. Cavit Gorkem Destan",
+    "kind": "interview",
+    "pages": [
+      21,
+      23
+    ],
+    "wordcount": 631,
+    "textfile": "data/erumag/behavioral-econ-destan.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/behavioral-econ-destan-f1.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 21
+      },
+      {
+        "file": "assets/erumag/behavioral-econ-destan-f2.png",
+        "caption": "",
+        "w": 960,
+        "h": 540,
+        "page": 21
+      },
+      {
+        "file": "assets/erumag/behavioral-econ-destan-f3.png",
+        "caption": "“BOĞAZİÇİ, BONN, TEDÜ”",
+        "w": 510,
+        "h": 294,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/behavioral-econ-destan-f4.png",
+        "caption": "Poster of the Conference by Cavit Görkem Destan",
+        "w": 756,
+        "h": 945,
+        "page": 23
+      }
+    ]
+  },
+  {
+    "issue": 1,
+    "issue_title": "The Foundation",
+    "issue_subtitle": "Inaugural Issue",
+    "issue_year": "2025",
+    "issue_date": "2025-01-15",
+    "issue_cover": "covers/erumag-1-cover.jpg",
+    "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+    "slug": "climate-sultan-tepe",
+    "filename": "article-climate-sultan-tepe.html",
+    "title": "Climate Change and Sustainability with Sultan Tepe",
+    "kind": "interview",
+    "pages": [
+      24,
+      26
+    ],
+    "wordcount": 631,
+    "textfile": "data/erumag/climate-sultan-tepe.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/climate-sultan-tepe-f1.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 24
+      },
+      {
+        "file": "assets/erumag/climate-sultan-tepe-f2.png",
+        "caption": "",
+        "w": 960,
+        "h": 540,
+        "page": 24
+      },
+      {
+        "file": "assets/erumag/climate-sultan-tepe-f3.jpeg",
+        "caption": "",
+        "w": 1152,
+        "h": 768,
+        "page": 25
+      },
+      {
+        "file": "assets/erumag/climate-sultan-tepe-f4.png",
+        "caption": "our planet and ensure a good future for",
+        "w": 597,
+        "h": 328,
+        "page": 26
+      },
+      {
+        "file": "assets/erumag/climate-sultan-tepe-f6.jpeg",
+        "caption": "",
+        "w": 960,
+        "h": 641,
+        "page": 26
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "three-kids",
+    "filename": "article-three-kids.html",
+    "title": "“At Least 3 Kids!”",
+    "kind": "article",
+    "pages": [
+      7,
+      9
+    ],
+    "wordcount": 1129,
+    "textfile": "data/erumag/three-kids.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/three-kids-f1.png",
+        "caption": "(Birth Statistics, TurkStat)",
+        "w": 727,
+        "h": 348,
+        "page": 7
+      },
+      {
+        "file": "assets/erumag/three-kids-f2.png",
+        "caption": "Fertility Rate in 6 Countries Data: World Bank, World Development Indicators",
+        "w": 728,
+        "h": 280,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/three-kids-f3.png",
+        "caption": "",
+        "w": 615,
+        "h": 410,
+        "page": 8
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "breakups-economy",
+    "filename": "article-breakups-economy.html",
+    "title": "How Breakups Affect the Economy: Marriages, Breakups and Divorces",
+    "kind": "article",
+    "pages": [
+      10,
+      13
+    ],
+    "wordcount": 1925,
+    "textfile": "data/erumag/breakups-economy.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/breakups-economy-f1.png",
+        "caption": "",
+        "w": 1125,
+        "h": 750,
+        "page": 10
+      },
+      {
+        "file": "assets/erumag/breakups-economy-f2.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 10
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "what-will-i-be",
+    "filename": "article-what-will-i-be.html",
+    "title": "What Will I Be When I Grow Up?",
+    "kind": "article",
+    "pages": [
+      16,
+      17
+    ],
+    "wordcount": 529,
+    "textfile": "data/erumag/what-will-i-be.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/what-will-i-be-f1.png",
+        "caption": "",
+        "w": 615,
+        "h": 410,
+        "page": 16
+      },
+      {
+        "file": "assets/erumag/what-will-i-be-f2.jpeg",
+        "caption": "",
+        "w": 512,
+        "h": 768,
+        "page": 17
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "economic-boycotting",
+    "filename": "article-economic-boycotting.html",
+    "title": "Economic Boycotting: A Historical and Academic Perspective",
+    "kind": "article",
+    "pages": [
+      18,
+      21
+    ],
+    "wordcount": 1378,
+    "textfile": "data/erumag/economic-boycotting.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/economic-boycotting-f1.png",
+        "caption": "",
+        "w": 566,
+        "h": 378,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/economic-boycotting-f2.png",
+        "caption": "",
+        "w": 433,
+        "h": 272,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/economic-boycotting-f3.jpeg",
+        "caption": "",
+        "w": 640,
+        "h": 430,
+        "page": 19
+      },
+      {
+        "file": "assets/erumag/economic-boycotting-f4.png",
+        "caption": "",
+        "w": 740,
+        "h": 345,
+        "page": 20
+      },
+      {
+        "file": "assets/erumag/economic-boycotting-f5.jpeg",
+        "caption": "Israel-Palestinian war protests in Paris, August 2, 2014",
+        "w": 576,
+        "h": 324,
+        "page": 20
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "will-ai-take-my-job",
+    "filename": "article-will-ai-take-my-job.html",
+    "title": "Will AI Take My Job? A Literature Review on Employment and Automation Risks",
+    "kind": "article",
+    "pages": [
+      22,
+      24
+    ],
+    "wordcount": 1008,
+    "textfile": "data/erumag/will-ai-take-my-job.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/will-ai-take-my-job-f1.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/will-ai-take-my-job-f2.png",
+        "caption": "This photo generated by ChatGPT 4o.",
+        "w": 512,
+        "h": 512,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/will-ai-take-my-job-f3.png",
+        "caption": "",
+        "w": 842,
+        "h": 387,
+        "page": 23
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "bist",
+    "filename": "article-bist.html",
+    "title": "Understanding the Turkish Stock Market (BIST)",
+    "kind": "article",
+    "pages": [
+      25,
+      26
+    ],
+    "wordcount": 623,
+    "textfile": "data/erumag/bist.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/bist-f1.jpeg",
+        "caption": "Inside of BIST Headquarters",
+        "w": 640,
+        "h": 360,
+        "page": 25
+      },
+      {
+        "file": "assets/erumag/bist-f2.jpeg",
+        "caption": "",
+        "w": 1344,
+        "h": 896,
+        "page": 26
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "trade-war",
+    "filename": "article-trade-war.html",
+    "title": "Trade War: Is It a Winnable or Losing War for the United States?",
+    "kind": "article",
+    "pages": [
+      27,
+      28
+    ],
+    "wordcount": 813,
+    "textfile": "data/erumag/trade-war.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/trade-war-f1.png",
+        "caption": "A fun critique of Trump's tariffs",
+        "w": 448,
+        "h": 517,
+        "page": 27
+      },
+      {
+        "file": "assets/erumag/trade-war-f2.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 27
+      },
+      {
+        "file": "assets/erumag/trade-war-f3.jpeg",
+        "caption": "Donald Trump is holding reciprocal tariff rates.",
+        "w": 900,
+        "h": 600,
+        "page": 28
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "populism-sahinkaya",
+    "filename": "article-populism-sahinkaya.html",
+    "title": "Gazi Mustafa Kemal's Program of Populism with Dr. Serdar Sahinkaya",
+    "kind": "interview",
+    "pages": [
+      29,
+      32
+    ],
+    "wordcount": 874,
+    "textfile": "data/erumag/populism-sahinkaya.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/populism-sahinkaya-f1.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 29
+      },
+      {
+        "file": "assets/erumag/populism-sahinkaya-f2.png",
+        "caption": "",
+        "w": 960,
+        "h": 540,
+        "page": 29
+      },
+      {
+        "file": "assets/erumag/populism-sahinkaya-f3.png",
+        "caption": "Delegates attending the Izmir Economic",
+        "w": 576,
+        "h": 427,
+        "page": 30
+      },
+      {
+        "file": "assets/erumag/populism-sahinkaya-f4.png",
+        "caption": "Dr. Şahinkaya at RadioTEDU Studios.",
+        "w": 456,
+        "h": 261,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/populism-sahinkaya-f5.jpeg",
+        "caption": "",
+        "w": 461,
+        "h": 615,
+        "page": 32
+      },
+      {
+        "file": "assets/erumag/populism-sahinkaya-f6.png",
+        "caption": "",
+        "w": 1024,
+        "h": 768,
+        "page": 32
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "matching-theory-bilgin",
+    "filename": "article-matching-theory-bilgin.html",
+    "title": "Matching Theory and Market Design with Dr. Gunnur Ege Bilgin",
+    "kind": "interview",
+    "pages": [
+      33,
+      34
+    ],
+    "wordcount": 475,
+    "textfile": "data/erumag/matching-theory-bilgin.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/matching-theory-bilgin-f1.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 33
+      },
+      {
+        "file": "assets/erumag/matching-theory-bilgin-f2.png",
+        "caption": "Path to Academia",
+        "w": 960,
+        "h": 540,
+        "page": 33
+      },
+      {
+        "file": "assets/erumag/matching-theory-bilgin-f3.png",
+        "caption": "RadioTEDU Studios, March 2025.",
+        "w": 199,
+        "h": 237,
+        "page": 34
+      },
+      {
+        "file": "assets/erumag/matching-theory-bilgin-f4.png",
+        "caption": "RadioTEDU Studios, March 2025.",
+        "w": 188,
+        "h": 241,
+        "page": 34
+      },
+      {
+        "file": "assets/erumag/matching-theory-bilgin-f5.png",
+        "caption": "",
+        "w": 486,
+        "h": 230,
+        "page": 34
+      }
+    ]
+  },
+  {
+    "issue": 2,
+    "issue_title": "Fertility Rates & Demographic Economics",
+    "issue_subtitle": "Issue 2",
+    "issue_year": "2025",
+    "issue_date": "2025-04-15",
+    "issue_cover": "covers/erumag-2-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+    "slug": "evolution-economics",
+    "filename": "article-evolution-economics.html",
+    "title": "Evolution of Economics Advice",
+    "kind": "article",
+    "pages": [
+      35,
+      35
+    ],
+    "wordcount": 323,
+    "textfile": "data/erumag/evolution-economics.txt",
+    "figures": []
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "winter-is-coming",
+    "filename": "article-winter-is-coming.html",
+    "title": "Winter Is Coming, or Not?",
+    "kind": "article",
+    "pages": [
+      7,
+      10
+    ],
+    "wordcount": 1489,
+    "textfile": "data/erumag/winter-is-coming.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/winter-is-coming-f1.png",
+        "caption": "",
+        "w": 700,
+        "h": 382,
+        "page": 7
+      },
+      {
+        "file": "assets/erumag/winter-is-coming-f2.jpeg",
+        "caption": "",
+        "w": 400,
+        "h": 265,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/winter-is-coming-f3.jpeg",
+        "caption": "",
+        "w": 368,
+        "h": 368,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/winter-is-coming-f4.png",
+        "caption": "mariothemultipla.wordpress.com/",
+        "w": 468,
+        "h": 258,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/winter-is-coming-f5.jpeg",
+        "caption": "bernardmarr.com",
+        "w": 479,
+        "h": 270,
+        "page": 9
+      },
+      {
+        "file": "assets/erumag/winter-is-coming-f6.jpeg",
+        "caption": "",
+        "w": 432,
+        "h": 520,
+        "page": 9
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "diminishing-returns",
+    "filename": "article-diminishing-returns.html",
+    "title": "Learning: The Power Beyond Diminishing Returns",
+    "kind": "article",
+    "pages": [
+      11,
+      12
+    ],
+    "wordcount": 660,
+    "textfile": "data/erumag/diminishing-returns.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/diminishing-returns-f1.png",
+        "caption": "",
+        "w": 615,
+        "h": 410,
+        "page": 11
+      },
+      {
+        "file": "assets/erumag/diminishing-returns-f2.png",
+        "caption": "Individuals or organizations that invest in learning change their mode of production. They no",
+        "w": 461,
+        "h": 308,
+        "page": 12
+      },
+      {
+        "file": "assets/erumag/diminishing-returns-f3.png",
+        "caption": "",
+        "w": 410,
+        "h": 615,
+        "page": 12
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "ai-money-machine",
+    "filename": "article-ai-money-machine.html",
+    "title": "The AI Money Machine: How to Justify These Cashflows?",
+    "kind": "article",
+    "pages": [
+      13,
+      19
+    ],
+    "wordcount": 3053,
+    "textfile": "data/erumag/ai-money-machine.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/ai-money-machine-f1.png",
+        "caption": "",
+        "w": 327,
+        "h": 416,
+        "page": 13
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f2.png",
+        "caption": "Google Trends, last 12 months, Türkiye.",
+        "w": 470,
+        "h": 238,
+        "page": 14
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f3.png",
+        "caption": "Google Trends, last 12 months, worldwide.",
+        "w": 470,
+        "h": 239,
+        "page": 14
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f4.png",
+        "caption": "Data Center for GPUs to train/infer AI",
+        "w": 576,
+        "h": 324,
+        "page": 15
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f5.png",
+        "caption": "These are largely sunk costs. Once you train the",
+        "w": 413,
+        "h": 316,
+        "page": 16
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f6.png",
+        "caption": "(Buchholz, 2024)",
+        "w": 480,
+        "h": 480,
+        "page": 17
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f7.png",
+        "caption": "and save the big model for hard cases, a form of",
+        "w": 1260,
+        "h": 841,
+        "page": 17
+      },
+      {
+        "file": "assets/erumag/ai-money-machine-f8.png",
+        "caption": "",
+        "w": 768,
+        "h": 432,
+        "page": 18
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "basci",
+    "filename": "article-basci.html",
+    "title": "Inflation, Uncertainty and AI: Interview with Prof. Dr. Erdem Basci",
+    "kind": "interview",
+    "pages": [
+      20,
+      23
+    ],
+    "wordcount": 1241,
+    "textfile": "data/erumag/basci.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/basci-f1.png",
+        "caption": "",
+        "w": 658,
+        "h": 494,
+        "page": 20
+      },
+      {
+        "file": "assets/erumag/basci-f2.png",
+        "caption": "A surgeon robot that performs with a performance of human (Johns Hopkins",
+        "w": 864,
+        "h": 588,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/basci-f3.png",
+        "caption": "",
+        "w": 1200,
+        "h": 900,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/basci-f4.png",
+        "caption": "",
+        "w": 658,
+        "h": 494,
+        "page": 23
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "money-inflation",
+    "filename": "article-money-inflation.html",
+    "title": "Money Growth and Inflation in the 21st Century",
+    "kind": "article",
+    "pages": [
+      26,
+      29
+    ],
+    "wordcount": 1266,
+    "textfile": "data/erumag/money-inflation.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/money-inflation-f1.png",
+        "caption": "",
+        "w": 820,
+        "h": 1229,
+        "page": 26
+      },
+      {
+        "file": "assets/erumag/money-inflation-f2.png",
+        "caption": "",
+        "w": 717,
+        "h": 717,
+        "page": 26
+      },
+      {
+        "file": "assets/erumag/money-inflation-f3.png",
+        "caption": "",
+        "w": 508,
+        "h": 75,
+        "page": 27
+      },
+      {
+        "file": "assets/erumag/money-inflation-f4.png",
+        "caption": "Source: https://corporatefinanceinstitute.com/resources/economics/money-supply",
+        "w": 712,
+        "h": 348,
+        "page": 27
+      },
+      {
+        "file": "assets/erumag/money-inflation-f5.png",
+        "caption": "Data Source: World Bank",
+        "w": 572,
+        "h": 279,
+        "page": 28
+      },
+      {
+        "file": "assets/erumag/money-inflation-f6.png",
+        "caption": "Data Source: FRED",
+        "w": 569,
+        "h": 300,
+        "page": 28
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "creative-destruction",
+    "filename": "article-creative-destruction.html",
+    "title": "Technological Creativity and Creative Destruction: The Ideas Behind the Nobel Prize",
+    "kind": "article",
+    "pages": [
+      30,
+      36
+    ],
+    "wordcount": 2241,
+    "textfile": "data/erumag/creative-destruction.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/creative-destruction-f1.jpeg",
+        "caption": "Portrait of Joel Mokyr Source: NobelPrize.org",
+        "w": 756,
+        "h": 504,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/creative-destruction-f2.png",
+        "caption": "",
+        "w": 796,
+        "h": 491,
+        "page": 32
+      },
+      {
+        "file": "assets/erumag/creative-destruction-f3.jpeg",
+        "caption": "Philippe Aghion during lecture at the Collège",
+        "w": 756,
+        "h": 504,
+        "page": 33
+      },
+      {
+        "file": "assets/erumag/creative-destruction-f6.jpeg",
+        "caption": "University",
+        "w": 558,
+        "h": 413,
+        "page": 35
+      },
+      {
+        "file": "assets/erumag/creative-destruction-f7.png",
+        "caption": "",
+        "w": 922,
+        "h": 615,
+        "page": 36
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "tfp-exports",
+    "filename": "article-tfp-exports.html",
+    "title": "The Dynamic Interaction Between Total Factor Productivity, Exports, and Economic Growth",
+    "kind": "article",
+    "pages": [
+      37,
+      39
+    ],
+    "wordcount": 938,
+    "textfile": "data/erumag/tfp-exports.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/tfp-exports-f1.png",
+        "caption": "The Effect of Total Factor Productivity on Exports: The Learning-by-Exporting Hypothesis",
+        "w": 768,
+        "h": 512,
+        "page": 37
+      },
+      {
+        "file": "assets/erumag/tfp-exports-f2.png",
+        "caption": "",
+        "w": 180,
+        "h": 180,
+        "page": 37
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "ai-productivity",
+    "filename": "article-ai-productivity.html",
+    "title": "Does AI Boost Labor Productivity?",
+    "kind": "article",
+    "pages": [
+      40,
+      42
+    ],
+    "wordcount": 829,
+    "textfile": "data/erumag/ai-productivity.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/ai-productivity-f1.png",
+        "caption": "(From: OECD, 2024)",
+        "w": 616,
+        "h": 363,
+        "page": 40
+      },
+      {
+        "file": "assets/erumag/ai-productivity-f2.png",
+        "caption": "",
+        "w": 398,
+        "h": 252,
+        "page": 41
+      },
+      {
+        "file": "assets/erumag/ai-productivity-f3.png",
+        "caption": "(Source: OECD, 2024)",
+        "w": 662,
+        "h": 356,
+        "page": 42
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "ottoman-debt",
+    "filename": "article-ottoman-debt.html",
+    "title": "The Debt Spiral of the Ottoman Empire: Foreign Capital and Loss of Economic Independence",
+    "kind": "article",
+    "pages": [
+      43,
+      45
+    ],
+    "wordcount": 927,
+    "textfile": "data/erumag/ottoman-debt.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/ottoman-debt-f1.jpeg",
+        "caption": "Peace Rumors by Thomas Nast (Harper’s Weekly, 30 June 1877)",
+        "w": 384,
+        "h": 450,
+        "page": 43
+      },
+      {
+        "file": "assets/erumag/ottoman-debt-f2.png",
+        "caption": "",
+        "w": 512,
+        "h": 512,
+        "page": 44
+      },
+      {
+        "file": "assets/erumag/ottoman-debt-f3.png",
+        "caption": "",
+        "w": 615,
+        "h": 615,
+        "page": 45
+      }
+    ]
+  },
+  {
+    "issue": 3,
+    "issue_title": "AI & Economic Uncertainty",
+    "issue_subtitle": "Issue 3",
+    "issue_year": "2025",
+    "issue_date": "2025-11-28",
+    "issue_cover": "covers/erumag-3-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+    "slug": "yalcintas",
+    "filename": "article-yalcintas.html",
+    "title": "Economics of AI with Prof. Dr. Altug Yalcintas",
+    "kind": "interview",
+    "pages": [
+      46,
+      50
+    ],
+    "wordcount": 1379,
+    "textfile": "data/erumag/yalcintas.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/yalcintas-f1.png",
+        "caption": "",
+        "w": 960,
+        "h": 540,
+        "page": 46
+      },
+      {
+        "file": "assets/erumag/yalcintas-f2.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 46
+      },
+      {
+        "file": "assets/erumag/yalcintas-f3.jpeg",
+        "caption": "Ezgi Eylem Erdoğan, Prof. Dr. Yalçıntaş and Arda Akgül",
+        "w": 1000,
+        "h": 563,
+        "page": 47
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "consumerism",
+    "filename": "article-consumerism.html",
+    "title": "Who Is Afraid of Consumerism?",
+    "kind": "article",
+    "pages": [
+      7,
+      10
+    ],
+    "wordcount": 1593,
+    "textfile": "data/erumag/consumerism.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/consumerism-f1.jpeg",
+        "caption": "",
+        "w": 537,
+        "h": 804,
+        "page": 7
+      },
+      {
+        "file": "assets/erumag/consumerism-f2.png",
+        "caption": "Source: Google Gemini 3 (Nano Banana)",
+        "w": 512,
+        "h": 512,
+        "page": 8
+      },
+      {
+        "file": "assets/erumag/consumerism-f3.png",
+        "caption": "",
+        "w": 1090,
+        "h": 778,
+        "page": 10
+      },
+      {
+        "file": "assets/erumag/consumerism-f4.png",
+        "caption": "Source: Google Gemini 3 (Nano Banana)",
+        "w": 410,
+        "h": 410,
+        "page": 10
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "chocolate",
+    "filename": "article-chocolate.html",
+    "title": "Chocolate: A Sweet Treat or Deforestation Driver?",
+    "kind": "article",
+    "pages": [
+      11,
+      13
+    ],
+    "wordcount": 1084,
+    "textfile": "data/erumag/chocolate.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/chocolate-f1.png",
+        "caption": "",
+        "w": 512,
+        "h": 332,
+        "page": 11
+      },
+      {
+        "file": "assets/erumag/chocolate-f2.png",
+        "caption": "",
+        "w": 224,
+        "h": 224,
+        "page": 11
+      },
+      {
+        "file": "assets/erumag/chocolate-f3.jpeg",
+        "caption": "Source: Mighty Earth",
+        "w": 1024,
+        "h": 768,
+        "page": 12
+      },
+      {
+        "file": "assets/erumag/chocolate-f4.png",
+        "caption": "",
+        "w": 1134,
+        "h": 639,
+        "page": 13
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "bceao",
+    "filename": "article-bceao.html",
+    "title": "An Early Trial of Euro: Central Bank of West African States",
+    "kind": "article",
+    "pages": [
+      14,
+      17
+    ],
+    "wordcount": 1423,
+    "textfile": "data/erumag/bceao.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/bceao-f1.jpeg",
+        "caption": "BCEAO Headquarters, Dakkar/Senegal",
+        "w": 800,
+        "h": 600,
+        "page": 14
+      },
+      {
+        "file": "assets/erumag/bceao-f2.png",
+        "caption": "",
+        "w": 800,
+        "h": 480,
+        "page": 16
+      },
+      {
+        "file": "assets/erumag/bceao-f3.png",
+        "caption": "The flags of the countries of the Economic Community of West African States (ECOWAS) Commission",
+        "w": 554,
+        "h": 243,
+        "page": 16
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "dincer",
+    "filename": "article-dincer.html",
+    "title": "An Interview with Prof. Dr. Nazire Nergiz Dincer",
+    "kind": "interview",
+    "pages": [
+      18,
+      23
+    ],
+    "wordcount": 2402,
+    "textfile": "data/erumag/dincer.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/dincer-f1.png",
+        "caption": "Prof. Dr. Nazire Nergiz Dinçer, Gökçenur Başaran, and Ezgi Eylem Erdoğan during the interview.",
+        "w": 820,
+        "h": 547,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/dincer-f2.png",
+        "caption": "",
+        "w": 180,
+        "h": 180,
+        "page": 19
+      },
+      {
+        "file": "assets/erumag/dincer-f3.png",
+        "caption": "Could you provide information about the TED Sustainable Trade Research Center (TEDU sTAM)?",
+        "w": 400,
+        "h": 400,
+        "page": 21
+      },
+      {
+        "file": "assets/erumag/dincer-f4.png",
+        "caption": "",
+        "w": 768,
+        "h": 513,
+        "page": 22
+      },
+      {
+        "file": "assets/erumag/dincer-f5.png",
+        "caption": "works.",
+        "w": 547,
+        "h": 820,
+        "page": 23
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "corruption",
+    "filename": "article-corruption.html",
+    "title": "Corruption and Economic Growth",
+    "kind": "article",
+    "pages": [
+      26,
+      28
+    ],
+    "wordcount": 886,
+    "textfile": "data/erumag/corruption.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/corruption-f1.png",
+        "caption": "",
+        "w": 656,
+        "h": 490,
+        "page": 26
+      },
+      {
+        "file": "assets/erumag/corruption-f2.png",
+        "caption": "Source: Gründer and Potrafke (2019)",
+        "w": 809,
+        "h": 439,
+        "page": 27
+      },
+      {
+        "file": "assets/erumag/corruption-f3.png",
+        "caption": "",
+        "w": 882,
+        "h": 419,
+        "page": 28
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "everything-is-a-lie",
+    "filename": "article-everything-is-a-lie.html",
+    "title": "Everything Is a Lie: The World Just Turns Around Itself 365 Times",
+    "kind": "article",
+    "pages": [
+      29,
+      32
+    ],
+    "wordcount": 1493,
+    "textfile": "data/erumag/everything-is-a-lie.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/everything-is-a-lie-f1.png",
+        "caption": "Source: hausfraujournal.com",
+        "w": 400,
+        "h": 358,
+        "page": 30
+      },
+      {
+        "file": "assets/erumag/everything-is-a-lie-f2.png",
+        "caption": "Source: polyp.org.uk",
+        "w": 378,
+        "h": 275,
+        "page": 30
+      },
+      {
+        "file": "assets/erumag/everything-is-a-lie-f3.png",
+        "caption": "",
+        "w": 540,
+        "h": 403,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/everything-is-a-lie-f4.png",
+        "caption": "Source: openPR.com",
+        "w": 472,
+        "h": 378,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/everything-is-a-lie-f5.png",
+        "caption": "",
+        "w": 775,
+        "h": 517,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/everything-is-a-lie-f6.png",
+        "caption": "Consumerism by BOBERT",
+        "w": 432,
+        "h": 563,
+        "page": 32
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "gender-spending",
+    "filename": "article-gender-spending.html",
+    "title": "Gender-Based Consumer Behavior: Women's and Men's Spending Habits",
+    "kind": "article",
+    "pages": [
+      33,
+      34
+    ],
+    "wordcount": 578,
+    "textfile": "data/erumag/gender-spending.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/gender-spending-f1.jpeg",
+        "caption": "",
+        "w": 831,
+        "h": 713,
+        "page": 34
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "seasonal-peaks",
+    "filename": "article-seasonal-peaks.html",
+    "title": "Global Seasonal Consumption Peaks",
+    "kind": "article",
+    "pages": [
+      35,
+      36
+    ],
+    "wordcount": 702,
+    "textfile": "data/erumag/seasonal-peaks.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/seasonal-peaks-f1.png",
+        "caption": "Source: London, UK: November 25, 2022. Reuters.",
+        "w": 480,
+        "h": 321,
+        "page": 35
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "reading-economy-numbers",
+    "filename": "article-reading-economy-numbers.html",
+    "title": "Reading the Economy Through Numbers: What Do Mathematical Models Tell Us?",
+    "kind": "article",
+    "pages": [
+      37,
+      38
+    ],
+    "wordcount": 450,
+    "textfile": "data/erumag/reading-economy-numbers.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/reading-economy-numbers-f1.png",
+        "caption": "The Mathematics of Strategic Decisions: Game Theory",
+        "w": 450,
+        "h": 300,
+        "page": 37
+      },
+      {
+        "file": "assets/erumag/reading-economy-numbers-f2.png",
+        "caption": "",
+        "w": 373,
+        "h": 374,
+        "page": 38
+      }
+    ]
+  },
+  {
+    "issue": 4,
+    "issue_title": "Consumerism & Modern Behaviors",
+    "issue_subtitle": "Issue 4",
+    "issue_year": "2026",
+    "issue_date": "2026-01-14",
+    "issue_cover": "covers/erumag-4-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+    "slug": "game-theory-bilgin",
+    "filename": "article-game-theory-bilgin.html",
+    "title": "Game Theory with Dr. Gunnur Ege Bilgin",
+    "kind": "interview",
+    "pages": [
+      39,
+      42
+    ],
+    "wordcount": 1231,
+    "textfile": "data/erumag/game-theory-bilgin.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/game-theory-bilgin-f1.png",
+        "caption": "Assisted by Google’s NotebookLM to script the podcast.",
+        "w": 960,
+        "h": 540,
+        "page": 39
+      },
+      {
+        "file": "assets/erumag/game-theory-bilgin-f2.jpeg",
+        "caption": "",
+        "w": 320,
+        "h": 480,
+        "page": 39
+      },
+      {
+        "file": "assets/erumag/game-theory-bilgin-f3.jpeg",
+        "caption": "",
+        "w": 820,
+        "h": 615,
+        "page": 40
+      },
+      {
+        "file": "assets/erumag/game-theory-bilgin-f4.png",
+        "caption": "An example of Prisoner’s dilemma game.",
+        "w": 512,
+        "h": 388,
+        "page": 41
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "ai-labor-market",
+    "filename": "article-ai-labor-market.html",
+    "title": "Artificial Intelligence and the Labor Market",
+    "kind": "article",
+    "pages": [
+      7,
+      8
+    ],
+    "wordcount": 775,
+    "textfile": "data/erumag/ai-labor-market.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/ai-labor-market-f1.png",
+        "caption": "",
+        "w": 502,
+        "h": 502,
+        "page": 8
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "big-tech-economy",
+    "filename": "article-big-tech-economy.html",
+    "title": "Big Tech Wants to Orchestrate the Economy",
+    "kind": "article",
+    "pages": [
+      9,
+      10
+    ],
+    "wordcount": 591,
+    "textfile": "data/erumag/big-tech-economy.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/big-tech-economy-f1.png",
+        "caption": "Source: Maxim Massenkoff and Peter McCrory (2026)",
+        "w": 1380,
+        "h": 1164,
+        "page": 10
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "human-capital-ai",
+    "filename": "article-human-capital-ai.html",
+    "title": "The Future of Human Capital: Navigating the Duality of AI in Professional Practice",
+    "kind": "article",
+    "pages": [
+      11,
+      13
+    ],
+    "wordcount": 1476,
+    "textfile": "data/erumag/human-capital-ai.txt",
+    "figures": []
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "steam-engine",
+    "filename": "article-steam-engine.html",
+    "title": "Who's Afraid of the Steam Engine?",
+    "kind": "article",
+    "pages": [
+      14,
+      17
+    ],
+    "wordcount": 1684,
+    "textfile": "data/erumag/steam-engine.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/steam-engine-f1.png",
+        "caption": "",
+        "w": 520,
+        "h": 362,
+        "page": 14
+      },
+      {
+        "file": "assets/erumag/steam-engine-f2.png",
+        "caption": "The Economist, 2012",
+        "w": 476,
+        "h": 268,
+        "page": 15
+      },
+      {
+        "file": "assets/erumag/steam-engine-f3.png",
+        "caption": "Figure 2: Executive expectations regarding AI's impact on employment and labor productivity.",
+        "w": 630,
+        "h": 460,
+        "page": 16
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "ai-agents-anthropic",
+    "filename": "article-ai-agents-anthropic.html",
+    "title": "Impact of AI Agents on the Workforce According to Anthropic Reports",
+    "kind": "article",
+    "pages": [
+      18,
+      21
+    ],
+    "wordcount": 1669,
+    "textfile": "data/erumag/ai-agents-anthropic.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/ai-agents-anthropic-f1.png",
+        "caption": "Hadfield et al., 2025",
+        "w": 1152,
+        "h": 648,
+        "page": 18
+      },
+      {
+        "file": "assets/erumag/ai-agents-anthropic-f2.png",
+        "caption": "Massenkoff & McCrory, 2026",
+        "w": 1152,
+        "h": 648,
+        "page": 20
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "rise-ai-agents",
+    "filename": "article-rise-ai-agents.html",
+    "title": "The Rise of AI Agents: How the Most-Used Agentic LLM Is Reshaping Finance and Beyond",
+    "kind": "article",
+    "pages": [
+      24,
+      26
+    ],
+    "wordcount": 1256,
+    "textfile": "data/erumag/rise-ai-agents.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/rise-ai-agents-f1.png",
+        "caption": "",
+        "w": 960,
+        "h": 518,
+        "page": 24
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "economists-use-ai",
+    "filename": "article-economists-use-ai.html",
+    "title": "How Economists Use Artificial Intelligence in Their Research",
+    "kind": "article",
+    "pages": [
+      27,
+      29
+    ],
+    "wordcount": 1247,
+    "textfile": "data/erumag/economists-use-ai.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/economists-use-ai-f1.png",
+        "caption": "",
+        "w": 693,
+        "h": 457,
+        "page": 27
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "eu-common-currency",
+    "filename": "article-eu-common-currency.html",
+    "title": "Is Having a Common Currency Beneficial for EU Countries?",
+    "kind": "article",
+    "pages": [
+      30,
+      32
+    ],
+    "wordcount": 1105,
+    "textfile": "data/erumag/eu-common-currency.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/eu-common-currency-f1.png",
+        "caption": "Source: World Development Indicators",
+        "w": 455,
+        "h": 250,
+        "page": 30
+      },
+      {
+        "file": "assets/erumag/eu-common-currency-f2.png",
+        "caption": "Real GDP Growth",
+        "w": 455,
+        "h": 239,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/eu-common-currency-f3.jpeg",
+        "caption": "Czech Central Bank Ceska Narodni Banka, Prague Source: Mehmet Orkun Apaydın Archive",
+        "w": 480,
+        "h": 640,
+        "page": 31
+      },
+      {
+        "file": "assets/erumag/eu-common-currency-f4.jpeg",
+        "caption": "",
+        "w": 1133,
+        "h": 638,
+        "page": 32
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "commuting-paradox",
+    "filename": "article-commuting-paradox.html",
+    "title": "How Is Commuting Affecting Our Mood? The Commuting Paradox",
+    "kind": "article",
+    "pages": [
+      33,
+      35
+    ],
+    "wordcount": 979,
+    "textfile": "data/erumag/commuting-paradox.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/commuting-paradox-f1.png",
+        "caption": "",
+        "w": 753,
+        "h": 784,
+        "page": 33
+      },
+      {
+        "file": "assets/erumag/commuting-paradox-f2.jpeg",
+        "caption": "Monocentric City (Google Nano Banana 2)",
+        "w": 830,
+        "h": 454,
+        "page": 34
+      },
+      {
+        "file": "assets/erumag/commuting-paradox-f3.png",
+        "caption": "",
+        "w": 1404,
+        "h": 1404,
+        "page": 34
+      },
+      {
+        "file": "assets/erumag/commuting-paradox-f4.png",
+        "caption": "",
+        "w": 417,
+        "h": 601,
+        "page": 35
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "transportation-rd",
+    "filename": "article-transportation-rd.html",
+    "title": "Transportation and Infrastructure From an R&D and Innovation Perspective",
+    "kind": "article",
+    "pages": [
+      36,
+      37
+    ],
+    "wordcount": 748,
+    "textfile": "data/erumag/transportation-rd.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/transportation-rd-f1.png",
+        "caption": "Li et al. (2025)",
+        "w": 478,
+        "h": 336,
+        "page": 37
+      },
+      {
+        "file": "assets/erumag/transportation-rd-f2.png",
+        "caption": "Li et al. (2025)",
+        "w": 560,
+        "h": 275,
+        "page": 37
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "cilasun",
+    "filename": "article-cilasun.html",
+    "title": "AI-Employment Puzzle: An Exclusive Interview with Prof. Dr. Cilasun",
+    "kind": "interview",
+    "pages": [
+      38,
+      42
+    ],
+    "wordcount": 1712,
+    "textfile": "data/erumag/cilasun.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/cilasun-f1.jpeg",
+        "caption": "Prof. Dr. Seyit Mümin Cilasun, Arda Akgül, and Ezgi Eylem Erdoğan during the interview.",
+        "w": 1210,
+        "h": 908,
+        "page": 38
+      },
+      {
+        "file": "assets/erumag/cilasun-f2.png",
+        "caption": "",
+        "w": 294,
+        "h": 294,
+        "page": 39
+      },
+      {
+        "file": "assets/erumag/cilasun-f3.png",
+        "caption": "",
+        "w": 945,
+        "h": 945,
+        "page": 41
+      },
+      {
+        "file": "assets/erumag/cilasun-f4.jpeg",
+        "caption": "",
+        "w": 2285,
+        "h": 1714,
+        "page": 41
+      },
+      {
+        "file": "assets/erumag/cilasun-f5.jpeg",
+        "caption": "",
+        "w": 1143,
+        "h": 857,
+        "page": 42
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "schacht-miracle",
+    "filename": "article-schacht-miracle.html",
+    "title": "The Greatest Macroeconomic Illusion in History: Hjalmar Schacht's “Miracle”",
+    "kind": "article",
+    "pages": [
+      43,
+      45
+    ],
+    "wordcount": 1212,
+    "textfile": "data/erumag/schacht-miracle.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/schacht-miracle-f1.png",
+        "caption": "",
+        "w": 400,
+        "h": 272,
+        "page": 44
+      },
+      {
+        "file": "assets/erumag/schacht-miracle-f2.png",
+        "caption": "Prisoner work force in the",
+        "w": 350,
+        "h": 549,
+        "page": 45
+      }
+    ]
+  },
+  {
+    "issue": 5,
+    "issue_title": "AI Agent Economics",
+    "issue_subtitle": "Issue 5 - Latest",
+    "issue_year": "2026",
+    "issue_date": "2026-06-15",
+    "issue_cover": "covers/erumag-5-cover.jpg",
+    "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+    "slug": "gitmez",
+    "filename": "article-gitmez.html",
+    "title": "Political Economy, Institutions and Technology: FieldTalks with Asst. Prof. Arda Gitmez",
+    "kind": "interview",
+    "pages": [
+      46,
+      50
+    ],
+    "wordcount": 1659,
+    "textfile": "data/erumag/gitmez.txt",
+    "figures": [
+      {
+        "file": "assets/erumag/gitmez-f1.png",
+        "caption": "",
+        "w": 768,
+        "h": 432,
+        "page": 46
+      },
+      {
+        "file": "assets/erumag/gitmez-f2.png",
+        "caption": "Asst. Prof. Arda Gitmez during podcast at RadioTEDU studio.",
+        "w": 331,
+        "h": 433,
+        "page": 49
+      },
+      {
+        "file": "assets/erumag/gitmez-f3.png",
+        "caption": "As TED University Economics Research Union, we thank Asst. Prof. Arda Gitmez for joining",
+        "w": 600,
+        "h": 450,
+        "page": 50
+      }
+    ]
+  }
+]

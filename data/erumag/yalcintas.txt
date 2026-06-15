@@ -1,0 +1,455 @@
+Economics of AI with Prof. Dr.
+
+Altuğ Yalçıntaş
+
+Arda AKGÜL Economics/BA 3 Grade Student rd
+
+Prof. Dr. Yalçıntaş is an economist who completed his doctorate in economics, focusing on complexity economics. Since 2013, he has been researching the social media economy, including the profitability of social media companies, the manipulations they cause, and the operation of the system referred to as surveillance capitalism. His current work focuses on the societal and economic consequences of artificial intelligence.
+
+The "FieldTalks" podcast series, prepared in collaboration with the TED University Economics Research Union (TED Üniversitesi Ekonomik Araştırmalar Birliği) and broadcast on RadioTEDU, presented Prof. Dr. Altuğ Yalçıntaş discussing the economics of AI. Prof. Dr. Yalçıntaş is an academician working in the Political Economy department at Ankara University, where he also teaches the Economics of AI course.
+
+Dr. Yalçıntaş notes that artificial intelligence (AI), in its broadest sense, refers to machines that mimic natural intelligence.
+
+youtube.com/@TEDUERU
+
+instagram.com/erutedu
+
+These systems primarily learn by reading
+
+the entirety of open-source material
+
+available on the internet. They operate
+
+through models, often called Large
+
+Language Models (LLMs), which respond to
+
+user prompts. While AI can produce
+
+professional and technically accurate
+
+answers, a positive aspect that Dr.
+
+Yalçıntaş finds amazing, it inherently
+
+possesses the negative biases present in
+
+the language it is trained on, such as
+
+discrimination, racism, and sexism, which
+
+are embedded within the language itself.
+
+The Economic Scope of Artificial
+
+Intelligence
+
+Any sector that deals with data, directly or
+
+indirectly, is highly eligible to using AI
+
+technologies. Data production is, however,
+
+continuous; people generate data every
+
+second through mobile devices and
+
+computers, even when they are not actively
+
+using their devices, such as browsing
+
+Amazon but not making a purchase. AI
+
+tools are common in communications, IT,
+
+R&D expenditures, coding, legal
+
+consultancy, and even mental counseling,
+
+although they are not used in every sector,
+
+such as construction. AI tools aim to
+
+increase efficiency and productivity. They
+
+are especially common in creative sectors,
+
+used for tasks like text creation, image
+
+recognition, translation, music production,
+
+design, and data visualization or cleaning.
+
+Ezgi Eylem Erdoğan, Prof. Dr. Yalçıntaş and Arda Akgül
+
+Dr. Yalçıntaş, who also makes music,
+
+mentions that he uses AI tools like Suno,
+
+AIVA, and Scaler to generate chord
+
+structures. He uses AI, in his being
+
+independent musician capacity, to assist in
+
+finding specific words when blocked during
+
+songwriting.
+
+Dr. Yalçıntaş applies AI to his own
+
+academic work too, currently managing a
+
+research project using AI to analyze the
+
+history of economic thought texts from the
+
+Ottoman Empire and the Turkish Republic,
+
+aiming to compile an encyclopedia
+
+covering the last 200 years. This project
+
+involves digitizing or analyzing existing
+
+digital texts, using a publicly available
+
+custom GPT trained on Ottoman Turkish
+
+texts.
+
+after the podcast.
+
+AI and the Labor Market
+
+The question of whether AI will take
+
+people’s jobs is a common and valid
+
+concern, but it is currently an abstract one.
+
+While AI may disropt some roles, like some
+
+software developers or translators, it is not
+
+expected to affect jobs like childcare or
+
+academic historians who do not utilize AI.
+
+The process of "creative destruction"
+
+means that while AI removes certain jobs, it
+
+simultaneously necessitates new jobs and
+
+skills. Historically, new technologies, like
+
+the steam engine during the First Industrial
+
+Revolution, have not caused structural
+
+unemployment, though they often
+
+worsened working conditions and created
+
+social issues.
+
+The lack of current macro-level data makes
+
+it difficult to definitively measure job losses
+
+caused by AI, although layoffs have
+
+occurred in sectors like IT, indicating
+
+micro-level issues. Dr. Yalçıntaş also notes
+
+that if institutions (like universities) fail to
+
+adapt their curricula quickly, this lack of
+
+new skills among recent graduates could be
+
+contributing to the issue of youth
+
+unemployment, which existed even before
+
+the popularization of AI tools.
+
+Adaptation and the Speed of
+
+Technological Change
+
+The current era featuring AI represents the
+
+Fourth Industrial Revolution. Unlike the
+
+first Industrial Revolution, where the steam
+
+engine was slow to gain access, AI tools
+
+spread rapidly and widely upon release.
+
+Academics and professionals must adopt a
+
+“learning by doing” approach, as the
+
+production speed of academic articles
+
+cannot keep pace with AI developments.
+
+Academic articles, which can take years to
+
+publish, often present arguments that
+
+become invalid upon publication because
+
+the underlying technology, such as
+
+Spotify's algorithm, has changed.
+
+Individuals who avoid using AI tools in
+
+fields such as communication, coding, legal
+
+consulting or creative fields are at risk of
+
+job loss or reduced salary. If employees fail
+
+to take advantage of these tools to increase
+
+productivity, employers may choose to
+
+maintain the same output with fewer
+
+workers, thereby reducing total labor
+
+costs.
+
+Therefore, it is important to be prepared to
+
+use AI as the technology advances
+
+autonomously.
+
+Türkiye’s Position and Technological
+
+Dependency
+
+Türkiye holds a comparatively strong
+
+position in digitalization, having successful
+
+projects like Ekşi Sözlük, e-Devlet, and
+
+DergiPark, which allows academic journals
+
+to manage publishing processes openly and
+
+freely. Other successes include the defense
+
+sector (Baykar), the automotive sector
+
+(TOGG), the developed retail sector, and
+
+the highly successful gaming sector, where
+
+Türkiye ranks second globally. A key
+
+positive factor is the presence of many
+
+entrepreneurs and public administrators
+
+who are curious about and knowledgeable
+
+regarding AI.
+
+However, the common use of digital
+
+technologies, especially platforms
+
+controlled by large foreign monopolies,
+
+creates extreme dependence. Dr. Yalçıntaş
+
+suggests that in a scenario where a large
+
+company like Alphabet (Google, YouTube,
+
+Gmail) suddenly severed services to
+
+Türkiye due to political difficulty or
+
+disaster, essential services, including
+
+financial transfers and even bread
+
+production, could be immediately
+
+compromised.
+
+The Rise of Nation-Corporations and the
+
+Crisis of Governance
+
+Prof. Dr. Yalçıntaş argues that capitalism is
+
+changing. Global tech companies like
+
+Alphabet, Meta, Apple, and Microsoft
+
+should be seen as "nation-corporations,"
+
+possessing market valuations greater than
+
+the GDP of some nations. These entities
+
+possess characteristics of a state:
+
+• They have their own "constitutions"
+
+(terms and conditions).
+
+• They have vast populations of "citizens"
+
+(Netizens), often numbering billions, far
+
+exceeding the number of their actual
+
+employees.
+
+• They use propaganda and manipulation,
+
+similar to states.
+
+Users who rely on services like Gmail or
+
+WhatsApp are providing "free labor"
+
+(unpaid labor). Prof. Dr. Yalçıntaş suggests
+
+a political movement demanding payment
+
+for contributions, such as receiving
+
+payment for every Google search, as users
+
+are contributing to the platform's value
+
+creation. When tech monopolies face legal
+
+sanctions (e.g., fines from the European
+
+Union), the penalties are often minor
+
+compared to the company's daily profits,
+
+which may incentivize continued
+
+misconduct.
+
+Digital and Mental Resilience
+
+Conclusion for Youth and Professionals
+
+The pervasive nature of digital technology
+
+In this rapidly transforming environment,
+
+also carries significant social costs,
+
+being an entrepreneur and using one's
+
+including environmental impacts
+
+social intelligence are becoming
+
+(unexplored in the discussion) and
+
+mandatory. It is vital to cultivate creativity
+
+and the freedom to "talk nonsense"
+
+negative externalizations. Crucially, these
+
+technologies contribute to mental health
+
+systematically, as innovation often arises
+
+issues like anxiety, depression, and
+
+from unconventional ideas.
+
+loneliness. Individuals must prioritize their
+
+This rapid technological shift, where
+
+mental well-being in the face of these tools.
+
+information and services are managed by a
+
+Prof. Dr. Yalçıntaş advises students and
+
+few global corporations, is like relying on a
+
+professionals to pursue non-traditional
+
+single, massive global reservoir for all your
+
+skills (like Python, R, SQL, and data
+
+water needs. While the water
+
+(data/services) is clean, fast, and seemingly
+
+visualization) beyond what conventional
+
+universities might provide. Given the
+
+free, if that one reservoir breaks, gets
+
+possibility of digital catastrophe (due to
+
+politically choked, or decides to charge
+
+war, energy crisis, or corporate failure),
+
+exorbitant fees, your entire city, from the
+
+which could wipe out intangible digital
+
+hospitals to the bakeries, runs dry instantly
+
+records of culture and knowledge,
+
+because no local backup systems were
+
+institutions must be prepared to transform.
+
+maintained.
+
+As a policy suggestion for Türkiye, Dr.
+
+Yalçıntaş proposes an "Offline Drill." This
+
+national exercise would involve
+
+temporarily shutting down the internet (for
+
+instance, for one day) to measure the
+
+country's level of dependency, identify
+
+vulnerabilities in core systems (like
+
+financial transfers or government payroll),
+
+and develop contingency plans for
+
+maintaining daily functions.
+
+youtube.com/@TEDUERU
+
+instagram.com/erutedu
+
+Make sure that you’re subscribed to TED University Economics Research Union’s YouTube Channel to be notified with new episodes!

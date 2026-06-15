@@ -1,0 +1,42 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "yalcintas",
+ "filename": "article-yalcintas.html",
+ "title": "Economics of AI with Prof. Dr. Altug Yalcintas",
+ "kind": "interview",
+ "pages": [
+  46,
+  50
+ ],
+ "wordcount": 1379,
+ "textfile": "data/erumag/yalcintas.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/yalcintas-f1.png",
+   "caption": "",
+   "w": 960,
+   "h": 540,
+   "page": 46
+  },
+  {
+   "file": "assets/erumag/yalcintas-f2.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 46
+  },
+  {
+   "file": "assets/erumag/yalcintas-f3.jpeg",
+   "caption": "Ezgi Eylem Erdoğan, Prof. Dr. Yalçıntaş and Arda Akgül",
+   "w": 1000,
+   "h": 563,
+   "page": 47
+  }
+ ]
+}

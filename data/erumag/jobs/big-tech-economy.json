@@ -1,0 +1,28 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "big-tech-economy",
+ "filename": "article-big-tech-economy.html",
+ "title": "Big Tech Wants to Orchestrate the Economy",
+ "kind": "article",
+ "pages": [
+  9,
+  10
+ ],
+ "wordcount": 591,
+ "textfile": "data/erumag/big-tech-economy.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/big-tech-economy-f1.png",
+   "caption": "Source: Maxim Massenkoff and Peter McCrory (2026)",
+   "w": 1380,
+   "h": 1164,
+   "page": 10
+  }
+ ]
+}

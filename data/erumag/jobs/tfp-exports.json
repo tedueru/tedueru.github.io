@@ -1,0 +1,35 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "tfp-exports",
+ "filename": "article-tfp-exports.html",
+ "title": "The Dynamic Interaction Between Total Factor Productivity, Exports, and Economic Growth",
+ "kind": "article",
+ "pages": [
+  37,
+  39
+ ],
+ "wordcount": 938,
+ "textfile": "data/erumag/tfp-exports.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/tfp-exports-f1.png",
+   "caption": "The Effect of Total Factor Productivity on Exports: The Learning-by-Exporting Hypothesis",
+   "w": 768,
+   "h": 512,
+   "page": 37
+  },
+  {
+   "file": "assets/erumag/tfp-exports-f2.png",
+   "caption": "",
+   "w": 180,
+   "h": 180,
+   "page": 37
+  }
+ ]
+}

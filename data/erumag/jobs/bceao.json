@@ -1,0 +1,42 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "bceao",
+ "filename": "article-bceao.html",
+ "title": "An Early Trial of Euro: Central Bank of West African States",
+ "kind": "article",
+ "pages": [
+  14,
+  17
+ ],
+ "wordcount": 1423,
+ "textfile": "data/erumag/bceao.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/bceao-f1.jpeg",
+   "caption": "BCEAO Headquarters, Dakkar/Senegal",
+   "w": 800,
+   "h": 600,
+   "page": 14
+  },
+  {
+   "file": "assets/erumag/bceao-f2.png",
+   "caption": "",
+   "w": 800,
+   "h": 480,
+   "page": 16
+  },
+  {
+   "file": "assets/erumag/bceao-f3.png",
+   "caption": "The flags of the countries of the Economic Community of West African States (ECOWAS) Commission",
+   "w": 554,
+   "h": 243,
+   "page": 16
+  }
+ ]
+}

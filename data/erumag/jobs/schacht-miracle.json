@@ -1,0 +1,35 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "schacht-miracle",
+ "filename": "article-schacht-miracle.html",
+ "title": "The Greatest Macroeconomic Illusion in History: Hjalmar Schacht's “Miracle”",
+ "kind": "article",
+ "pages": [
+  43,
+  45
+ ],
+ "wordcount": 1212,
+ "textfile": "data/erumag/schacht-miracle.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/schacht-miracle-f1.png",
+   "caption": "",
+   "w": 400,
+   "h": 272,
+   "page": 44
+  },
+  {
+   "file": "assets/erumag/schacht-miracle-f2.png",
+   "caption": "Prisoner work force in the",
+   "w": 350,
+   "h": 549,
+   "page": 45
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "cilasun",
+ "filename": "article-cilasun.html",
+ "title": "AI-Employment Puzzle: An Exclusive Interview with Prof. Dr. Cilasun",
+ "kind": "interview",
+ "pages": [
+  38,
+  42
+ ],
+ "wordcount": 1712,
+ "textfile": "data/erumag/cilasun.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/cilasun-f1.jpeg",
+   "caption": "Prof. Dr. Seyit Mümin Cilasun, Arda Akgül, and Ezgi Eylem Erdoğan during the interview.",
+   "w": 1210,
+   "h": 908,
+   "page": 38
+  },
+  {
+   "file": "assets/erumag/cilasun-f2.png",
+   "caption": "",
+   "w": 294,
+   "h": 294,
+   "page": 39
+  },
+  {
+   "file": "assets/erumag/cilasun-f3.png",
+   "caption": "",
+   "w": 945,
+   "h": 945,
+   "page": 41
+  },
+  {
+   "file": "assets/erumag/cilasun-f4.jpeg",
+   "caption": "",
+   "w": 2285,
+   "h": 1714,
+   "page": 41
+  },
+  {
+   "file": "assets/erumag/cilasun-f5.jpeg",
+   "caption": "",
+   "w": 1143,
+   "h": 857,
+   "page": 42
+  }
+ ]
+}

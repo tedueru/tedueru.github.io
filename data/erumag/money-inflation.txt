@@ -1,0 +1,63 @@
+Money growth and Inflation
+
+in the 21st Century
+
+Mehmet Orkun APAYDIN Economics Graduate Student
+
+Inflation was in the past, and it will be in the future. It is one of the most crucial problems for economies throughout the world. Some economies, like Japan, strive to reach an inflation target to stimulate growth, while others, like Türkiye, aim to reduce inflation to preserve prosperity. Therefore, inflation has different points for economies. To analyze deeper, there should be drawn a frame for detailed relation between inflation and monetary policy tools, which are preferred by central banks to keep inflation stable. To struggle with inflation, many monetary tools are used, but some of them stand out, such as interest rates, money supply, interest corridors, and macroprudential policy tools like required reserve ratios. The relative importance of monetary tools varies country by country; generally, interest rate or policy rate is the first preferred tool by central banks. Whereas the failure of controlling inflation in some countries leads us think whether other monetary tools have a role in controlling inflation.
+
+This question harbors different answers in history of economic thought; it’s necessary to look at differences of approaches to money supply. According to David Ricardo, money supply is limited by golden reserves, and he accepts that money supply is exogenous, which means it can be controlled. In The General Theory (1936), J.M. Keynes argues that money supply is shaped by control of the central bank, while in A Treaties on Money (1933), Keynes states that money supply depends on demand of money by economic actors, especially for firms’ finance motive. Hence, according to Keynes, money supply is exogenous in General Theory (1936) and it’s endogenous in A Treaties on Money (1933). Schumpeter argues that money supply has important and considerable role to build strong economic development and highlights role of banks for credits (Festré and Nasica, 2009).
+
+Milton Friedman answered this question by stating “inflation is always and everywhere a monetary phenomenon” within the concept of money supply and inflation by explaining the quantity theory of money. Friedman emphasizes the crucial role of money supply on inflation, and according to Friedman (1956), there is a strong relation between money growth and inflation as found in the formulation of quantity theory.
+
+M: Quantity of Money V: Velocity (Circulation of money through economy) P: Price Level Y: Economic Growth
+
+Modern empirical studies and definitions also confirm this classical link, and there exist four types of money supply: M0, M1, M2, and M3.
+
+Source: https://corporatefinanceinstitute.com/resources/economics/money-supply
+
+M3 is described as broad money, and even though the US prefers M2 and the UK prefers M4, most countries, including Türkiye, announce M3 to follow money supply to observe the effect of money supply on inflation in the last years. Borio et al. (2023) highlight that there is a strong link between money supply and inflation in recent years. To evaluate this relationship in Türkiye, which has had volatile inflation for the last 14 years, and in Japan, which has struggled with economic growth between 1981 and 2022, it is necessary to examine the graphs below.
+
+Since the global financial crisis in 2007-2008, change in money supply and inflation have emerged a similar trend, and after post Covid- 19 Pandemic in 2021, broad money demonstrated its effect on inflation after a one-year lag in Türkiye. That’s why it’s important to consider the effect of money supply on inflation in Türkiye, which is a developing economy, between the 2009 - 2023 period.
+
+Data Source: World Bank
+
+Unlikely from case of Türkiye, M3 trend of Japan is around 2 percent and trend of inflation is around 0 for period between 1999 and 2022, it is consistent with growth problem of Japan.
+
+Data Source: FRED
+
+Furthermore, macroprudential policies like the required reserve ratio or loan-toincome (LTI) have a kind of complementary role for monetary policy tools like money supply to strengthen financial stability and keep the financial system from possible shocks. Başçı (2023) states that the macroprudential policy dimension of monetary policy in its relation to inflation and the connection between macroprudential policy and money supply shouldn’t be ignored.
+
+Inflation remains quite a considerable point for economies to deal with the situation. Some economies, like Japan, see inflation as medicine to get rid of cases such as hypothermia and reach the ideal temperature, which is the economic growth target. Also, some economies, like Türkiye, see inflation as a high temperature and decrease it to an ideal level. Like in the medical field, treatment methods support each other; methods in monetary policies have a kind of similar role.
+
+Before conclusion, controlling inflation, for which money supply policies exist considerably, is not just an important point for price and financial stability and keeping the prosperity of the country. Following financial stability, it paves the way even for innovation and entrepreneurship based on creative destruction and sustainable economic growth. Aghion et al. (2009) highlight that stable inflation creates a predictable environment that supports productivity and entrepreneurship. Also, Professor Ufuk Akçiğit emphasizes the considerable effect of monetary policy and financial stability on creative destruction-based economic growth by preparing an appropriate economic environment. That’s why holding inflation at a stable level provides predictability, retains prosperity, and following a suitable environment for firms and sustainable economic growth for economies in the long run.
+
+Monetary policy tools vary; however, generally interest rates or policy rates, money supply, and macroprudential policies are marked for central banks. Even though the discussion of money is endogenous or exogenous, it’s obvious that the argument that money supply remains a crucial point to control inflation is valid. Borio et al. (2023) argue that there exist two regimes in inflation, a high regime and a low regime, and those reveal the question of whether there can be a threshold for money growth for G20 countries that satisfies whether money can be endogenous or exogenous or not. Moreover, Yılmazkuday (2012) emphasizes that point with the existence of more thresholds related to the inflation threshold.
+
+Reference: Aghion, P., Bacchetta, P., Rancière, R., & Rogoff, K. (2009). Exchange rate volatility and productivity growth: The role of financial development. Journal of Monetary Economics, 56(4), 494–513.
+
+Akçiğit, U. (2025). Bloomberg HT Ekonomi Special interview: Nobel Prize in Economics evaluation [Video interview, October 15]. YouTube. https://www.youtube.com/watch?v=XXXXXXX
+
+Apaydın, Şükrü. (2015) Adam Smith’ten Günümüze Kriz ve Konjonktür Kuramları. Ankara: Nota Bene Yayınları.
+
+Başçı, E. (2023). Macroprudential policy and inflation. In Reference Module in Social Sciences, Elsevier. https://www.sciencedirect.com/science/article/abs/pii/B9780443137761001069
+
+Borio, C. E., Hofmann, B., and Zakrajšek, E. (2023). Does money growth help explain the recent inflation surge? BIS Bulletin No. 67. Bank for International Settlements. https://www.bis.org/publ/bisbull67.pdf.
+
+Borio, C. E., Lombardi, M., Yetman, J., and Zakrajšek, E. (2023). The two-regime view of inflation. BIS Papers No. 133, Bank for International Settlements. https://www.bis.org/publ/bppdf/bispap133.pdf
+
+Festré, A., & Nasica, E. (2009). Schumpeter on money, banking and finance: an institutionalist perspective. The European Journal of the History of Economic Thought, 16(2), 325–356. https://doi.org/10.1080/09672560902891101
+
+Friedman, M. (1956). The Quantity Theory of Money: A Restatement. In M. Friedman (Ed.), Studies in the Quantity Theory of Money (pp. 3-21). Chicago: University of Chicago Press.
+
+Inflation, consumer prices for Japan. (2025, October 8). https://fred.stlouisfed.org/series/FPCPITOTLZGJPN#
+
+Keynes, J. M. (1930). A Treatise on Money (Vol. 1). London: Macmillan and Co.
+
+Keynes, J. M. (1936). The General Theory of Employment, interest and Money. Journal of the Royal Statistical Society, 99(2), 383. https://doi.org/10.2307/2980590
+
+Monetary aggregates and their components: broad money and components: M3 for Japan. (2024, January 12). https://fred.stlouisfed.org/series/MABMM301JPM189S
+
+World Development Indicators | DataBank. (n.d.). https://databank.worldbank.org/source/world-development-indicators#
+
+Yilmazkuday, H. (2012). Inflation thresholds and growth. International Economic Journal, 27(1), 1–10. https://doi.org/10.1080/10168737.2012.65883

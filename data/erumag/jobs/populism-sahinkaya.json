@@ -1,0 +1,63 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "populism-sahinkaya",
+ "filename": "article-populism-sahinkaya.html",
+ "title": "Gazi Mustafa Kemal's Program of Populism with Dr. Serdar Sahinkaya",
+ "kind": "interview",
+ "pages": [
+  29,
+  32
+ ],
+ "wordcount": 874,
+ "textfile": "data/erumag/populism-sahinkaya.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/populism-sahinkaya-f1.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 29
+  },
+  {
+   "file": "assets/erumag/populism-sahinkaya-f2.png",
+   "caption": "",
+   "w": 960,
+   "h": 540,
+   "page": 29
+  },
+  {
+   "file": "assets/erumag/populism-sahinkaya-f3.png",
+   "caption": "Delegates attending the Izmir Economic",
+   "w": 576,
+   "h": 427,
+   "page": 30
+  },
+  {
+   "file": "assets/erumag/populism-sahinkaya-f4.png",
+   "caption": "Dr. Şahinkaya at RadioTEDU Studios.",
+   "w": 456,
+   "h": 261,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/populism-sahinkaya-f5.jpeg",
+   "caption": "",
+   "w": 461,
+   "h": 615,
+   "page": 32
+  },
+  {
+   "file": "assets/erumag/populism-sahinkaya-f6.png",
+   "caption": "",
+   "w": 1024,
+   "h": 768,
+   "page": 32
+  }
+ ]
+}

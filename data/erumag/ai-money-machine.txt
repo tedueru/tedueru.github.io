@@ -1,0 +1,389 @@
+The AI Money Machine
+
+How to justify these cashflows?
+
+Arda AKGÜL Economics/BA 3 Grade Student rd
+
+So, wrap it up, OpenAI reported a 300 billion USD multi-year agreement (from 2027) for cloud computing, which is among the biggest in history, with Oracle, a network company. Oracle, in turn, buys tens of billions of dollars of NVIDIA chips to run that cloud; Microsoft partners with (and invests in) OpenAI and hosts its models on Microsoft Azure (which also runs on lots of NVIDIA GPUs). Nvidia agrees to invest up to 100 billion USD in OpenAI while selling GPUs across the ecosystem; OpenAI also made a deal to deploy 6 GW of AMD GPUs (with an option to buy up to $160M of AMD shares). CoreWeave, and other AI clouds provide services to OpenAI and other AI model builders, who are powered by NVIDIA; venture capital and strategic money flow into startups like Mistral, Figure, Ambience, Harvey, xAI, and Nscale, which then buy compute from those same clouds. It means that sending more cash back to NVIDIA and Oracle/Microsoft, which brings the loop right back to OpenAI.
+
+The modern days Artificial Intelligence (AI) is defined by a complex and deeply connected ecosystem of capital, hardware, and services. This network, which can be referred to as the "AI Money Machine" is not a traditional supply chain but a multi-directional relationship where the roles of investor, supplier, and customer are blurred.
+
+With a market valuation of 4.5 trillion USD, NVIDIA is at the center of the model with its feature of being the primary hardware provider and core of the AI hardware ecosystem (Microsoft, 2023). Its Graphics Processing Units (GPUs) represent the initial point of the AI value chain’s hardware side, which is essential for both training and running advanced models. This means massive expenditures of other key players like Oracle, which is spending tens of billions of dollars on Nvidia chips to improve its cloud capacity, and OpenAI's entire technological roadmap is determined by whether they have access to Nvidia's GPUs.
+
+At its core there are magnificent technology companies like NVIDIA, OpenAI, Oracle, Microsoft, and AMD, whose strategic and financial decisions are shaping where the global technology sector goes to. Their interactions are characterized by financial commitments, capital flows, and a race to build the foundational infrastructure for the next generation of intelligence, which is updated almost every day. This maps the architecture of this cash flow by its unique "circular financing" model to achieve computational power at a massive scale.
+
+Valued at 500 billion USD, OpenAI contains ecosystem's central demand driver, as it is used by a wider audience, not only with LLM (chat-based) but also with its text-to-video and text-to-image models (Sora for text-to-video and the former DALL-E/GPT Image for text-to-image). Its commitment of more powerful AI models creates an increased need for computational resources, which “fuels” the entire cycle. This demand has been reflected in some of the largest deals ever recorded, including an agreement of 300 billion USD, five-year cloud agreement with Oracle for 4.5 gigawatts of capacity starting in 2027, and a strategic partnership with NVIDIA to deploy at least 10 gigawatts of its systems.
+
+1.Economics of The AI: Platforms, Complements, and Scale
+
+Effects
+
+The relationships in generative AI often have a platform-like structure, especially after the advancements of ChatGPT. For example, OpenAI’s API platform connects developers, who fine-tune models or build applications, with end-users who consume AI services. Similarly, cloud providers like Azure serve as platforms linking AI model providers with enterprise clients and governments to satisfy their need for AI services. In classic two-sided market theory, the platform’s value comes from cross-side network effects, more AI developers or model providers can attract more end-users, and vice versa. This would be a reason why ChatGPT outperforms other AI models.
+
+We see hints of this: Microsoft’s Azure benefits by hosting exclusive OpenAI models, attracting enterprise customers to Azure who want GPT capabilities, and giving OpenAI a larger user base (via Microsoft’s enterprise reach) and more usage data. The pricing structure often exhibits cross-subsidy: such as Microsoft heavily subsidized OpenAI with credits, such as belowcost cloud services to grow usage on Azure, expecting to get enterprise revenues, similar to how gaming consoles sell at a loss to build a user base to sell games. Likewise, end-users initially got free or low-cost access to ChatGPT, which is subsidized by venture capital and cloud credits, to build network effects and a dataset of interactions.
+
+Google Trends, last 12 months, Türkiye.
+
+(Graph by Arda Akgül)
+
+(approx. effect of free Gemini Pro for college students)
+
+Google Trends, last 12 months, worldwide.
+
+(Graph by Arda Akgül)
+
+Platform competition is emerging in the AI sector. We have competitors like AWS, Azure, and Google Cloud each want to be the main ecosystem for AI services, and they compete by tying up with model providers. Anthropic aligned with Amazon, OpenAI with Microsoft, and Google with its internal models and opensource releases. Each platform is trying to attract both the producer side (AI model developers) and the consumer side (businesses and developers) to its environment.
+
+Another aspect is that generative AI benefits from training and scale economies. At a technical level, there are scaling laws, empirical relationships showing that model performance improves as a power law of model size and training compute. In practical terms, larger models trained on more data have consistently resulted in better accuracy and capabilities across many tasks, even though it is with diminishing returns. This creates a strong support to scale up, which may lead to a race where each generation of model (GPT-3, GPT-4, GPT-5, and thinking models like o3) is computationally more intensive than the former models. This scaling is only eligible for those with access to compute resources, so there we see first-mover advantages too. There are also economies of scale on the cost side, cloud data centers apply high fixed costs (electricity, water, climation etc.) but low marginal costs (1.25 USD per 1M tokens for GPT-5 as of October 2025).
+
+That was what Oracle CEO said:
+
+“Just look at the rate at which they’ve grown to, you know, almost a billion users.”
+
+They believe that OpenAI will pay the cost to Oracle for cloud computing, because their usage is growing
+
+as there are more users (CNBC, 2025).
+
+The last factor is cost reduction. AI firms find ways to optimize models through algorithmic improvements
+
+like model compression or more efficient architectures, or using less GPUs like what DeepSeek did. These
+
+improvements can lower the compute needed for a given performance or upgrade one. The cost-
+
+performance frontier may go to the right without going up.
+
+2.Capital and Contracts
+
+Developing initial models and the cloud clusters to run them requires billions of capital, which is far
+
+beyond typical startup funding. We are witnessing a bunch of funding sources, like large tech companies’
+
+balance sheets, such as Microsoft’s investments in OpenAI, Google’s capex on AI, venture capital and
+
+private equities like 10 billion USD raised by OpenAI, Anthropic, etc., and even debt financing.
+
+For example, OpenAI’s revenue structure initially relied on Microsoft’s equity and advance purchase of
+
+Azure credits. By 2025, OpenAI also used debt markets as JPMorgan led a 2.3 billion USD loan to OpenAI
+
+and its partners to build the Texas data center for the Stargate Project. Meanwhile, smaller players
+
+compared to Microsoft, like CoreWeave, raised money in several rounds, like 200M USD in 2023, and took
+
+on debt to buy GPUs, and they use the hardware as collateral (Reuters, 2023).
+
+A key trend in recent AI deals is the use of long-term capacity purchase agreements. For example,
+
+OpenAI’s promise to spend 250 billion USD on Microsoft’s Azure cloud actually guarantees Microsoft a
+
+large, steady income. Even if OpenAI finds cheaper options later, it still has to pay Microsoft or lose that
+
+money. Similarly, the 300 billion USD deal for 5 years between OpenAI and Oracle likely means OpenAI
+
+must spend a big amount each year on Oracle Cloud. These promises help fund new data centers, because
+
+Oracle knows it has a committed customer and can safely invest in building GPU farms.
+
+Indeed, hyperscale cloud providers count on high utilization rates, which ends up in spreaded fixed costs of data centers on millions of users. This suggests a potential “money machine” dynamic. As a model is built, serving an additional customer (especially via an API) is cheap, so at a large scale, revenue could exceed operating cost if usage scales up.
+
+Data Center for GPUs to train/infer AI
+
+Some deals also include options, which are rights to future profits. For instance, OpenAI’s right to buy
+
+up to 10% of AMD stocks acts like a call option, so if AMD’s AI chip business grows, OpenAI can make
+
+money (AMD, 2025). Microsoft has used similar structures, such as getting part of OpenAI’s profits up
+
+to a certain limit. These financial designs help manage uncertainty and share both the risks and
+
+potential rewards of AI’s future.
+
+From an investment perspective,
+
+Firms also protect themselves by working with
+
+building AI capacity is risky and costly,
+
+several partners. OpenAI uses Azure, Oracle, and
+
+and when a huge amount of money is
+
+CoreWeave, so if one provider becomes expensive or
+
+spent on data centers or training, that
+
+unreliable, others are available. Cloud providers do
+
+money can’t easily be recovered. So
+
+the same, however. Microsoft works with OpenAI but
+
+companies invest in responsibility and
+
+also other startups, Amazon diferentiate investments
+
+keep flexibility. For example, the Stargate
+
+between Anthropic and its own models, Google
+
+project starts with 100 billion USD and
+
+supports multiple AI labs, including its DeepMind.
+
+may expand to 500 billion USD only if
+
+things go well (Reuters, 2025). Each step
+
+is like an “option” to keep investing if
+
+conditions are right.
+
+The AI boom is being funded by a bunch of equity, debt, and long-term contracts. Big firms often give
+
+startups upfront money in exchange for future revenues or shares. The logic of “real options” is to have
+
+a flexible and staged investment. It is visible throughout. Finally, governance is adapting to these
+
+unusual partnerships by balancing its profit with public benefit. How well these financial structures are
+
+will shape whether AI investment continues or slows down if profits take too long to appear.
+
+3.Cloud Computing and Inference Cost
+
+Training a large model is an expense that is paid
+
+once that involves running a huge number of
+
+computing operations with special tools like
+
+NVIDIA’s H100 GPUs. For example, training OpenAI’s
+
+GPT-3 (175 billion parameters) has been estimated
+
+to require on the order of 3.14×10 FLOPs (floating-
+
+point operations) (Sevilla et al., 2023). On regular
+
+GPU hardware, that translates to a time cost on the
+
+order of thousands of GPU hours, which would cost
+
+roughly 500k USD to 4.6 million USD in cloud
+
+compute cost for a single training run of GPT-3,
+
+depending on hardware efficiency assumptions.
+
+GPT-4, which is larger and trained on more data
+
+compared to GPT-3 costed significantly more. So
+
+that we may say that recent new GPT models will
+
+cost more and more due to diminishing marginal
+
+returns, as data to train is more in shortage so that
+
+training a new model would require more
+
+computational power.
+
+These are largely sunk costs. Once you train the
+
+model, that money has been spent on electricity
+
+and hardware.
+
+Once a model is trained, every time it’s used for
+
+inference, like generating output from inputs, it
+
+consumes computational resources. Inference cost
+
+scales with the model’s size and the complexity of
+
+the query (length of input and output tokens). For
+
+GPT-3 models, 1k token output costs on the order of
+
+0.0003 USD per query in computation. OpenAI’s API
+
+pricing for GPT-3 was about 0.002 USD per 1k tokens,
+
+implying a healthy margin over the raw cost
+
+(Appenzeller et al., 2023). However, when multiplied
+
+by millions of users and complex multi-turn
+
+interactions, inference costs increase quickly. In fact,
+
+total inference costs can far outweigh training costs
+
+in the long run. Inference is like an operating
+
+expense, occurs every time the service is provided.
+
+It means that “Hello GPT, how are you today?” costs
+
+even some cents. If a model is extremely popular, the
+
+(Buchholz, 2024)
+
+aggregate GPU time for inference can exceed that of
+
+training by orders of magnitude over the model’s life.
+
+Because training is once, but inference is
+
+continuous, in fact, 24/7.
+
+Cloud providers charge for inference usage
+
+typically on a token basis, which means model
+
+providers have ongoing bills. For example,
+
+OpenAI’s API runs on Azure; OpenAI pays Azure for
+
+each GPU-hour consumed to answer API calls, even
+
+though it is likely at a discounted rate if under their
+
+contract. If OpenAI’s revenue per API call does not
+
+sufficiently exceed the cloud cost, margins are thin.
+
+This has motivated efforts to optimize inference:
+
+methods like model compression, quantization,
+
+hardware acceleration, and caching frequent
+
+results cut costs per input and output. There is also
+
+a trade-off in model size too, so that a smaller
+
+model is cheaper to run, but may be less accurate,
+
+and it would hallucinate more. Companies are
+
+exploring distilled models to handle special queries
+
+and save the big model for hard cases, a form of
+
+cost-tiered service. Sam Altman, OpenAI CEO
+
+The cloud model means that AI companies often
+
+This is why even OpenAI uses Azure, it is also co-
+
+do not directly own the machines, they rent them
+
+investing in dedicated data centers (Stargate) that it
+
+via AWS, Microsoft Azure, and Oracle’s services.
+
+will effectively control; and why Meta and Google
+
+You can scale up to thousands of GPU instances
+
+mostly use their own data centers for AI. It depends
+
+when needed and scale down in off-peak times, it
+
+on their analyses.
+
+means. Elasticity is extremely valuable for training,
+
+The big three clouds (AWS, Microsoft Azure, and
+
+which might use 100% resources for peak times
+
+Google Cloud Platform) charge a premium, as they
+
+and then none) and for variable inference loads.
+
+offer a brand and full services as well as a reason for
+
+Cloud also converts fixed costs into variable costs,
+
+their ability to charge more. Specialized clouds such
+
+which is helpful for startups to avoid huge upfront
+
+as CoreWeave and Lambda Labs offer lower prices
+
+capital outlays for hardware.
+
+by optimizing purely for AI workloads and foregoing
+
+some features. So that a huge cost is varied by the
+
+companies themselves.
+
+For instance, let’s say ERU AI is a tool to analyze financial statements of companies listed in BIST. ERU AI does not need to have computational tools or data centers, rather, ERU AI
+
+can use cloud services to run their own models and APIs to run their AI services via various AI companies. So that fixed cost like the rent of the data center is turned into a variable cost, usage and users; in other words, queries.
+
+4. How to Justify the AI Money Machine?
+
+As a person who highly believes in technological advancements and who is highly interested in artificial intelligence, justifying the cash flow is just something difficult. However, there are ways
+
+to make it sustainable in terms of the financials of companies.
+
+It would be said that the clearest validation would be the state that companies involved in the AI value chain start reporting sustained profits directly attributable to AI
+
+services. For example, if OpenAI (or its investors like Microsoft) can show that the revenue from ChatGPT/Sora not only covers the ongoing cloud costs but also the R&D investment within a reasonable time series, that’s a strong indicator. If Azure’s gross margin improves due to economies of scale in AI (or the ability to change pricing because of high demand), and if those margins hold even
+
+though competition increases, it suggests the “AI money machine” is printing money. So that high and growing margins on AI services would reflect that each additional dollar of AI revenue comes with a relatively low cost; the marginal cost is so low that it is the ideal money machine
+
+scenario.
+
+It’s also worth noting signs of failure, if the investments never break even, or if diminishing returns
+
+is showing, such as scaling models further yields little new value but still costs exponentially more and more, a scenario of hitting a wall on the quality improvements, then the machine might
+
+work not better. For instance, if GPT-6 requires billions more but provides only marginal gains that it will not be worthly, AI money machine would stop working at all. It would end up in a state
+
+where we would see that in perhaps flatter user growth as people would stick with slightly older
+
+and cheaper models such as GPT-4o. Another negative sign would be if externalities or regulation
+
+impose heavy costs, like a carbon tax significantly raises operating costs, or strict data usage regulations that would limit these models to slower growth of AI levels.
+
+As the data on AI accumulates, researchers and policymakers will be able to judge whether
+
+generative AI is truly a new engine of economic value creation or simply a costly fascination or a
+
+fake cash flow tool, as believed by a lot of people, including Michael J. Burry. The metrics and frameworks discussed aim to ensure that as we build this machine, we also measure its output and adjust ourselves accordingly, so that maximizing societal benefit while preventing problems
+
+would be provided.
+
+Reference: Advanced Micro Devices, Inc. (2025, October 6). AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs.
+
+AMD Newsroom. https://www.amd.com/en/newsroom/press-releases/2025-10-6-amd-and-openai-announce-strategic-partnership-to-
+
+d.html (AMD)
+
+Appenzeller, G., Bornstein, M., & Casado, M. (2023, April 27). Navigating the high cost of AI compute. Andreessen Horowitz.
+
+https://a16z.com/navigating-the-high-cost-of-ai-compute/
+
+Bajwa, A., & Varghese, H. M. (2025, October 1). Key stakeholders in $500 billion Stargate AI project. Reuters.
+
+https://www.reuters.com/business/media-telecom/key-stakeholders-500-billion-stargate-ai-project-2025-10-01/ (Reuters)
+
+Buchholz, K. (2024, September 23). The extreme cost of training AI models. Statista. https://www.statista.com/chart/33114/estimated-cost-
+
+of-training-selected-ai-models/
+
+Hu, K. (2023, August 3). CoreWeave raises $2.3 billion in debt collateralized by Nvidia chips. Reuters. https://www.reuters.com/technology/coreweave-raises-23-billion-debt-collateralized-by-nvidia-chips-2023-08-03/ (Reuters)
+
+Microsoft. (2023, January 23). Microsoft and OpenAI extend partnership. The Official Microsoft Blog. https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership
+
+Oracle CEO Magouyrk: 'Of course' OpenAI can pay $60 billion per year. (2025, October 13). CNBC. https://www.cnbc.com/2025/10/13/oracle-ceo-magouyrk-of-course-openai-can-pay-60-billion-per-year.html
+
+Sevilla, J., Ho, A., & Besiroglu, T. (2023). Please report your compute: Seeking consistent means of measure. Communications of the ACM,
+
+66(5), 30–32. https://doi.org/10.1145/3563035 (cacm.acm.org)

@@ -1,0 +1,63 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "winter-is-coming",
+ "filename": "article-winter-is-coming.html",
+ "title": "Winter Is Coming, or Not?",
+ "kind": "article",
+ "pages": [
+  7,
+  10
+ ],
+ "wordcount": 1489,
+ "textfile": "data/erumag/winter-is-coming.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/winter-is-coming-f1.png",
+   "caption": "",
+   "w": 700,
+   "h": 382,
+   "page": 7
+  },
+  {
+   "file": "assets/erumag/winter-is-coming-f2.jpeg",
+   "caption": "",
+   "w": 400,
+   "h": 265,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/winter-is-coming-f3.jpeg",
+   "caption": "",
+   "w": 368,
+   "h": 368,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/winter-is-coming-f4.png",
+   "caption": "mariothemultipla.wordpress.com/",
+   "w": 468,
+   "h": 258,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/winter-is-coming-f5.jpeg",
+   "caption": "bernardmarr.com",
+   "w": 479,
+   "h": 270,
+   "page": 9
+  },
+  {
+   "file": "assets/erumag/winter-is-coming-f6.jpeg",
+   "caption": "",
+   "w": 432,
+   "h": 520,
+   "page": 9
+  }
+ ]
+}

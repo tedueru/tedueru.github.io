@@ -1,0 +1,42 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "ai-productivity",
+ "filename": "article-ai-productivity.html",
+ "title": "Does AI Boost Labor Productivity?",
+ "kind": "article",
+ "pages": [
+  40,
+  42
+ ],
+ "wordcount": 829,
+ "textfile": "data/erumag/ai-productivity.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/ai-productivity-f1.png",
+   "caption": "(From: OECD, 2024)",
+   "w": 616,
+   "h": 363,
+   "page": 40
+  },
+  {
+   "file": "assets/erumag/ai-productivity-f2.png",
+   "caption": "",
+   "w": 398,
+   "h": 252,
+   "page": 41
+  },
+  {
+   "file": "assets/erumag/ai-productivity-f3.png",
+   "caption": "(Source: OECD, 2024)",
+   "w": 662,
+   "h": 356,
+   "page": 42
+  }
+ ]
+}

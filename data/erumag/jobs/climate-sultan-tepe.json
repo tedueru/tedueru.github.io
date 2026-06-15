@@ -1,0 +1,56 @@
+{
+ "issue": 1,
+ "issue_title": "The Foundation",
+ "issue_subtitle": "Inaugural Issue",
+ "issue_year": "2025",
+ "issue_date": "2025-01-15",
+ "issue_cover": "covers/erumag-1-cover.jpg",
+ "issue_pdf": "ERUMAG_Issue1_2025.pdf",
+ "slug": "climate-sultan-tepe",
+ "filename": "article-climate-sultan-tepe.html",
+ "title": "Climate Change and Sustainability with Sultan Tepe",
+ "kind": "interview",
+ "pages": [
+  24,
+  26
+ ],
+ "wordcount": 631,
+ "textfile": "data/erumag/climate-sultan-tepe.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/climate-sultan-tepe-f1.jpeg",
+   "caption": "",
+   "w": 320,
+   "h": 480,
+   "page": 24
+  },
+  {
+   "file": "assets/erumag/climate-sultan-tepe-f2.png",
+   "caption": "",
+   "w": 960,
+   "h": 540,
+   "page": 24
+  },
+  {
+   "file": "assets/erumag/climate-sultan-tepe-f3.jpeg",
+   "caption": "",
+   "w": 1152,
+   "h": 768,
+   "page": 25
+  },
+  {
+   "file": "assets/erumag/climate-sultan-tepe-f4.png",
+   "caption": "our planet and ensure a good future for",
+   "w": 597,
+   "h": 328,
+   "page": 26
+  },
+  {
+   "file": "assets/erumag/climate-sultan-tepe-f6.jpeg",
+   "caption": "",
+   "w": 960,
+   "h": 641,
+   "page": 26
+  }
+ ]
+}

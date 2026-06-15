@@ -1,0 +1,28 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "economists-use-ai",
+ "filename": "article-economists-use-ai.html",
+ "title": "How Economists Use Artificial Intelligence in Their Research",
+ "kind": "article",
+ "pages": [
+  27,
+  29
+ ],
+ "wordcount": 1247,
+ "textfile": "data/erumag/economists-use-ai.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/economists-use-ai-f1.png",
+   "caption": "",
+   "w": 693,
+   "h": 457,
+   "page": 27
+  }
+ ]
+}

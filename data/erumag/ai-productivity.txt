@@ -1,0 +1,45 @@
+DOES AI BOOST LABOR
+
+PRODUCTIVITY?
+
+Sıla KHADAROO
+
+Economics 2 Grade Student nd
+
+Since the forthcoming of AI, this question has been asked several times. Various research has been conducted, and the answers are divided into two. One side of research shows that AI does contribute to labor productivity, while the other side states that it has damaging effects.
+
+Firstly, we should pay attention to the fact that AI has no agreed-upon definition and that there is a need for more firm-level data. The data that is available has a high probability of indicating short-run results (Damioli et al., 2021 & OECD, 2024). Despite these, we can observe that AI is capable of improving productivity in several ways, some of which are seen to be the creation of modern technologies, the capability of interchanging already in-use technologies, and further strengthening predictions.
+
+(From: OECD, 2024)
+
+Some key areas where AI is particularly utilized for productivity are project management, human resources, customer services, data analysis, and research. The reason why AI increases productivity is because it reduces time spent on tasks through automation of monotonous pieces of work, lowers error rates, which enhances results, and increases personalization (IBM, 2025). In a study carried out in Taiwan, firms that have attained AI patents are linked to a nearly 13% increase in productivity in contrast to firms that have not attained any AI patents (Yang, 2022).
+
+Going on with those who foresee a negative impact on labor productivity, we can first consult the work of Acemoğlu (2021). He has devised some theories about the potential effects of AI and points out that what is important is in which ways AI is being preferred to use. In the case that AI is utilized for putting forth tasks that were not previously present, then this could have potentially positive outcomes.
+
+One example of this is the improvement of teacher productivity by integrating AI into classroom environments and using it for generating original tasks. On the other hand, if AI is being utilized for tasks that humans can already perform without much external help, then this could produce negative outcomes due to over-automation. Over-automation in this frame is defined as when the speed of automation exceeds the socially beneficial rate of automation. Over-automation has the potential to misuse resources, oust labor, and also bring forth inefficiencies, therefore lowering productivity.
+
+We can continue to try to answer our question by inspecting OECD’s Artificial Intelligence Papers of April 2024. Despite the lack of empirical evidence, there are some initial micro-level data stating that mainly fast embracers of the most recent AI have considerable productivity returns. One detail we can mention is that when workers with fewer competencies and workers with more competencies are compared, those with more competencies have a weaker response to AI, whereas workers with fewer competencies display a stronger response to AI, increasing their overall productivity significantly. Another finding is that a worker performance enhancement of between 10% and 56% has been observed in certain assignments, particularly those related to writing, customer service, and software development. Besides this productivity outcome, the studies also indicate increased physical and mental well-being, together with a rise in job-related happiness.
+
+When we go back to Damioli et al.’s work, they have found a 3% increase in productivity when a firm has twice the amount of AI patents they used to have (2021). However, according to Syverson (2017), we see a contradicting example from the US.
+
+(From: Yang, 2022. We can see that despite the US having the most AI technology, the average labor productivity rate has dropped.)
+
+Between the years 1995 and 2004, the average labor productivity rate was 2.8%, but between 2005 and 2015 a drop of 1.5% occurred reducing the average labor productivity rate to 1.3%.
+
+(Source: OECD, 2024)
+
+In conclusion, we can see that AI has the potential to create both positive and negative outcomes on labor productivity through different paths, and that we still need time to better comprehend its implications. In the meantime, we can try our best to use AI in the most responsible way, without endangering our overall well-being.
+
+Reference: Acemoglu, D. (2021). Harms of AI (NBER Working Paper No. 29247). National Bureau of Economic Research. Acemoglu, D. (2021). Harms of AI. https://doi.org/10.3386/w29247
+
+Agrawal, A., Gans, J.,Goldfarb, A., Acemoğlu, D., & Restrepo, P. (2019). The economics of artificial intelligence: An Agenda. University of Chicago Press.
+
+Damioli, G., Van Roy, V., & Vertesy, D. (2021). The impact of artificial intelligence on labor productivity. Eurasian Economic Review, 11(1), 1–25. https://doi.org/10.1007/s40821-020-00172-8
+
+Finn, T., & Downie, A. (2025, August 8). AI productivity. AI Productivity. https://www.ibm.com/think/insights/aiproductivity
+
+OECD. (2024). The impact of artificial intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges. https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/04/the-impact-ofartificial-intelligence-on-productivity-distribution-and-growth_d54e2842/8d900037-en.pdf
+
+Seamans, R., & Raj, M. (2018). AI, Labor, Productivity and the Need for Firm-Level Data. https://doi.org/10.3386/w24239
+
+Yang, C. (2022). How Artificial Intelligence Technology Affects Productivity and Employment: Firm-level Evidence from Taiwan. Research Policy, 51(6), 104536. https://doi.org/10.1016/j.respol.2022.104536

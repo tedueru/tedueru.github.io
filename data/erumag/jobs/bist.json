@@ -1,0 +1,35 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "bist",
+ "filename": "article-bist.html",
+ "title": "Understanding the Turkish Stock Market (BIST)",
+ "kind": "article",
+ "pages": [
+  25,
+  26
+ ],
+ "wordcount": 623,
+ "textfile": "data/erumag/bist.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/bist-f1.jpeg",
+   "caption": "Inside of BIST Headquarters",
+   "w": 640,
+   "h": 360,
+   "page": 25
+  },
+  {
+   "file": "assets/erumag/bist-f2.jpeg",
+   "caption": "",
+   "w": 1344,
+   "h": 896,
+   "page": 26
+  }
+ ]
+}

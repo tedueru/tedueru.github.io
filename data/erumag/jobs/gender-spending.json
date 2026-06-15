@@ -1,0 +1,28 @@
+{
+ "issue": 4,
+ "issue_title": "Consumerism & Modern Behaviors",
+ "issue_subtitle": "Issue 4",
+ "issue_year": "2026",
+ "issue_date": "2026-01-14",
+ "issue_cover": "covers/erumag-4-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 4, 2026.pdf",
+ "slug": "gender-spending",
+ "filename": "article-gender-spending.html",
+ "title": "Gender-Based Consumer Behavior: Women's and Men's Spending Habits",
+ "kind": "article",
+ "pages": [
+  33,
+  34
+ ],
+ "wordcount": 578,
+ "textfile": "data/erumag/gender-spending.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/gender-spending-f1.jpeg",
+   "caption": "",
+   "w": 831,
+   "h": 713,
+   "page": 34
+  }
+ ]
+}

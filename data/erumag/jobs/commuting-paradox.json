@@ -1,0 +1,49 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "commuting-paradox",
+ "filename": "article-commuting-paradox.html",
+ "title": "How Is Commuting Affecting Our Mood? The Commuting Paradox",
+ "kind": "article",
+ "pages": [
+  33,
+  35
+ ],
+ "wordcount": 979,
+ "textfile": "data/erumag/commuting-paradox.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/commuting-paradox-f1.png",
+   "caption": "",
+   "w": 753,
+   "h": 784,
+   "page": 33
+  },
+  {
+   "file": "assets/erumag/commuting-paradox-f2.jpeg",
+   "caption": "Monocentric City (Google Nano Banana 2)",
+   "w": 830,
+   "h": 454,
+   "page": 34
+  },
+  {
+   "file": "assets/erumag/commuting-paradox-f3.png",
+   "caption": "",
+   "w": 1404,
+   "h": 1404,
+   "page": 34
+  },
+  {
+   "file": "assets/erumag/commuting-paradox-f4.png",
+   "caption": "",
+   "w": 417,
+   "h": 601,
+   "page": 35
+  }
+ ]
+}

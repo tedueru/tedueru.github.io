@@ -1,0 +1,28 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "ai-labor-market",
+ "filename": "article-ai-labor-market.html",
+ "title": "Artificial Intelligence and the Labor Market",
+ "kind": "article",
+ "pages": [
+  7,
+  8
+ ],
+ "wordcount": 775,
+ "textfile": "data/erumag/ai-labor-market.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/ai-labor-market-f1.png",
+   "caption": "",
+   "w": 502,
+   "h": 502,
+   "page": 8
+  }
+ ]
+}

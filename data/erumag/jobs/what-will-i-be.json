@@ -1,0 +1,35 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "what-will-i-be",
+ "filename": "article-what-will-i-be.html",
+ "title": "What Will I Be When I Grow Up?",
+ "kind": "article",
+ "pages": [
+  16,
+  17
+ ],
+ "wordcount": 529,
+ "textfile": "data/erumag/what-will-i-be.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/what-will-i-be-f1.png",
+   "caption": "",
+   "w": 615,
+   "h": 410,
+   "page": 16
+  },
+  {
+   "file": "assets/erumag/what-will-i-be-f2.jpeg",
+   "caption": "",
+   "w": 512,
+   "h": 768,
+   "page": 17
+  }
+ ]
+}

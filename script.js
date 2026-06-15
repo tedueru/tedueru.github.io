@@ -83,4 +83,18 @@ document.addEventListener('DOMContentLoaded', () => {
     /* --- Year --- */
     const yr = document.getElementById('year');
     if (yr) yr.textContent = new Date().getFullYear();
+
+    /* --- Reading progress bar (article pages) --- */
+    const progress = document.querySelector('.reading-progress');
+    if (progress) {
+        const updateProgress = () => {
+            const doc = document.documentElement;
+            const scrollable = doc.scrollHeight - doc.clientHeight;
+            const pct = scrollable > 0 ? (doc.scrollTop / scrollable) * 100 : 0;
+            progress.style.width = Math.min(100, Math.max(0, pct)) + '%';
+        };
+        window.addEventListener('scroll', updateProgress, { passive: true });
+        window.addEventListener('resize', updateProgress);
+        updateProgress();
+    }
 });

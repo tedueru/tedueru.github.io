@@ -1,0 +1,42 @@
+{
+ "issue": 3,
+ "issue_title": "AI & Economic Uncertainty",
+ "issue_subtitle": "Issue 3",
+ "issue_year": "2025",
+ "issue_date": "2025-11-28",
+ "issue_cover": "covers/erumag-3-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 3, 2025.pdf",
+ "slug": "ottoman-debt",
+ "filename": "article-ottoman-debt.html",
+ "title": "The Debt Spiral of the Ottoman Empire: Foreign Capital and Loss of Economic Independence",
+ "kind": "article",
+ "pages": [
+  43,
+  45
+ ],
+ "wordcount": 927,
+ "textfile": "data/erumag/ottoman-debt.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/ottoman-debt-f1.jpeg",
+   "caption": "Peace Rumors by Thomas Nast (Harper’s Weekly, 30 June 1877)",
+   "w": 384,
+   "h": 450,
+   "page": 43
+  },
+  {
+   "file": "assets/erumag/ottoman-debt-f2.png",
+   "caption": "",
+   "w": 512,
+   "h": 512,
+   "page": 44
+  },
+  {
+   "file": "assets/erumag/ottoman-debt-f3.png",
+   "caption": "",
+   "w": 615,
+   "h": 615,
+   "page": 45
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "issue": 2,
+ "issue_title": "Fertility Rates & Demographic Economics",
+ "issue_subtitle": "Issue 2",
+ "issue_year": "2025",
+ "issue_date": "2025-04-15",
+ "issue_cover": "covers/erumag-2-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 2, 2025.pdf",
+ "slug": "three-kids",
+ "filename": "article-three-kids.html",
+ "title": "“At Least 3 Kids!”",
+ "kind": "article",
+ "pages": [
+  7,
+  9
+ ],
+ "wordcount": 1129,
+ "textfile": "data/erumag/three-kids.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/three-kids-f1.png",
+   "caption": "(Birth Statistics, TurkStat)",
+   "w": 727,
+   "h": 348,
+   "page": 7
+  },
+  {
+   "file": "assets/erumag/three-kids-f2.png",
+   "caption": "Fertility Rate in 6 Countries Data: World Bank, World Development Indicators",
+   "w": 728,
+   "h": 280,
+   "page": 8
+  },
+  {
+   "file": "assets/erumag/three-kids-f3.png",
+   "caption": "",
+   "w": 615,
+   "h": 410,
+   "page": 8
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "issue": 5,
+ "issue_title": "AI Agent Economics",
+ "issue_subtitle": "Issue 5 - Latest",
+ "issue_year": "2026",
+ "issue_date": "2026-06-15",
+ "issue_cover": "covers/erumag-5-cover.jpg",
+ "issue_pdf": "ERUMAG, Issue 5, 2026.pdf",
+ "slug": "eu-common-currency",
+ "filename": "article-eu-common-currency.html",
+ "title": "Is Having a Common Currency Beneficial for EU Countries?",
+ "kind": "article",
+ "pages": [
+  30,
+  32
+ ],
+ "wordcount": 1105,
+ "textfile": "data/erumag/eu-common-currency.txt",
+ "figures": [
+  {
+   "file": "assets/erumag/eu-common-currency-f1.png",
+   "caption": "Source: World Development Indicators",
+   "w": 455,
+   "h": 250,
+   "page": 30
+  },
+  {
+   "file": "assets/erumag/eu-common-currency-f2.png",
+   "caption": "Real GDP Growth",
+   "w": 455,
+   "h": 239,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/eu-common-currency-f3.jpeg",
+   "caption": "Czech Central Bank Ceska Narodni Banka, Prague Source: Mehmet Orkun Apaydın Archive",
+   "w": 480,
+   "h": 640,
+   "page": 31
+  },
+  {
+   "file": "assets/erumag/eu-common-currency-f4.jpeg",
+   "caption": "",
+   "w": 1133,
+   "h": 638,
+   "page": 32
+  }
+ ]
+}

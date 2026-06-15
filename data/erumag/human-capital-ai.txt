@@ -1,0 +1,55 @@
+The Future of Human Capital: Navigating the Duality of AI in
+
+Professional Practice
+
+Furkan SÜMBÜL Political Science Ph.D. Student, University of Colorado Boulder
+
+Technological advancement generally provides individuals with better opportunities and improved experiences. Where knowledge accumulation once required significant effort and was not immediately available, individuals can now gain a basic grasp of almost any issue through a quick search. Historically, technological progress has been constructive, expanding human abilities, transforming daily routines, and benefiting humanity.
+
+One recent advancement is generative artificial intelligence. Its adoption has outpaced even that of the internet, yet its total effect remains difficult to pinpoint because the technology is still evolving. This “new toy” fundamentally augments human capabilities, allowing people to achieve goals faster by eliminating redundant steps and providing easy access to crucial information. It enables individuals to acquire a broad range of knowledge, facilitating interdisciplinary work and rapid skill transformation. Users can extract insights from thousands of documents in hours or learn complex mechanisms in ways that are intuitive and relatable, allowing them to extend their reach far beyond their core professions.
+
+However, there is a trade-off. Historically, the slower pace of learning had distinct benefits for cognitive processing. Delegating learning to an autonomous agent strips humanity of core developmental experiences. Because humans are wired to seek the path of least resistance, we are prone to developing a dependency on AI. While this allows us to skip costly learning processes, it also removes the “breathing room” required to digest information, connect divergent ideas, and create authentic knowledge. Since information has become cheaper and more readily available, we no longer feel the need to internalize or nourish it in our minds, leading to potential AI dependency, faulty skill development, and cognitive decline.
+
+Therefore, the proliferation of generative artificial intelligence and autonomous agents has introduced a profound duality in the workplace: a simultaneous expansion of human capability and a potential erosion of foundational cognitive processes. On one hand, AI reduces friction and improves human capital, aligning with the competitive interests of both firms and workers. On the other hand, workers may “borrow” skills instead of building them, underutilizing themselves as the primary vessels of knowledge. This creates a profound tension: a short term expansion of human capability counterbalanced by a potential erosion of foundational cognitive processes.
+
+Noy and Zhang (2023) demonstrate that in writing-intensive tasks, AI narrowed the productivity gap between high- and low-ability workers, increasing output quality by 18% and speed by 37%. Dell'Acqua et al. (2023), in their randomized controlled trial at Boston Consulting Group, find that consultants with access to GPT-4 completed 12% more tasks, at 25% faster speeds, and with up to 40% higher quality than those without. Furthermore, Dell’Acqua et al. (2025) discuss how teams using AI created more balanced, cross-disciplinary solutions; AI bridged professional divides and broadened dialogues of expertise even when employees lacked specialized knowledge.
+
+Reports from the St. Louis Fed (Bick et al., 2025) indicate that generative AI has reached a critical threshold of workforce penetration. In the United States, approximately 28% of all workers utilized generative AI to some degree by August 2024. The impact on individual productivity is significant when isolated to active usage hours, with data suggesting workers are approximately 33% more productive during the specific hours they engage with AI tools. The average time savings for an individual working a standard 40 hour week is estimated at 5.4%, or roughly 2.2 hours. However, these gains are not uniform; the information services sector exhibits the highest integration, while sectors such as leisure and accommodation show significantly lower adoption.
+
+Despite these efficiencies, research from the Harvard Business Review (Ranganathan & Ye, 2026) suggests that rather than reducing workloads, these tools often intensify them. Employees tend to work faster, take on a wider range of tasks, and extend their work into their personal time, even without being required to do so. AI makes new tasks feel accessible, leading workers to expand their roles and juggle multiple tasks simultaneously. While this can initially boost productivity, it often results in “workload creep,” cognitive fatigue, burnout, and declining work quality over time.
+
+Parallel to this exhaustion is the risk of cognitive atrophy, the shrinking and weakening of neural networks associated with deep thinking due to an over reliance on AI (Roxin, 2025). This phenomenon is driven by cognitive offloading, the practice of delegating mental tasks to external aids to reduce intellectual effort (León-Domínguez, 2024). This builds upon the Google Effect, which demonstrated that humans tend to forget information they know is easily accessible online (Gerlich, 2025). However, generative AI may exacerbate this to the point where users may forget not just the location of information, but the very process of thinking itself (Roxin, 2025).
+
+Researchers have identified a significant negative correlation (r = −0.49) between the frequency of AI usage and scores on critical thinking assessments and this decline is particularly pronounced in younger demographics (ages 17 to 25) (Gerlich, 2025). Furthermore, the potential for anticipatory AI help, where a system acts before being explicitly asked, can be perceived as a threat to a user’s sense of competence and autonomy (Harari & Amir, 2025), potentially disrupting the internal guidance mechanisms of individual thinking processes.
+
+As AI becomes theoretically adaptable to many sectors, firms will likely increasingly adopt it into their work processes AI transforms and is incorporated, is theoretically adaptable to many sectors (see another text in this volume: Big Tech Wants to Orchestrate the Economy). The value of an “AI powered worker” is reflected in a substantial wage premium, which rose from 25% in 2023 to 56% in 2024; this premium persists even in automatable roles, suggesting that workers who can effectively govern AI are becoming more valuable (PwC, 2025). Babashahi et al. (2024) notes how firms and employees are currently navigating the complex embedding of AI into core workflows, a transition that demands a strategic blend of sector specific expertise and adaptive digital skill sets to capitalize on human-AI collaboration.
+
+Still, the gravity of the risks involved necessitates a cautious approach. Acemoglu et al. (2026) highlight a tension between immediate gains and long run collective knowledge through two dimensions: the Substitution Effect, where individuals reduce learning effort, and the Erosion of Externality, where this lack of individual learning depletes society’s shared knowledge stock. While AI may statically improve decision quality, the authors warn that if human effort is sufficiently elastic, society risks a “dynamic trap” where general knowledge eventually vanishes. Hence, these individual tendencies toward AI dependence risk creating a feedback loop where short term optimizations result in a catastrophic depletion of society’s intellectual capital. Consequently, the drive for efficiency could become fundamentally self defeating, as the “snake eats its own tail,” consuming the very human expertise required to govern and advance the technology itself.
+
+Reference:
+
+Acemoglu, D., Kong, D., & Ozdaglar, A. (2026, February). Ai, human cognition and knowledge collapse. https://doi.org/10.3386/w34910
+
+Babashahi, L., Barbosa, C. E., Lima, Y., Lyra, A., Salazar, H., Argolo, M., de Almeida, M. A., &ˆ de Souza, J. M. (2024). Ai in the workplace: A systematic review of skill transformation in the industry. Administrative Sciences, 14(6). https://doi.org/10.3390/admsci14060127
+
+Bick, A., Blandin, A., & Deming, D. (2025, February). The impact of generative ai on work productivity [Blog post]. Federal Reserve Bank of St. Louis. Retrieved April 15, 2026, from https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-workproductivity
+
+Dell’Acqua, F., Ayoubi, C., Lifshitz-Assaf, H., Sadun, R., Mollick, E. R., Mollick, L., Han, Y., Goldman, J., Nair, H., Taub, S., & Lakhani, K. R. (2025). The cybernetic teammate: A field experiment on generative ai reshaping teamwork and expertise. https://doi.org/10. 2139/ssrn.5188231
+
+Dell’Acqua, F., McFowland III, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F., & Lakhani, K. R. (2023, September). Navigating the jagged technological frontier: Field experimental evidence of the effects of artificial intelligence on knowledge worker productivity and quality. https://doi.org/10.2139/ssrn.4573321
+
+Gerlich, M. (2025). Ai tools in society: Impacts on cognitive offloading and the future of critical thinking. Societies, 15(1). https://doi.org/10.3390/soc15010006
+
+Harari, D., & Amir, O. (2025, September). Proactive ai adoption can be threatening: When help backfires. https://doi.org/10.48550/arXiv.2509.09309
+
+León-Domínguez, U (2024). Potential cognitive risks of generative transformer-based ai chatbots on higher order executive functions. Neuropsychology, 38(4), 293–308. https://doi.org/10. 1037/neu0000948
+
+Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. Science, 381(6654), 187–192. https://doi.org/10.1126/science. adh2586
+
+PwC. (2025, June). The fearless future: 2025 global ai jobs barometer [Accessed: 2026-04-16]. https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html
+
+Ranganathan, A., & Ye, X. M. (2026). Ai doesn’t reduce work—it intensifies it. Harvard Business Review.
+
+Roxin, I. (2025, July). Generative ai: The risk of cognitive atrophy.
+
+AI is a double-edged sword: it accelerates output and quality but, if adopted indiscriminately, could simultaneously diminish human learning and critical processes. Nevertheless, AI is here to stay. Because it dictates modern competition, firms and workers must adapt, requiring a fundamental adjustment in what it means to work.
