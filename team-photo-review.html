@@ -25,8 +25,8 @@
   <section class="hero">
     <h1>TEDU ERU team photo review</h1>
     <p>Candidate portraits for every distinct person listed on the live team page, across the 2024 Spring–2026 Fall boards, advisor/founder entries, and advisory board.</p>
-    <div class="stats"><span class="stat"><strong>39</strong> distinct people</span><span class="stat"><strong>18</strong> usable photo candidates</span><span class="stat"><strong>21</strong> still unresolved</span></div>
-    <div class="note">These are approval candidates only. Confirm identity and photo-use permission before publishing. LinkedIn thumbnails were fetched as previews from the public profiles; the linked LinkedIn page is the source to verify.</div>
+    <div class="stats"><span class="stat"><strong>39</strong> distinct people</span><span class="stat"><strong>20</strong> usable photo candidates</span><span class="stat"><strong>19</strong> still unresolved</span></div>
+    <div class="note">These are approval candidates only. Confirm identity and photo-use permission before publishing. Public LinkedIn and official university images are shown as previews; the linked source is the place to verify identity and usage rights.</div>
   </section>
   <div class="controls" aria-label="Filters"><span>Show:</span><button class="active" data-filter="all">Everyone</button><button data-filter="found">Photo candidates</button><button data-filter="missing">Unresolved</button></div>
   <section class="grid" id="grid"></section>
@@ -65,15 +65,15 @@ const people = [
   {name:"Furkan Güdek",roles:"2024 Spring Board Member; 2024 Fall Vice President; 2025 Spring President; 2025 Fall Audit Committee",img:"team-photo-review/photos/tedu_furkan-gudek.jpg",kind:"Official TEDU research-center profile",source:"https://strc.tedu.edu.tr/ekibimiz-0"},
   {name:"Deniz Yıldırım",roles:"2024 Spring/2024 Fall Board Member; 2025 Spring Co-Vice President",img:"team-photo-review/photos/linkedin_deniz-yildirim.jpg",kind:"LinkedIn profile tied to TEDU ERU",source:"https://tr.linkedin.com/in/deniz-y%C4%B1ld%C4%B1r%C4%B1m-973343242",li:"https://tr.linkedin.com/in/deniz-y%C4%B1ld%C4%B1r%C4%B1m-973343242"},
   {name:"Ali Ceren",roles:"2025 Spring Audit Committee Member",kind:"No reliable public photo found",li:"https://tr.linkedin.com/pub/dir/Ali/Ceren/tr-0-T%C3%BCrkiye"},
-  {name:"Ezgi Murat",roles:"2024 Fall Board Member",kind:"Previous photo candidate rejected; no reliable public photo found",li:"https://tr.linkedin.com/in/ezgi-murat-phd-2498aa211"},
+  {name:"Ezgi Murat",roles:"2024 Fall Board Member",kind:"Rejected same-name LinkedIn match; no reliable public student photo found",li:"https://www.linkedin.com/pub/dir/Ezgi/Murat"},
   {name:"Duygu Karamanlı",roles:"2024 Fall Audit Committee Member",kind:"No reliable public photo found",li:"https://www.linkedin.com/pub/dir/%2B/Karamanli/tr-0-Turkey"},
   {name:"Orhan Can Öcal",roles:"2024 Fall Audit Committee Member",kind:"No reliable public photo found",li:"https://www.linkedin.com/pub/dir/Orhan/Ocal"},
   {name:"Furkan Özbek",roles:"2024 Spring Board Member; 2024 Fall Audit Committee Member",kind:"No reliable public photo found"},
   {name:"Efe Berk Aydın",roles:"2024 Fall Audit Committee Member",kind:"No reliable public photo found"},
   {name:"Kardelen Helvacıoğlu",roles:"2024 Spring General Secretary",img:"team-photo-review/photos/linkedin_kardelen-helvacioglu.jpg",kind:"LinkedIn profile tied to TED University",source:"https://tr.linkedin.com/in/kardelenhelvacioglu",li:"https://tr.linkedin.com/in/kardelenhelvacioglu"},
-  {name:"Furkan Sümbül",roles:"2024 Spring Audit Committee Chair",kind:"Previous photo candidate rejected; no reliable public photo found",li:"https://tr.linkedin.com/in/furkan-s%C3%BCmb%C3%BCl-481903230"},
+  {name:"Furkan Sümbül",roles:"2024 Spring Audit Committee Chair",img:"team-photo-review/photos/linkedin_furkan-sumbul-colorado.png",kind:"Official University of Colorado Boulder portrait; TEDU identity corroborated",source:"https://www.colorado.edu/polisci/furkan-sumbul",li:"https://www.linkedin.com/pub/dir/Furkan/S%C3%BCmb%C3%BCl"},
   {name:"Dilara Helvacıoğlu",roles:"2024 Spring Audit Committee Member",kind:"No reliable public photo found"},
-  {name:"Eren Memişoğlu",roles:"2024 Spring Audit Committee Member",kind:"Previous photo candidate rejected; no reliable public photo found",li:"https://tr.linkedin.com/in/eren-memisoglu-2b520855"}
+  {name:"Eren Memişoğlu",roles:"2024 Spring Audit Committee Member",img:"team-photo-review/photos/linkedin_eren-memisoglu.jpg",kind:"LinkedIn profile portrait from Eren's TEDU post",source:"https://tr.linkedin.com/posts/eren-memisoglu_denetim-kurulu-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1m-ted-activity-7196789716946472960-YJY9",li:"https://tr.linkedin.com/in/eren-memisoglu"}
 ];
 const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const grid=document.querySelector('#grid');
