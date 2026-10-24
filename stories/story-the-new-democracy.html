@@ -47,7 +47,7 @@
     position: relative;
     z-index: 2;
     height: 100%;
-    padding: 130px 110px 100px 110px;
+    padding: 130px 105px 95px 105px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -60,7 +60,7 @@
     font-weight: 800;
     letter-spacing: -1px;
     line-height: 1.1;
-    margin-bottom: 24px;
+    margin-bottom: 22px;
   }
   .brand-research {
     color: #132b50;
@@ -74,25 +74,24 @@
     align-items: center;
     gap: 12px;
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 2.5px;
     color: #1d4277;
     background: rgba(21, 50, 91, 0.06);
-    padding: 10px 24px;
+    padding: 9px 24px;
     border-radius: 999px;
     width: fit-content;
-    margin-bottom: 30px;
     border: 1.5px solid rgba(21, 50, 91, 0.12);
   }
 
   /* Content Block */
   .content-block {
-    margin: auto 0;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
-    gap: 55px;
+    gap: 46px;
   }
 
   .story-title-wrap {
@@ -102,7 +101,7 @@
   }
 
   .story-title {
-    font-size: 64px;
+    font-size: 62px;
     font-weight: 900;
     color: #132b50;
     line-height: 1.18;
@@ -111,7 +110,7 @@
 
   .story-subtitle {
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 32px;
+    font-size: 31px;
     font-weight: 600;
     color: #556987;
     line-height: 1.35;
@@ -119,7 +118,7 @@
 
   /* Excerpt */
   .story-excerpt {
-    font-size: 38px;
+    font-size: 36px;
     line-height: 1.62;
     color: #132b50;
     font-weight: 400;
@@ -133,17 +132,17 @@
 
   /* Quote Block */
   .quote-box {
-    margin-top: 15px;
-    padding-left: 36px;
+    margin-top: 8px;
+    padding-left: 34px;
     border-left: 6px solid #c83b23;
     display: flex;
     flex-direction: column;
-    gap: 28px;
+    gap: 24px;
   }
 
   .quote-text {
-    font-size: 35px;
-    line-height: 1.55;
+    font-size: 33px;
+    line-height: 1.54;
     font-style: italic;
     color: #132b50;
   }
@@ -154,19 +153,25 @@
   }
 
   .author-name {
-    font-size: 34px;
+    font-size: 33px;
     font-weight: 800;
     color: #132b50;
     letter-spacing: 0.5px;
   }
 
   .author-tag {
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 600;
     color: #64748b;
-    margin-top: 6px;
+    margin-top: 5px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
+  }
+
+  /* Dedicated Link Sticker Zone (Clean empty breathing room for Instagram Link Sticker) */
+  .link-sticker-space {
+    flex: 1;
+    min-height: 280px;
   }
 
   /* Footer Section */
@@ -174,9 +179,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 18px;
+    gap: 16px;
     border-top: 2px solid rgba(19, 43, 80, 0.08);
-    padding-top: 40px;
+    padding-top: 36px;
   }
 
   .footer-brand {
@@ -186,14 +191,14 @@
   }
 
   .footer-logo {
-    width: 64px;
-    height: 64px;
+    width: 62px;
+    height: 62px;
     border-radius: 12px;
   }
 
   .footer-text {
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 800;
     letter-spacing: 1.5px;
     text-transform: uppercase;
@@ -208,7 +213,7 @@
 
   .footer-url {
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: 600;
     color: #64748b;
     letter-spacing: 1px;
@@ -230,7 +235,6 @@
     </defs>
     <path d="M 80 0 C 130 180, 260 310, 380 340 L 380 0 Z" fill="#132b50" />
     <g clip-path="url(#tr-clip)">
-      <!-- Angled Grid Lines -->
       <line x1="0" y1="50" x2="400" y2="250" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
       <line x1="0" y1="120" x2="400" y2="320" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
       <line x1="0" y1="190" x2="400" y2="390" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
@@ -251,7 +255,6 @@
     </defs>
     <path d="M 0 40 C 120 70, 250 200, 300 380 L 0 380 Z" fill="#132b50" />
     <g clip-path="url(#bl-clip)">
-      <!-- Angled Grid Lines -->
       <line x1="-50" y1="100" x2="350" y2="300" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
       <line x1="-50" y1="170" x2="350" y2="370" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
       <line x1="-50" y1="240" x2="350" y2="440" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
@@ -291,10 +294,13 @@
         </div>
         <div class="author-row">
           <div class="author-name">Author: Arda Akgül</div>
-          <div class="author-tag">AI Economies · Working Paper</div>
+          <div class="author-tag">Artificial Intelligence Economies</div>
         </div>
       </div>
     </div>
+
+    <!-- Dedicated Empty Space for Instagram Link Sticker -->
+    <div class="link-sticker-space"></div>
 
     <!-- Footer -->
     <div class="footer-wrap">
