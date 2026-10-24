@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Research Groups - TEDU ERU</title>
+    <meta name="description" content="Explore TED University Economics Research Union's 9 student research groups across regional and applied economics.">
+    <link rel="canonical" href="https://tedueru.github.io/research-groups.html">
+    <meta name="robots" content="index,follow">
+    <meta property="og:title" content="Research Groups - TEDU ERU">
+    <meta property="og:description" content="Explore TED University Economics Research Union's 9 student research groups across regional and applied economics.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tedueru.github.io/research-groups.html">
+    <meta property="og:image" content="https://tedueru.github.io/assets/research-groups/data-academic-studies.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Research Groups - TEDU ERU">
+    <meta name="twitter:description" content="Explore TED University Economics Research Union's 9 student research groups across regional and applied economics.">
+    <meta name="twitter:image" content="https://tedueru.github.io/assets/research-groups/data-academic-studies.jpg">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Research Groups - TEDU ERU",
+        "description": "Explore TED University Economics Research Union's 9 student research groups across regional and applied economics.",
+        "url": "https://tedueru.github.io/research-groups.html",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "TED University Economics Research Union"
+        }
+    }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .rg-filter-bar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: .75rem;
+            flex-wrap: wrap;
+            margin-bottom: 2.5rem;
+        }
+        .rg-filter-btn {
+            background: var(--clr-surface);
+            border: 1px solid var(--clr-border);
+            color: var(--clr-text-secondary);
+            padding: .5rem 1.25rem;
+            border-radius: var(--radius-full);
+            font-size: .875rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all .2s ease;
+        }
+        .rg-filter-btn:hover, .rg-filter-btn.active {
+            background: var(--clr-primary);
+            color: #fff;
+            border-color: var(--clr-primary);
+        }
+        .rg-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+        @media (max-width: 992px) {
+            .rg-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 640px) {
+            .rg-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .rg-card {
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            border-radius: var(--radius);
+            overflow: hidden;
+            background: var(--clr-surface);
+            border: 1px solid var(--clr-border);
+            box-shadow: var(--shadow-sm);
+            transition: transform .3s ease, box-shadow .3s ease;
+        }
+        .rg-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+        }
+        .rg-banner-wrap {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 1000 / 380;
+            overflow: hidden;
+            background: #060b18;
+        }
+        .rg-banner-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            transition: transform .4s ease;
+        }
+        .rg-card:hover .rg-banner-img {
+            transform: scale(1.03);
+        }
+        .rg-banner-zoom {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(0,0,0,0.6);
+            color: #fff;
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity .2s ease;
+            backdrop-filter: blur(4px);
+        }
+        .rg-card:hover .rg-banner-zoom {
+            opacity: 1;
+        }
+        .rg-body {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .rg-meta {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: .5rem;
+            margin-bottom: .5rem;
+        }
+        .rg-code {
+            font-family: monospace;
+            font-size: .75rem;
+            font-weight: 700;
+            color: var(--clr-accent);
+            background: rgba(29, 95, 209, 0.08);
+            padding: .2rem .5rem;
+            border-radius: 4px;
+        }
+        .rg-kicker {
+            font-size: .75rem;
+            color: var(--clr-text-secondary);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: .5px;
+            text-align: right;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .rg-title {
+            font-size: 1.2rem;
+            color: var(--clr-primary);
+            margin-bottom: .6rem;
+            font-weight: 700;
+            line-height: 1.3;
+        }
+        .rg-desc {
+            font-size: .9rem;
+            color: var(--clr-text-secondary);
+            line-height: 1.55;
+            margin-bottom: 1rem;
+            flex-grow: 1;
+        }
+        .rg-topics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: .35rem;
+            margin-bottom: 1.25rem;
+        }
+        .rg-badge {
+            font-size: .75rem;
+            padding: .25rem .6rem;
+            border-radius: var(--radius-full);
+            background: var(--clr-surface-alt);
+            color: var(--clr-text);
+            border: 1px solid var(--clr-border);
+        }
+        .rg-actions {
+            display: flex;
+            align-items: center;
+            gap: .6rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--clr-border);
+        }
+        .btn-wa {
+            flex: 1;
+            background: #25D366;
+            color: #fff;
+            font-size: .825rem;
+            font-weight: 600;
+            padding: .5rem .75rem;
+            border-radius: var(--radius-sm);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: .4rem;
+            text-decoration: none;
+            transition: background .2s ease;
+        }
+        .btn-wa:hover {
+            background: #1eb956;
+            color: #fff;
+        }
+        .btn-outline-sm {
+            background: transparent;
+            border: 1px solid var(--clr-border);
+            color: var(--clr-text);
+            font-size: .825rem;
+            font-weight: 500;
+            padding: .5rem .75rem;
+            border-radius: var(--radius-sm);
+            display: inline-flex;
+            align-items: center;
+            gap: .35rem;
+            text-decoration: none;
+            transition: all .2s ease;
+        }
+        .btn-outline-sm:hover {
+            background: var(--clr-surface-alt);
+            border-color: var(--clr-accent);
+            color: var(--clr-accent);
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar" id="navbar">
+        <div class="nav-inner">
+            <a href="index.html" class="nav-brand"><img src="logo.jpg" alt="TEDU ERU"><span class="nav-brand-text">TED
+                    University<br>Economics Research Union</span></a>
+            <button class="nav-toggle" id="nav-toggle"><i data-lucide="menu"></i></button>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="about.html">About</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="erumag.html">ERUMAG</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="research-groups.html" class="active" style="color:var(--clr-accent);font-weight:600;">Research Groups</a></li>
+                <li><a href="greentalks.html">GreenTalks</a></li>
+                <li><a href="fieldtalks.html">FieldTalks</a></li>
+                <li><a href="team.html">Our Team</a></li>
+                <li><a href="team.html#advisory-board">Advisory Board</a></li>
+                <li><a href="contact.html" class="btn btn-outline">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="page-header page-header-split">
+        <div class="container">
+            <div class="page-header-grid">
+                <div class="page-header-copy">
+                    <p class="section-label">TEDU ERU · Working Groups</p>
+                    <h1>Research Groups</h1>
+                    <p>Student-led research clusters producing empirical commentary, data modeling, working papers, and specialized economic analysis across 9 key thematic and regional domains.</p>
+                    <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-top:1.5rem;">
+                        <a href="#groups-grid" class="btn btn-primary"><i data-lucide="compass" style="width:16px;height:16px;"></i> Grupları Keşfet</a>
+                        <a href="contact.html" class="btn btn-outline"><i data-lucide="send" style="width:16px;height:16px;"></i> Katkıda Bulun</a>
+                    </div>
+                </div>
+                <div class="page-header-media">
+                    <div class="page-header-stack">
+                        <div class="page-header-card">
+                            <p><strong>Uygulamalı &amp; Veri</strong><br>Ekonometri, döngüsel ekonomi ve yapay zeka piyasaları üzerine çalışan gruplar.</p>
+                        </div>
+                        <div class="page-header-card">
+                            <p><strong>Bölgesel Ekonomiler</strong><br>Avrupa, Asya, Afrika, Orta Doğu ve Amerika ekonomileri odaklı bölgesel analizler.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="section bg-white" id="groups-grid">
+        <div class="container">
+            <p class="section-label text-center reveal">Working Paper Series &amp; Articles</p>
+            <h2 class="section-title text-center reveal">9 Araştırma Grubu</h2>
+            <div class="separator reveal"></div>
+            <p class="section-desc reveal" style="text-align:center;max-width:760px;margin:0 auto 2rem;">
+                İlgilendiğiniz araştırma grubunu seçebilir, resmi WhatsApp çalışma grubuna katılarak yazı hazırlama sürecine dahil olabilirsiniz.
+            </p>
+
+            <div class="rg-filter-bar reveal">
+                <button class="rg-filter-btn active" onclick="filterRG('all', this)">Tümü (9)</button>
+                <button class="rg-filter-btn" onclick="filterRG('applied', this)">Uygulamalı &amp; Veri (3)</button>
+                <button class="rg-filter-btn" onclick="filterRG('regional', this)">Bölgesel Ekonomiler (6)</button>
+            </div>
+
+            <div class="rg-grid stagger">
+                
+        <div class="card rg-card" data-cat="applied" id="data-academic-studies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/data-academic-studies.jpg" alt="Data and Academic Studies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/data-academic-studies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-01 // DAS</span>
+                    <span class="rg-kicker">Empirical Research & Econometrics</span>
+                </div>
+                <h3 class="rg-title">Data and Academic Studies</h3>
+                <p class="rg-desc">Econometric modeling, quantitative methodology, statistical analysis, and evidence-based academic research.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Econometrics</span><span class="rg-badge">Statistical Data Science</span><span class="rg-badge">Applied Microeconomics</span><span class="rg-badge">Time Series</span><span class="rg-badge">R / Python</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/EGMARmp4QHkJqsMVJn1vBr" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/data-academic-studies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="applied" id="sustainable-economics">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/sustainable-economics.jpg" alt="Sustainable Economics" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/sustainable-economics.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-02 // SEC</span>
+                    <span class="rg-kicker">Circular Economy & Climate Policy</span>
+                </div>
+                <h3 class="rg-title">Sustainable Economics</h3>
+                <p class="rg-desc">Circular economy frameworks, ESG metrics, climate mitigation finance, and sustainable growth paradigms.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Green Transition</span><span class="rg-badge">ESG Investing</span><span class="rg-badge">Carbon Pricing</span><span class="rg-badge">Renewable Capital</span><span class="rg-badge">Circular Systems</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/CENYiGMpilA2EpIt0hpSJW" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/sustainable-economics.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="applied" id="artificial-intelligence-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/artificial-intelligence-economies.jpg" alt="Artificial Intelligence Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/artificial-intelligence-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-03 // AIE</span>
+                    <span class="rg-kicker">Technology Frontiers & Automation</span>
+                </div>
+                <h3 class="rg-title">Artificial Intelligence Economies</h3>
+                <p class="rg-desc">AI-driven productivity shifts, labor market disruption, algorithmic finance, and high-tech capital dynamics.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Generative AI Impact</span><span class="rg-badge">Labor Automation</span><span class="rg-badge">Tech Market Power</span><span class="rg-badge">AI Capital Flows</span><span class="rg-badge">Algorithmic Pricing</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/BjlhaP2uXFF2vBfmRVHE8D" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/artificial-intelligence-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="asian-australian-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/asian-australian-economies.jpg" alt="Asian-Australian Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/asian-australian-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-04 // AAE</span>
+                    <span class="rg-kicker">Asia-Pacific Trade & Supply Chains</span>
+                </div>
+                <h3 class="rg-title">Asian-Australian Economies</h3>
+                <p class="rg-desc">Indo-Pacific industrial corridors, regional comprehensive partnerships, commodity flows, and manufacturing powerhouses.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">East Asia Growth</span><span class="rg-badge">RCEP Partnerships</span><span class="rg-badge">Australian Commodity Trade</span><span class="rg-badge">Semiconductor Corridors</span><span class="rg-badge">ASEAN</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/HdCw0NKd2JFHG7L0qg2paR" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/asian-australian-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="african-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/african-economies.jpg" alt="African Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/african-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-05 // AFE</span>
+                    <span class="rg-kicker">Development & Monetary Integration</span>
+                </div>
+                <h3 class="rg-title">African Economies</h3>
+                <p class="rg-desc">Regional monetary unions (BCEAO, CEMAC), AfCFTA trade expansion, resource sovereignty, and demographic dividends.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">BCEAO & Eco Currency</span><span class="rg-badge">AfCFTA Integration</span><span class="rg-badge">Demographic Dividends</span><span class="rg-badge">Resource Sovereignty</span><span class="rg-badge">Fintech</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/LZWaGSwGYHkAKgtWNKClKc" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/african-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="european-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/european-economies.jpg" alt="European Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/european-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-06 // EUE</span>
+                    <span class="rg-kicker">Eurozone Architecture & Single Market</span>
+                </div>
+                <h3 class="rg-title">European Economies</h3>
+                <p class="rg-desc">ECB monetary policy, single market dynamics, fiscal compacts, industrial competitiveness, and structural reforms.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">ECB Monetary Policy</span><span class="rg-badge">Fiscal Compacts</span><span class="rg-badge">Industrial Strategy</span><span class="rg-badge">Single Market Dynamics</span><span class="rg-badge">Energy Resilience</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/Br6YbEvX9YE839IHzn6hSo" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/european-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="middle-east-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/middle-east-economies.jpg" alt="Middle East Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/middle-east-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-07 // MEE</span>
+                    <span class="rg-kicker">Sovereign Capital & Energy Transition</span>
+                </div>
+                <h3 class="rg-title">Middle East Economies</h3>
+                <p class="rg-desc">Sovereign wealth funds, post-oil industrial diversification, energy trade geopolitics, and regional integration.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Sovereign Wealth Funds</span><span class="rg-badge">Post-Oil Diversification</span><span class="rg-badge">Energy Geopolitics</span><span class="rg-badge">GCC Trade</span><span class="rg-badge">Regional Finance</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/F5V0XcxYe8BLlrCdC4qBug" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/middle-east-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="latin-america-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/latin-america-economies.jpg" alt="Latin America Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/latin-america-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-08 // LAE</span>
+                    <span class="rg-kicker">Commodity Cycles & Structural Policy</span>
+                </div>
+                <h3 class="rg-title">Latin America Economies</h3>
+                <p class="rg-desc">Commodity price dynamics, inflation-targeting central banks, Mercosur/Pacific trade networks, and structural reform.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Commodity Supercycles</span><span class="rg-badge">Central Bank Autonomy</span><span class="rg-badge">Lithium Triangle</span><span class="rg-badge">Mercosur Integration</span><span class="rg-badge">Structural Reforms</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/HE0xucGpQU2HRC1uZDUk9D" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/latin-america-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="card rg-card" data-cat="regional" id="american-economies">
+            <div class="rg-banner-wrap">
+                <img src="assets/research-groups/american-economies.jpg" alt="American Economies" class="rg-banner-img" loading="lazy">
+                <a href="assets/research-groups/american-economies.jpg" target="_blank" rel="noopener noreferrer" class="rg-banner-zoom" title="Full size banner (1000x380)">
+                    <i data-lucide="maximize-2"></i>
+                </a>
+            </div>
+            <div class="rg-body">
+                <div class="rg-meta">
+                    <span class="rg-code">RG-09 // AME</span>
+                    <span class="rg-kicker">Macroeconomic Policy & Capital Markets</span>
+                </div>
+                <h3 class="rg-title">American Economies</h3>
+                <p class="rg-desc">Federal Reserve monetary policy, Wall Street capital flows, innovation clusters, and hemispheric economic partnerships.</p>
+                <div class="rg-topics">
+                    <span class="rg-badge">Federal Reserve Policy</span><span class="rg-badge">US Debt & Fiscal Policy</span><span class="rg-badge">USMCA Corridors</span><span class="rg-badge">Capital Markets</span><span class="rg-badge">Tech Ecosystems</span>
+                </div>
+                <div class="rg-actions">
+                    <a href="https://chat.whatsapp.com/Bz8BPHxL221I5rxerstHfL" target="_blank" rel="noopener noreferrer" class="btn btn-wa">
+                        <i data-lucide="message-circle"></i> WhatsApp Grubuna Katıl
+                    </a>
+                    <a href="assets/research-groups/american-economies.jpg" target="_blank" rel="noopener noreferrer" class="btn btn-outline-sm" title="1000x380 Banner">
+                        <i data-lucide="image"></i> Banner (HD)
+                    </a>
+                </div>
+            </div>
+        </div>
+            </div>
+
+            <div class="card" style="margin-top:3.5rem;padding:2.5rem;background:linear-gradient(135deg,#0d1c3d,#1b3466);color:#fff;border-radius:var(--radius);text-align:center;">
+                <p class="section-label" style="color:#60a5fa;margin-bottom:.5rem;">Yazı Yayınlama &amp; Katkı</p>
+                <h3 style="font-size:1.6rem;color:#fff;margin-bottom:1rem;">TEDU ERU'da Yazı Yayınlayın</h3>
+                <p style="max-width:680px;margin:0 auto 1.5rem;color:#cbd5e1;line-height:1.6;">
+                    TED University bünyesinde ekonomiye ilgi duyan tüm öğrenciler ve araştırmacılar, bu 9 araştırma grubundan biri kapsamında yazı, analiz veya araştırma notu yayınlayabilir.
+                </p>
+                <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
+                    <a href="contact.html" class="btn" style="background:#fff;color:#0d1c3d;font-weight:700;">Yazı Taslağı Gönder</a>
+                    <a href="blog.html" class="btn btn-outline" style="color:#fff;border-color:rgba(255,255,255,0.4);">Mevcut Blog Yazılarını Oku</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div>
+                    <span class="footer-brand-text">TED University<br>Economics Research Union</span>
+                    <p>Student-led economic research, publishing, and events.</p>
+                </div>
+                <div class="footer-socials">
+                    <a href="https://www.linkedin.com/company/tedueru" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="LinkedIn"><i data-lucide="briefcase-business"></i></a>
+                    <a href="https://www.youtube.com/@TEDUERU" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="YouTube"><i data-lucide="play"></i></a>
+                    <a href="https://www.instagram.com/erutedu/" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram"><i data-lucide="camera"></i></a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="year"></span> TED University Economics Research Union. All rights reserved.</p>
+                <div class="footer-links"><a href="about.html">About</a><a href="contact.html">Contact</a></div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        lucide.createIcons();
+        function filterRG(cat, btn) {
+            document.querySelectorAll('.rg-filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            document.querySelectorAll('.rg-card').forEach(card => {
+                if (cat === 'all' || card.getAttribute('data-cat') === cat) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
