@@ -215,6 +215,29 @@ const groups = [
         <circle cx="380" cy="55" r="5.5" fill="#60a5fa"/>
       </svg>
     `
+  },
+  {
+    id: 'economy-of-turkiye',
+    name: 'Economy of Türkiye',
+    fontSize: '58px',
+    kicker: 'Macroeconomic Dynamics & Structural Policy',
+    desc: 'CBRT monetary policy, disinflation trajectories, fiscal frameworks, industrial exports, and macroeconomic stability in Türkiye.',
+    accent: '#dc2626',
+    accentLight: '#f87171',
+    glow: 'rgba(220, 38, 38, 0.3)',
+    secondaryGlow: 'rgba(245, 158, 11, 0.22)',
+    gradient: 'linear-gradient(145deg, #140407 0%, #290812 50%, #15050a 100%)',
+    pillBg: 'rgba(220, 38, 38, 0.16)',
+    pillBorder: 'rgba(248, 113, 113, 0.45)',
+    svgArt: `
+      <svg viewBox="0 0 400 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%">
+        <path d="M 285 55 A 65 65 0 1 0 340 175 A 54 54 0 1 1 285 55 Z" stroke="rgba(248,113,113,0.3)" stroke-width="1.75" fill="none"/>
+        <circle cx="345" cy="115" r="4" fill="#f87171" opacity="0.85"/>
+        <path d="M40 210 Q 150 140, 240 170 T 380 70" stroke="rgba(245,158,11,0.35)" stroke-width="2" fill="none"/>
+        <circle cx="240" cy="170" r="4.5" fill="#fbbf24"/>
+        <circle cx="380" cy="70" r="5" fill="#f87171"/>
+      </svg>
+    `
   }
 ];
 
