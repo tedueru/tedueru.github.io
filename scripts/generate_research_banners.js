@@ -152,8 +152,8 @@ const groups = [
   },
   {
     id: 'middle-east-economies',
-    name: 'Middle East Economies',
-    fontSize: '52px',
+    name: 'Middle Eastern Economies',
+    fontSize: '50px',
     kicker: 'Sovereign Capital & Energy Transition',
     desc: 'Sovereign wealth funds, post-oil industrial diversification, energy trade geopolitics, and regional integration.',
     accent: '#ca8a04',
@@ -173,8 +173,8 @@ const groups = [
   },
   {
     id: 'latin-america-economies',
-    name: 'Latin America Economies',
-    fontSize: '52px',
+    name: 'Latin American Economies',
+    fontSize: '50px',
     kicker: 'Commodity Cycles & Structural Policy',
     desc: 'Commodity price dynamics, inflation-targeting central banks, Mercosur/Pacific trade networks, and structural reform.',
     accent: '#e11d48',
