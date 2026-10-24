@@ -515,7 +515,19 @@ function buildHtml(group, logoB64) {
 
     const jpgPath = path.join(outDir, `${group.id}.jpg`);
     await page.screenshot({ path: jpgPath, type: 'jpeg', quality: 95 });
-    console.log(`✓ Generated ${group.id}.jpg`);
+    const renderedHeadline = await page.innerText('.headline-script');
+    console.log(`✓ Generated ${group.id}.jpg with headline: "${renderedHeadline}"`);
+
+    if (group.id === 'latin-america-economies') {
+      const aliasPath = path.join(outDir, 'latin-american-economies.jpg');
+      await page.screenshot({ path: aliasPath, type: 'jpeg', quality: 95 });
+      console.log(`✓ Also generated alias latin-american-economies.jpg`);
+    }
+    if (group.id === 'middle-east-economies') {
+      const aliasPath = path.join(outDir, 'middle-eastern-economies.jpg');
+      await page.screenshot({ path: aliasPath, type: 'jpeg', quality: 95 });
+      console.log(`✓ Also generated alias middle-eastern-economies.jpg`);
+    }
   }
 
   await browser.close();
