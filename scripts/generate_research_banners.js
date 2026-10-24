@@ -5,7 +5,6 @@ const path = require('path');
 const groups = [
   {
     id: 'data-academic-studies',
-    code: 'RG-01 // DAS',
     name: 'Data and Academic Studies',
     fontSize: '52px',
     kicker: 'Empirical Research & Econometrics',
@@ -31,7 +30,6 @@ const groups = [
   },
   {
     id: 'sustainable-economics',
-    code: 'RG-02 // SEC',
     name: 'Sustainable Economics',
     fontSize: '56px',
     kicker: 'Circular Economy & Climate Policy',
@@ -54,7 +52,6 @@ const groups = [
   },
   {
     id: 'artificial-intelligence-economies',
-    code: 'RG-03 // AIE',
     name: 'Artificial Intelligence Economies',
     fontSize: '48px',
     kicker: 'Technology Frontiers & Automation',
@@ -83,7 +80,6 @@ const groups = [
   },
   {
     id: 'asian-australian-economies',
-    code: 'RG-04 // AAE',
     name: 'Asian-Australian Economies',
     fontSize: '48px',
     kicker: 'Asia-Pacific Trade & Supply Chains',
@@ -107,7 +103,6 @@ const groups = [
   },
   {
     id: 'african-economies',
-    code: 'RG-05 // AFE',
     name: 'African Economies',
     fontSize: '58px',
     kicker: 'Development & Monetary Integration',
@@ -130,7 +125,6 @@ const groups = [
   },
   {
     id: 'european-economies',
-    code: 'RG-06 // EUE',
     name: 'European Economies',
     fontSize: '56px',
     kicker: 'Eurozone Architecture & Single Market',
@@ -158,7 +152,6 @@ const groups = [
   },
   {
     id: 'middle-east-economies',
-    code: 'RG-07 // MEE',
     name: 'Middle East Economies',
     fontSize: '52px',
     kicker: 'Sovereign Capital & Energy Transition',
@@ -180,7 +173,6 @@ const groups = [
   },
   {
     id: 'latin-america-economies',
-    code: 'RG-08 // LAE',
     name: 'Latin America Economies',
     fontSize: '52px',
     kicker: 'Commodity Cycles & Structural Policy',
@@ -204,7 +196,6 @@ const groups = [
   },
   {
     id: 'american-economies',
-    code: 'RG-09 // AME',
     name: 'American Economies',
     fontSize: '58px',
     kicker: 'Macroeconomic Policy & Capital Markets',
@@ -429,12 +420,11 @@ function buildHtml(group, logoB64) {
       .footer-meta span.active {
         color: #94a3b8;
       }
-      .footer-id {
-        font-family: 'JetBrains Mono', monospace;
+      .footer-brand {
         font-size: 11px;
-        color: #94a3b8;
-        letter-spacing: 1.2px;
-        font-weight: 600;
+        color: #64748b;
+        letter-spacing: 1px;
+        text-transform: uppercase;
       }
     </style>
   </head>
@@ -477,7 +467,7 @@ function buildHtml(group, logoB64) {
           <span>&bull;</span>
           <span>EST. 2024</span>
         </div>
-        <div class="footer-id">${group.code}</div>
+        <div class="footer-brand">TEDU ERU &bull; WORKING GROUPS</div>
       </div>
     </div>
   </body>
@@ -493,7 +483,7 @@ function buildHtml(group, logoB64) {
   const outDir = path.resolve('assets/research-groups');
   fs.mkdirSync(outDir, { recursive: true });
 
-  console.log(`Re-generating slim banners with updated brand text & kicker positioning...`);
+  console.log(`Re-generating slim banners without code IDs...`);
 
   for (const group of groups) {
     const html = buildHtml(group, logoB64);
@@ -506,5 +496,5 @@ function buildHtml(group, logoB64) {
   }
 
   await browser.close();
-  console.log('Finished updating all 9 banners!');
+  console.log('Finished updating all 9 banners without codes!');
 })();
