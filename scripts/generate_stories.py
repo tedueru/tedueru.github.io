@@ -40,7 +40,7 @@ stories = [
         "excerpt_normal": "Rising oil prices are expected to benefit exporters, yet the GCC is projected to contract while oil importers grow. ",
         "excerpt_italic": "The main reason the same shock produced such different outcomes is the capacity of exports to shift to alternative routes.",
         "quote": "An economy's resilience depends less on how many sources of income it has than on whether those sources can all be hit at once from a single point.",
-        "author": "Arda Akgül",
+        "author": "Berin Berra Kökkurtöz",
         "group_tag": "Middle East Economies · 2026 IMF REO"
     }
 ]
