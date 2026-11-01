@@ -31,6 +31,17 @@ stories = [
         "quote": "Over the next three years, the GDP deflator is projected to rise by ~57% while the exchange rate rises by ~47%, implying that the lira remains relatively strong in real terms against domestic prices.",
         "author": "Berra Berin Kökkurtöz",
         "group_tag": "Economy of Türkiye · 2027–2029 MTP"
+    },
+    {
+        "id": "story-hormuz-shock",
+        "group_name": "Middle East Economies",
+        "title": "Why Did the Hormuz Shock Hit the Oil-Rich?",
+        "subtitle": "Route Capacity & Limits of Diversification",
+        "excerpt_normal": "Rising oil prices are expected to benefit exporters, yet the GCC is projected to contract while oil importers grow. ",
+        "excerpt_italic": "The main reason the same shock produced such different outcomes is the capacity of exports to shift to alternative routes.",
+        "quote": "An economy's resilience depends less on how many sources of income it has than on whether those sources can all be hit at once from a single point.",
+        "author": "Arda Akgül",
+        "group_tag": "Middle East Economies · 2026 IMF REO"
     }
 ]
 
@@ -125,20 +136,20 @@ def build_story_html(data):
 
   /* Content Block */
   .content-block {{
-    margin-top: 50px;
+    margin-top: 45px;
     display: flex;
     flex-direction: column;
-    gap: 46px;
+    gap: 42px;
   }}
 
   .story-title-wrap {{
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 14px;
   }}
 
   .story-title {{
-    font-size: 62px;
+    font-size: 58px;
     font-weight: 900;
     color: #132b50;
     line-height: 1.18;
@@ -147,7 +158,7 @@ def build_story_html(data):
 
   .story-subtitle {{
     font-family: 'Plus Jakarta Sans', sans-serif;
-    font-size: 31px;
+    font-size: 30px;
     font-weight: 600;
     color: #556987;
     line-height: 1.35;
@@ -155,8 +166,8 @@ def build_story_html(data):
 
   /* Excerpt */
   .story-excerpt {{
-    font-size: 36px;
-    line-height: 1.62;
+    font-size: 35px;
+    line-height: 1.6;
     color: #132b50;
     font-weight: 400;
   }}
@@ -174,12 +185,12 @@ def build_story_html(data):
     border-left: 6px solid #c83b23;
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 22px;
   }}
 
   .quote-text {{
-    font-size: 33px;
-    line-height: 1.54;
+    font-size: 32px;
+    line-height: 1.52;
     font-style: italic;
     color: #132b50;
   }}
@@ -190,7 +201,7 @@ def build_story_html(data):
   }}
 
   .author-name {{
-    font-size: 33px;
+    font-size: 32px;
     font-weight: 800;
     color: #132b50;
     letter-spacing: 0.5px;
@@ -208,7 +219,7 @@ def build_story_html(data):
   /* Dedicated Link Sticker Zone (Clean empty breathing room for Instagram Link Sticker) */
   .link-sticker-space {{
     flex: 1;
-    min-height: 280px;
+    min-height: 260px;
   }}
 
   /* Footer Section */
